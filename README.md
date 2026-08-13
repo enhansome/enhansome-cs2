@@ -69,7 +69,7 @@
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,334 | 🐛 104 | 🌐 C# | 📅 2026-08-12** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,334 | 🐛 104 | 🌐 C# | 📅 2026-08-13** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
@@ -77,11 +77,11 @@
   *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
   ***Please notice that it's the dev branch that support cs2, make sure you download the right version.***
 
+* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 110 | 🐛 8 | 🌐 C# | 📅 2026-08-08** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
+  *Modern Source 2 Modding Solution.*
+
 * **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 95 | 🐛 3 | 🌐 C# | 📅 2026-08-10** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
-
-* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 92 | 🐛 8 | 🌐 C# | 📅 2026-08-08** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
-  *Modern Source 2 Modding Solution.*
 
 * **[Plugify](https://github.com/untrustedmodders/plugify) ⭐ 82 | 🐛 3 | 🌐 C++ | 📅 2026-08-12** \[[Website](https://plugify.net)] \[[Discord](https://discord.gg/untrustedmodders)]\
   *A modding framework that support tons of programming languages, more information can be found in there discord channel and website.*
@@ -93,23 +93,23 @@ These are the websites with resources that you might need to check during develo
 * **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,641 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
   *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
 
-* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
+* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
   *A list of all cs2 convars, directly dumped from latest cs2 binary.*
 
-* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
+* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
   *A list of all cs2 commands, directly dumped from latest cs2 binary.*
 
 * **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
   *A list of all cs2 game events.*\
   *The data might be outdated, if so, you can find the latest ones here:*\
-  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
-  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
-  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12*
 
-* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
+* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
-* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 933 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
+* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 935 | 🐛 0 | 🌐 Slang | 📅 2026-08-12**\
   *A list of all cs2 protobuf definitions.*
 
 * **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 461 | 🐛 8 | 🌐 C++ | 📅 2026-08-03**\
