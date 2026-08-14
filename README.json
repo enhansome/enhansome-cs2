@@ -5,13 +5,13 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source2ZE/CS2Fixes ⭐ 357 ⏱️ updated 1 day ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+          "title": "Source2ZE/CS2Fixes ⭐ 357 ⏱️ updated 2 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T03:42:33Z",
+            "last_commit": "2026-08-13T23:34:54Z",
             "owner": "Source2ZE",
             "repo": "CS2Fixes",
             "stars": 357
@@ -19,16 +19,16 @@
         },
         {
           "node_type": "item",
-          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 194 ⏱️ updated 2 hours ago KZ plugin for cs2. WIP, not ready for release.",
+          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:06:20Z",
+            "last_commit": "2026-08-14T08:45:01Z",
             "owner": "KZGlobalTeam",
             "repo": "cs2kz-metamod",
-            "stars": 194
+            "stars": 196
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-28T07:52:11Z",
             "owner": "Source2ZE",
             "repo": "MultiAddonManager",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -56,12 +56,12 @@
             "last_commit": "2026-07-22T16:23:06Z",
             "owner": "Source2ZE",
             "repo": "CleanerCS2",
-            "stars": 66
+            "stars": 65
           }
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 4 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
+          "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 5 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -84,7 +84,7 @@
             "last_commit": "2026-07-10T17:20:21Z",
             "owner": "Source2ZE",
             "repo": "ServerListPlayersFix",
-            "stars": 64
+            "stars": 63
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-09T16:32:37Z",
             "owner": "Source2ZE",
             "repo": "StripperCS2",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -249,7 +249,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 2 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -333,7 +333,7 @@
         },
         {
           "node_type": "item",
-          "title": "partiusfabaa/cs2-VIPCore ⭐ 75 ⏱️ updated 6 days ago A vip plugin for cs2.",
+          "title": "partiusfabaa/cs2-VIPCore ⭐ 75 ⏱️ updated 1 week ago A vip plugin for cs2.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -403,7 +403,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 1 day ago A plugin that allows players to instantly defuse the bomb.",
+          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 2 days ago A plugin that allows players to instantly defuse the bomb.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -529,20 +529,6 @@
         },
         {
           "node_type": "item",
-          "title": "darkerz7/EntWatchSharp ⭐ 32 ⏱️ updated 3 weeks ago Notify players about entity interactions.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-16T19:43:59Z",
-            "owner": "darkerz7",
-            "repo": "EntWatchSharp",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
           "title": "oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ ⭐ 32 ⏱️ updated 7 months ago Emit a sound when a player connects or disconnects.",
           "description": null,
           "children": [],
@@ -553,6 +539,20 @@
             "owner": "oqyh",
             "repo": "cs2-Connect-Disconnect-Sound-GoldKingZ",
             "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darkerz7/EntWatchSharp ⭐ 32 ⏱️ updated 4 weeks ago Notify players about entity interactions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T19:43:59Z",
+            "owner": "darkerz7",
+            "repo": "EntWatchSharp",
+            "stars": 31
           }
         },
         {
@@ -683,7 +683,7 @@
         },
         {
           "node_type": "item",
-          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 1 day ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 2 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -697,7 +697,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 1 day ago This plugin allows players to do 1vs1 duel.",
+          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 2 days ago This plugin allows players to do 1vs1 duel.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 1 day ago This plugin detect player who is camping for a specific time.",
+          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 2 days ago This plugin detect player who is camping for a specific time.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -991,7 +991,7 @@
         },
         {
           "node_type": "item",
-          "title": "HvH-gg/RapidFireFix ⭐ 11 ⏱️ updated 9 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
+          "title": "HvH-gg/RapidFireFix ⭐ 11 ⏱️ updated 10 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1019,7 +1019,7 @@
         },
         {
           "node_type": "item",
-          "title": "darkerz7/CS2-EntityFix ⭐ 10 ⏱️ updated 3 weeks ago Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.",
+          "title": "darkerz7/CS2-EntityFix ⭐ 10 ⏱️ updated 4 weeks ago Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1061,7 +1061,7 @@
         },
         {
           "node_type": "item",
-          "title": "darkerz7/CS2-HideTeammates ⭐ 8 ⏱️ updated 3 weeks ago Hides Teammates on the entire map or distance.",
+          "title": "darkerz7/CS2-HideTeammates ⭐ 8 ⏱️ updated 4 weeks ago Hides Teammates on the entire map or distance.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1075,7 +1075,7 @@
         },
         {
           "node_type": "item",
-          "title": "darkerz7/CSSharp-Fixes ⭐ 8 ⏱️ updated 3 weeks ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
+          "title": "darkerz7/CSSharp-Fixes ⭐ 8 ⏱️ updated 4 weeks ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1543,9 +1543,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:12:23.020Z",
+    "last_updated": "2026-08-14T11:09:57.872Z",
     "original_repository": "samyycX/awesome-cs2",
-    "original_repository_sha": "1908e97d974af91cab7c6386b1f248079f46f2b7",
+    "original_repository_sha": "29b4bb9764f3ba1046e97088a11492cb8534b3f6",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
