@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source2ZE/CS2Fixes ⭐ 357 ⏱️ updated 2 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+          "title": "Source2ZE/CS2Fixes ⭐ 357 ⏱️ updated 1 day ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -19,7 +19,7 @@
         },
         {
           "node_type": "item",
-          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
+          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 16 hours ago KZ plugin for cs2. WIP, not ready for release.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -28,12 +28,12 @@
             "last_commit": "2026-08-14T08:45:01Z",
             "owner": "KZGlobalTeam",
             "repo": "cs2kz-metamod",
-            "stars": 196
+            "stars": 195
           }
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/MultiAddonManager ⭐ 128 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+          "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -47,21 +47,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/CleanerCS2 ⭐ 66 ⏱️ updated 3 weeks ago A simple plugin that allows you to filter out console prints with regular expressions.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-22T16:23:06Z",
-            "owner": "Source2ZE",
-            "repo": "CleanerCS2",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 5 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
+          "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 6 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -75,7 +61,21 @@
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/ServerListPlayersFix ⭐ 64 ⏱️ updated 1 month ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+          "title": "Source2ZE/CleanerCS2 ⭐ 65 ⏱️ updated 3 weeks ago A simple plugin that allows you to filter out console prints with regular expressions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T16:23:06Z",
+            "owner": "Source2ZE",
+            "repo": "CleanerCS2",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source2ZE/ServerListPlayersFix ⭐ 63 ⏱️ updated 1 month ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -131,7 +131,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/StripperCS2 ⭐ 52 ⏱️ updated 1 month ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
+          "title": "Source2ZE/StripperCS2 ⭐ 51 ⏱️ updated 1 month ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -249,7 +249,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 2 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 3 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -277,7 +277,7 @@
         },
         {
           "node_type": "item",
-          "title": "counterstrikesharp-panel/css-bans ⭐ 144 ⏱️ updated 2 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
+          "title": "counterstrikesharp-panel/css-bans ⭐ 144 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -347,7 +347,7 @@
         },
         {
           "node_type": "item",
-          "title": "oqyh/cs2-Game-Manager-GoldKingZ ⭐ 73 ⏱️ updated 2 weeks ago Block/Hide unnecessaries in game.",
+          "title": "oqyh/cs2-Game-Manager-GoldKingZ ⭐ 73 ⏱️ updated 3 weeks ago Block/Hide unnecessaries in game.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -403,7 +403,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 2 days ago A plugin that allows players to instantly defuse the bomb.",
+          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 3 days ago A plugin that allows players to instantly defuse the bomb.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -543,7 +543,7 @@
         },
         {
           "node_type": "item",
-          "title": "darkerz7/EntWatchSharp ⭐ 32 ⏱️ updated 4 weeks ago Notify players about entity interactions.",
+          "title": "darkerz7/EntWatchSharp ⭐ 31 ⏱️ updated 4 weeks ago Notify players about entity interactions.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -683,7 +683,7 @@
         },
         {
           "node_type": "item",
-          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 2 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 3 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -697,7 +697,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 2 days ago This plugin allows players to do 1vs1 duel.",
+          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 3 days ago This plugin allows players to do 1vs1 duel.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -711,7 +711,7 @@
         },
         {
           "node_type": "item",
-          "title": "samyycX/CSSharpPatcher ⭐ 19 ⏱️ updated 9 months ago A plugin with various patches for cs2.",
+          "title": "samyycX/CSSharpPatcher ⭐ 19 ⏱️ updated 10 months ago A plugin with various patches for cs2.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -893,7 +893,7 @@
         },
         {
           "node_type": "item",
-          "title": "T3Marius/T3Menu-API ⭐ 14 ⏱️ updated 6 months ago T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.",
+          "title": "T3Marius/T3Menu-API ⭐ 14 ⏱️ updated 7 months ago T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 2 days ago This plugin detect player who is camping for a specific time.",
+          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 3 days ago This plugin detect player who is camping for a specific time.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1543,9 +1543,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:09:57.872Z",
+    "last_updated": "2026-08-15T10:42:06.345Z",
     "original_repository": "samyycX/awesome-cs2",
-    "original_repository_sha": "29b4bb9764f3ba1046e97088a11492cb8534b3f6",
+    "original_repository_sha": "09e74ba6fe5b2b326c37ca979b6d9b22a2016fe6",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
