@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source2ZE/CS2Fixes ⭐ 357 ⏱️ updated 2 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+          "title": "Source2ZE/CS2Fixes ⭐ 358 ⏱️ updated 19 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -14,18 +14,18 @@
             "last_commit": "2026-08-16T06:27:48Z",
             "owner": "Source2ZE",
             "repo": "CS2Fixes",
-            "stars": 357
+            "stars": 359
           }
         },
         {
           "node_type": "item",
-          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
+          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 7 hours ago KZ plugin for cs2. WIP, not ready for release.",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T08:45:01Z",
+            "last_commit": "2026-08-16T17:55:29Z",
             "owner": "KZGlobalTeam",
             "repo": "cs2kz-metamod",
             "stars": 195
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-28T07:52:11Z",
+            "last_commit": "2026-08-17T04:14:04Z",
             "owner": "Source2ZE",
             "repo": "MultiAddonManager",
             "stars": 127
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-10T17:20:21Z",
+            "last_commit": "2026-08-17T03:50:02Z",
             "owner": "Source2ZE",
             "repo": "ServerListPlayersFix",
             "stars": 63
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-19T01:58:18Z",
+            "last_commit": "2026-08-17T04:01:36Z",
             "owner": "Source2ZE",
             "repo": "MovementUnlocker",
             "stars": 60
@@ -173,7 +173,7 @@
         },
         {
           "node_type": "item",
-          "title": "GAMMACASE/Source2SchemaDumper ⭐ 26 ⏱️ updated 2 weeks ago A plugin that can dump the schemas and generate a header file.",
+          "title": "GAMMACASE/Source2SchemaDumper ⭐ 26 ⏱️ updated 3 weeks ago A plugin that can dump the schemas and generate a header file.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -249,7 +249,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 4 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 5 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -277,7 +277,7 @@
         },
         {
           "node_type": "item",
-          "title": "counterstrikesharp-panel/css-bans ⭐ 144 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
+          "title": "counterstrikesharp-panel/css-bans ⭐ 145 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -286,7 +286,7 @@
             "last_commit": "2026-05-16T13:16:21Z",
             "owner": "counterstrikesharp-panel",
             "repo": "css-bans",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -319,7 +319,7 @@
         },
         {
           "node_type": "item",
-          "title": "NiGHT757/AFKManager ⭐ 84 ⏱️ updated 10 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
+          "title": "NiGHT757/AFKManager ⭐ 84 ⏱️ updated 11 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -403,7 +403,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 4 days ago A plugin that allows players to instantly defuse the bomb.",
+          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 5 days ago A plugin that allows players to instantly defuse the bomb.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -487,7 +487,7 @@
         },
         {
           "node_type": "item",
-          "title": "zwolof/cs2-executes ⭐ 37 ⏱️ updated 9 months ago CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+          "title": "zwolof/cs2-executes ⭐ 37 ⏱️ updated 10 months ago CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -497,20 +497,6 @@
             "owner": "zwolof",
             "repo": "cs2-executes",
             "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "schwarper/CS2TraceRay ⭐ 36 ⏱️ updated 4 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-03-24T22:56:11Z",
-            "owner": "schwarper",
-            "repo": "CS2TraceRay",
-            "stars": 36
           }
         },
         {
@@ -525,6 +511,20 @@
             "owner": "HvH-gg",
             "repo": "CS2-Essentials",
             "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schwarper/CS2TraceRay ⭐ 36 ⏱️ updated 4 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-24T22:56:11Z",
+            "owner": "schwarper",
+            "repo": "CS2TraceRay",
+            "stars": 35
           }
         },
         {
@@ -683,7 +683,7 @@
         },
         {
           "node_type": "item",
-          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 4 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 5 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -697,7 +697,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 4 days ago This plugin allows players to do 1vs1 duel.",
+          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 5 days ago This plugin allows players to do 1vs1 duel.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -935,7 +935,7 @@
         },
         {
           "node_type": "item",
-          "title": "schwarper/cs2-store ⭐ 13 ⏱️ updated 3 weeks ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
+          "title": "schwarper/cs2-store ⭐ 13 ⏱️ updated 4 weeks ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 4 days ago This plugin detect player who is camping for a specific time.",
+          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 5 days ago This plugin detect player who is camping for a specific time.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1543,9 +1543,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:42:22.344Z",
+    "last_updated": "2026-08-17T10:49:26.950Z",
     "original_repository": "samyycX/awesome-cs2",
-    "original_repository_sha": "84679f0e8eeccce18111059791f0dfc39646b7df",
+    "original_repository_sha": "57b0df69dedf5f0ce94e93ffbbb8c278693754f5",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
