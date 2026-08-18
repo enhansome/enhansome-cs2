@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source2ZE/CS2Fixes ⭐ 358 ⏱️ updated 19 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+          "title": "Source2ZE/CS2Fixes ⭐ 359 ⏱️ updated 1 day ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -19,21 +19,21 @@
         },
         {
           "node_type": "item",
-          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 7 hours ago KZ plugin for cs2. WIP, not ready for release.",
+          "title": "KZGlobalTeam/cs2kz-metamod ⭐ 194 ⏱️ updated 4 hours ago KZ plugin for cs2. WIP, not ready for release.",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T17:55:29Z",
+            "last_commit": "2026-08-18T02:02:48Z",
             "owner": "KZGlobalTeam",
             "repo": "cs2kz-metamod",
-            "stars": 195
+            "stars": 194
           }
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+          "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 21 hours ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-22T16:23:06Z",
+            "last_commit": "2026-08-18T06:56:37Z",
             "owner": "Source2ZE",
             "repo": "CleanerCS2",
             "stars": 65
@@ -75,7 +75,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/ServerListPlayersFix ⭐ 63 ⏱️ updated 1 month ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+          "title": "Source2ZE/ServerListPlayersFix ⭐ 63 ⏱️ updated 21 hours ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -103,7 +103,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source2ZE/MovementUnlocker ⭐ 60 ⏱️ updated 2 months ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
+          "title": "Source2ZE/MovementUnlocker ⭐ 60 ⏱️ updated 21 hours ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -201,7 +201,7 @@
         },
         {
           "node_type": "item",
-          "title": "samyycX/Audio ⭐ 17 ⏱️ updated 11 months ago A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.",
+          "title": "samyycX/Audio ⭐ 17 ⏱️ updated 12 months ago A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -221,7 +221,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "shobhit-pathak/MatchZy ⭐ 484 ⏱️ updated 9 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
+          "title": "shobhit-pathak/MatchZy ⭐ 483 ⏱️ updated 9 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
           "description": null,
           "children": [],
           "repo_info": {
@@ -230,12 +230,12 @@
             "last_commit": "2025-10-25T20:01:37Z",
             "owner": "shobhit-pathak",
             "repo": "MatchZy",
-            "stars": 484
+            "stars": 483
           }
         },
         {
           "node_type": "item",
-          "title": "Nereziel/cs2-WeaponPaints ⭐ 406 ⏱️ updated 2 weeks ago A plugin to change weapon paints, gloves, agents and etc.",
+          "title": "Nereziel/cs2-WeaponPaints ⭐ 406 ⏱️ updated 3 weeks ago A plugin to change weapon paints, gloves, agents and etc.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -249,7 +249,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 5 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+          "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 6 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -403,7 +403,7 @@
         },
         {
           "node_type": "item",
-          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 5 days ago A plugin that allows players to instantly defuse the bomb.",
+          "title": "B3none/cs2-instadefuse ⭐ 65 ⏱️ updated 6 days ago A plugin that allows players to instantly defuse the bomb.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -459,7 +459,7 @@
         },
         {
           "node_type": "item",
-          "title": "schwarper/CS2MenuManager ⭐ 48 ⏱️ updated 4 weeks ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
+          "title": "schwarper/CS2MenuManager ⭐ 48 ⏱️ updated 1 month ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "schwarper/CS2TraceRay ⭐ 36 ⏱️ updated 4 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
+          "title": "schwarper/CS2TraceRay ⭐ 35 ⏱️ updated 4 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -683,7 +683,7 @@
         },
         {
           "node_type": "item",
-          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 5 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+          "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 6 days ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -697,7 +697,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 5 days ago This plugin allows players to do 1vs1 duel.",
+          "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 6 days ago This plugin allows players to do 1vs1 duel.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
         },
         {
           "node_type": "item",
-          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 5 days ago This plugin detect player who is camping for a specific time.",
+          "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 6 days ago This plugin detect player who is camping for a specific time.",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1543,9 +1543,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:49:26.950Z",
+    "last_updated": "2026-08-18T10:48:32.715Z",
     "original_repository": "samyycX/awesome-cs2",
-    "original_repository_sha": "57b0df69dedf5f0ce94e93ffbbb8c278693754f5",
+    "original_repository_sha": "612bcbbbe21e050f232492428a58e24e5a71ab61",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
