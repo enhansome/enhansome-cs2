@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T21:35:33Z",
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3295
+            "stars": 3296
           }
         },
         {
@@ -1922,8 +1922,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:48:10.840Z",
+    "last_updated": "2026-08-19T12:23:33.578Z",
     "original_repository": "samyycX/awesome-cs2",
+    "original_repository_id": 1044894376,
     "original_repository_sha": "bdd1203df67be7ddf28b518707faea03a4610407",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,

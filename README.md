@@ -44,7 +44,7 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,295 | 🐛 59 | 🌐 C# | 📅 2026-08-17**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,296 | 🐛 59 | 🌐 C# | 📅 2026-08-17**\
   *A tool to download game files of a specific version.*
 
 * **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
