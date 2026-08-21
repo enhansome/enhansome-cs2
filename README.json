@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T21:35:33Z",
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3298
+            "stars": 3300
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 700750483,
             "language": "C#",
-            "last_commit": "2026-08-20T08:16:14Z",
+            "last_commit": "2026-08-21T08:16:14Z",
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
             "stars": 1335
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 981085694,
             "language": "C#",
-            "last_commit": "2026-08-18T08:09:54Z",
+            "last_commit": "2026-08-21T03:30:26Z",
             "owner": "Kxnrl",
             "repo": "modsharp-public",
             "stars": 112
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1036227312,
             "language": "C#",
-            "last_commit": "2026-08-20T09:47:16Z",
+            "last_commit": "2026-08-20T21:10:27Z",
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
             "stars": 97
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 343620765,
             "language": "C++",
-            "last_commit": "2026-08-18T15:33:53Z",
+            "last_commit": "2026-08-20T11:13:34Z",
             "owner": "Wend4r",
             "repo": "sourcesdk",
             "stars": 40
@@ -280,37 +280,37 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source2ZE/CS2Fixes ⭐ 359 ⏱️ updated 1 hour ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "title": "Source2ZE/CS2Fixes ⭐ 359 ⏱️ updated 2 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 695646152,
                 "language": "C++",
-                "last_commit": "2026-08-20T00:29:36Z",
+                "last_commit": "2026-08-20T23:44:14Z",
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
-                "stars": 359
+                "stars": 360
               }
             },
             {
               "node_type": "item",
-              "title": "KZGlobalTeam/cs2kz-metamod ⭐ 194 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
+              "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 4 hours ago KZ plugin for cs2. WIP, not ready for release.",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 700560333,
                 "language": "C++",
-                "last_commit": "2026-08-20T02:10:21Z",
+                "last_commit": "2026-08-21T02:43:00Z",
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
-                "stars": 194
+                "stars": 195
               }
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 1 day ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+              "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 2 days ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -325,7 +325,7 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 19 hours ago A plugin that shows entities, net messages, events and etc with a GUI.",
+              "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 1 day ago A plugin that shows entities, net messages, events and etc with a GUI.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -340,7 +340,7 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/CleanerCS2 ⭐ 65 ⏱️ updated 1 day ago A simple plugin that allows you to filter out console prints with regular expressions.",
+              "title": "Source2ZE/CleanerCS2 ⭐ 65 ⏱️ updated 2 days ago A simple plugin that allows you to filter out console prints with regular expressions.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -355,7 +355,7 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/ServerListPlayersFix ⭐ 63 ⏱️ updated 2 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+              "title": "Source2ZE/ServerListPlayersFix ⭐ 63 ⏱️ updated 3 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -385,7 +385,7 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/MovementUnlocker ⭐ 60 ⏱️ updated 2 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
+              "title": "Source2ZE/MovementUnlocker ⭐ 60 ⏱️ updated 3 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -395,7 +395,7 @@
                 "last_commit": "2026-08-17T04:01:36Z",
                 "owner": "Source2ZE",
                 "repo": "MovementUnlocker",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -445,7 +445,7 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/AcceleratorCS2 ⭐ 31 ⏱️ updated 3 months ago A plugin that generate a crash dump when there's a crash.",
+              "title": "Source2ZE/AcceleratorCS2 ⭐ 31 ⏱️ updated 4 months ago A plugin that generate a crash dump when there's a crash.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -542,7 +542,7 @@
             },
             {
               "node_type": "item",
-              "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 6 hours ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "title": "B3none/cs2-retakes ⭐ 312 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -632,7 +632,7 @@
             },
             {
               "node_type": "item",
-              "title": "partiusfabaa/cs2-VIPCore ⭐ 75 ⏱️ updated 1 week ago A vip plugin for cs2.",
+              "title": "partiusfabaa/cs2-VIPCore ⭐ 75 ⏱️ updated 2 weeks ago A vip plugin for cs2.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1727,7 +1727,7 @@
             },
             {
               "node_type": "item",
-              "title": "Austinbots/cs2-BotsNoKnife ⭐ 2 ⏱️ updated 11 months ago Strips knife from bots.",
+              "title": "Austinbots/cs2-BotsNoKnife ⭐ 2 ⏱️ updated 12 months ago Strips knife from bots.",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1922,10 +1922,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:49:40.769Z",
+    "last_updated": "2026-08-21T10:50:04.748Z",
     "original_repository": "samyycX/awesome-cs2",
     "original_repository_id": 1044894376,
-    "original_repository_sha": "ac4ab70ac67349277818580aea61c633214d6ab5",
+    "original_repository_sha": "cc0e29cfe50d4c74c836df2df44565b9eebe6dcf",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
