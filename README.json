@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "DepotDownloaderA tool to download game files of a specific version.",
-          "description": null,
+          "title": "DepotDownloader",
+          "description": "A tool to download game files of a specific version.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-08-17T21:35:33Z",
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3306
+            "stars": 3308
           }
         },
         {
           "node_type": "item",
-          "title": "VPulse EditorA visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.",
-          "description": null,
+          "title": "VPulse Editor",
+          "description": "A visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "Schema DumperA metamod plugin for dumping schemas from game binary, and also able to generate a header file that can be imported in IDA for reverse engineering.",
-          "description": null,
+          "title": "Schema Dumper",
+          "description": "A metamod plugin for dumping schemas from game binary, and also able to generate a header file that can be imported in IDA for reverse engineering.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "PltPatcherA IDA python plugin to patch plt sections when IDA fails to do so automatically, you might encounter such problem when decompiling linux binaries, made by GAMMACASE.",
-          "description": null,
+          "title": "PltPatcher",
+          "description": "A IDA python plugin to patch plt sections when IDA fails to do so automatically, you might encounter such problem when decompiling linux binaries, made by GAMMACASE.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -71,14 +71,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "CounterStrikeSharp [Website",
-          "description": "] [Discord]The most popular modding framework for cs2, the plugins are written in c#.Alias: CS#, cssharp",
+          "title": "CounterStrikeSharp",
+          "description": "[Website] [Discord]The most popular modding framework for cs2, the plugins are written in c#.Alias: CS#, cssharp",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 700750483,
             "language": "C#",
-            "last_commit": "2026-08-24T08:19:49Z",
+            "last_commit": "2026-08-24T13:33:54Z",
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
             "stars": 1334
@@ -86,8 +86,8 @@
         },
         {
           "node_type": "item",
-          "title": "Metamod [Website",
-          "description": "] [Discord]The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.Please notice that it's the dev branch that support cs2, make sure you download the right version.",
+          "title": "Metamod",
+          "description": "[Website] [Discord]The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.Please notice that it's the dev branch that support cs2, make sure you download the right version.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,8 +101,8 @@
         },
         {
           "node_type": "item",
-          "title": "Modsharp [Website",
-          "description": "] [Discord] Modern Source 2 Modding Solution.",
+          "title": "Modsharp",
+          "description": "[Website] [Discord] Modern Source 2 Modding Solution.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,8 +116,8 @@
         },
         {
           "node_type": "item",
-          "title": "SwiftlyS2 [Website",
-          "description": "] [Discord]A modding framework that support c#, with more features than counterstrikesharp.",
+          "title": "SwiftlyS2",
+          "description": "[Website] [Discord]A modding framework that support c#, with more features than counterstrikesharp.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "Plugify [Website",
-          "description": "] [Discord]A modding framework that support tons of programming languages, more information can be found in there discord channel and website.",
+          "title": "Plugify",
+          "description": "[Website] [Discord]A modding framework that support tons of programming languages, more information can be found in there discord channel and website.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -152,8 +152,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "cstrike15_srcCSGO Leaked source code in 2020, cs2 is still using some codes from it.",
-          "description": null,
+          "title": "cstrike15_src",
+          "description": "CSGO Leaked source code in 2020, cs2 is still using some codes from it.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -167,8 +167,8 @@
         },
         {
           "node_type": "item",
-          "title": "ConVarsA list of all cs2 convars, directly dumped from latest cs2 binary.",
-          "description": null,
+          "title": "ConVars",
+          "description": "A list of all cs2 convars, directly dumped from latest cs2 binary.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,8 +182,8 @@
         },
         {
           "node_type": "item",
-          "title": "CommandsA list of all cs2 commands, directly dumped from latest cs2 binary.",
-          "description": null,
+          "title": "Commands",
+          "description": "A list of all cs2 commands, directly dumped from latest cs2 binary.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -197,8 +197,8 @@
         },
         {
           "node_type": "item",
-          "title": "Game EventsA list of all cs2 game events.The data might be outdated, if so, you can find the latest ones here:core.gameevents game.gameevents mod.gameevents",
-          "description": null,
+          "title": "Game Events",
+          "description": "A list of all cs2 game events.The data might be outdated, if so, you can find the latest ones here:core.gameevents game.gameevents mod.gameevents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,8 +212,8 @@
         },
         {
           "node_type": "item",
-          "title": "SchemasA list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.",
-          "description": null,
+          "title": "Schemas",
+          "description": "A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,8 +227,8 @@
         },
         {
           "node_type": "item",
-          "title": "ProtobufsA list of all cs2 protobuf definitions.",
-          "description": null,
+          "title": "Protobufs",
+          "description": "A list of all cs2 protobuf definitions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,8 +242,8 @@
         },
         {
           "node_type": "item",
-          "title": "HL2SDKActively maintained SDK for cs2.",
-          "description": null,
+          "title": "HL2SDK",
+          "description": "Actively maintained SDK for cs2.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,8 +257,8 @@
         },
         {
           "node_type": "item",
-          "title": "HL2SDK Wend4r's forkA fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.",
-          "description": null,
+          "title": "HL2SDK Wend4r's fork",
+          "description": "A fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,8 +280,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source2ZE/CS2Fixes ⭐ 360 ⏱️ updated 3 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
-              "description": null,
+              "title": "Source2ZE/CS2Fixes",
+              "description": "⭐ 360 ⏱️ updated 3 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,8 +295,8 @@
             },
             {
               "node_type": "item",
-              "title": "KZGlobalTeam/cs2kz-metamod ⭐ 195 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
-              "description": null,
+              "title": "KZGlobalTeam/cs2kz-metamod",
+              "description": "⭐ 195 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,8 +310,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/MultiAddonManager ⭐ 127 ⏱️ updated 5 days ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
-              "description": null,
+              "title": "Source2ZE/MultiAddonManager",
+              "description": "⭐ 127 ⏱️ updated 5 days ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,8 +325,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/CS2ServerGUI ⭐ 65 ⏱️ updated 4 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
-              "description": null,
+              "title": "Source2ZE/CS2ServerGUI",
+              "description": "⭐ 65 ⏱️ updated 4 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -340,8 +340,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/CleanerCS2 ⭐ 65 ⏱️ updated 5 days ago A simple plugin that allows you to filter out console prints with regular expressions.",
-              "description": null,
+              "title": "Source2ZE/CleanerCS2",
+              "description": "⭐ 65 ⏱️ updated 5 days ago A simple plugin that allows you to filter out console prints with regular expressions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,8 +355,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/ServerListPlayersFix ⭐ 64 ⏱️ updated 6 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
-              "description": null,
+              "title": "Source2ZE/ServerListPlayersFix",
+              "description": "⭐ 64 ⏱️ updated 6 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,8 +370,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/MovementUnlocker ⭐ 62 ⏱️ updated 6 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
-              "description": null,
+              "title": "Source2ZE/MovementUnlocker",
+              "description": "⭐ 62 ⏱️ updated 6 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,8 +385,8 @@
             },
             {
               "node_type": "item",
-              "title": "Salvatore-Als/cs2-fake-rcon ⭐ 62 ⏱️ updated 1 month ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
-              "description": null,
+              "title": "Salvatore-Als/cs2-fake-rcon",
+              "description": "⭐ 62 ⏱️ updated 1 month ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -400,8 +400,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cruze03/FakeRanks-RevealAll ⭐ 53 ⏱️ updated 1 month ago A metamod plugin that reveals ranks of all players in server for player who presses tab.",
-              "description": null,
+              "title": "Cruze03/FakeRanks-RevealAll",
+              "description": "⭐ 53 ⏱️ updated 1 month ago A metamod plugin that reveals ranks of all players in server for player who presses tab.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -415,8 +415,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/StripperCS2 ⭐ 51 ⏱️ updated 1 month ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
-              "description": null,
+              "title": "Source2ZE/StripperCS2",
+              "description": "⭐ 51 ⏱️ updated 1 month ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -430,8 +430,8 @@
             },
             {
               "node_type": "item",
-              "title": "Interesting-exe/CS2Fixes-RampbugFix ⭐ 37 ⏱️ updated 3 months ago Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.",
-              "description": null,
+              "title": "Interesting-exe/CS2Fixes-RampbugFix",
+              "description": "⭐ 37 ⏱️ updated 3 months ago Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,8 +445,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/AcceleratorCS2 ⭐ 31 ⏱️ updated 4 months ago A plugin that generate a crash dump when there's a crash.",
-              "description": null,
+              "title": "Source2ZE/AcceleratorCS2",
+              "description": "⭐ 31 ⏱️ updated 4 months ago A plugin that generate a crash dump when there's a crash.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,8 +460,8 @@
             },
             {
               "node_type": "item",
-              "title": "GAMMACASE/Source2SchemaDumper ⭐ 26 ⏱️ updated 4 weeks ago A plugin that can dump the schemas and generate a header file.",
-              "description": null,
+              "title": "GAMMACASE/Source2SchemaDumper",
+              "description": "⭐ 26 ⏱️ updated 4 weeks ago A plugin that can dump the schemas and generate a header file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,8 +475,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cruze03/GameBanFix ⭐ 19 ⏱️ updated 1 month ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
-              "description": null,
+              "title": "Cruze03/GameBanFix",
+              "description": "⭐ 19 ⏱️ updated 1 month ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,8 +490,8 @@
             },
             {
               "node_type": "item",
-              "title": "samyycX/Audio ⭐ 17 ⏱️ updated 1 year ago A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.",
-              "description": null,
+              "title": "samyycX/Audio",
+              "description": "⭐ 17 ⏱️ updated 1 year ago A demo and a metamod lib to provide similar functions to the previous SM-Ext-Audio extension in csgo, that is, sending custom audio streams such as a song through a bot's voice chat.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,8 +512,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "shobhit-pathak/MatchZy ⭐ 486 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
-              "description": null,
+              "title": "shobhit-pathak/MatchZy",
+              "description": "⭐ 486 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,8 +527,8 @@
             },
             {
               "node_type": "item",
-              "title": "Nereziel/cs2-WeaponPaints ⭐ 407 ⏱️ updated 3 weeks ago A plugin to change weapon paints, gloves, agents and etc.",
-              "description": null,
+              "title": "Nereziel/cs2-WeaponPaints",
+              "description": "⭐ 407 ⏱️ updated 3 weeks ago A plugin to change weapon paints, gloves, agents and etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -542,8 +542,8 @@
             },
             {
               "node_type": "item",
-              "title": "B3none/cs2-retakes ⭐ 314 ⏱️ updated 4 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
-              "description": null,
+              "title": "B3none/cs2-retakes",
+              "description": "⭐ 314 ⏱️ updated 4 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,8 +557,8 @@
             },
             {
               "node_type": "item",
-              "title": "daffyyyy/CS2-SimpleAdmin ⭐ 185 ⏱️ updated 1 month ago Manage your Counter-Strike 2 server with simple commands!",
-              "description": null,
+              "title": "daffyyyy/CS2-SimpleAdmin",
+              "description": "⭐ 185 ⏱️ updated 1 month ago Manage your Counter-Strike 2 server with simple commands!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -572,8 +572,8 @@
             },
             {
               "node_type": "item",
-              "title": "counterstrikesharp-panel/css-bans ⭐ 145 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
-              "description": null,
+              "title": "counterstrikesharp-panel/css-bans",
+              "description": "⭐ 145 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,8 +587,8 @@
             },
             {
               "node_type": "item",
-              "title": "samyycX/CS2-PlayerModelChanger ⭐ 138 ⏱️ updated 11 months ago A cssharp plugin to change player models.",
-              "description": null,
+              "title": "samyycX/CS2-PlayerModelChanger",
+              "description": "⭐ 138 ⏱️ updated 11 months ago A cssharp plugin to change player models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -602,8 +602,8 @@
             },
             {
               "node_type": "item",
-              "title": "NockyCZ/CS2-Deathmatch ⭐ 125 ⏱️ updated 2 weeks ago A plugin to implement deathmatch gamemode.",
-              "description": null,
+              "title": "NockyCZ/CS2-Deathmatch",
+              "description": "⭐ 125 ⏱️ updated 2 weeks ago A plugin to implement deathmatch gamemode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -617,8 +617,8 @@
             },
             {
               "node_type": "item",
-              "title": "NiGHT757/AFKManager ⭐ 84 ⏱️ updated 11 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
-              "description": null,
+              "title": "NiGHT757/AFKManager",
+              "description": "⭐ 84 ⏱️ updated 11 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -632,8 +632,8 @@
             },
             {
               "node_type": "item",
-              "title": "partiusfabaa/cs2-VIPCore ⭐ 75 ⏱️ updated 2 weeks ago A vip plugin for cs2.",
-              "description": null,
+              "title": "partiusfabaa/cs2-VIPCore",
+              "description": "⭐ 75 ⏱️ updated 2 weeks ago A vip plugin for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,8 +647,8 @@
             },
             {
               "node_type": "item",
-              "title": "oqyh/cs2-Game-Manager-GoldKingZ ⭐ 73 ⏱️ updated 1 month ago Block/Hide unnecessaries in game.",
-              "description": null,
+              "title": "oqyh/cs2-Game-Manager-GoldKingZ",
+              "description": "⭐ 73 ⏱️ updated 1 month ago Block/Hide unnecessaries in game.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -662,8 +662,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cruze03/FortniteEmotesNDances ⭐ 71 ⏱️ updated 4 months ago This plugin allows players to use Emotes & Dances just like Fortnite.",
-              "description": null,
+              "title": "Cruze03/FortniteEmotesNDances",
+              "description": "⭐ 71 ⏱️ updated 4 months ago This plugin allows players to use Emotes & Dances just like Fortnite.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,8 +677,8 @@
             },
             {
               "node_type": "item",
-              "title": "partiusfabaa/cs2-ranks ⭐ 68 ⏱️ updated 1 year ago Each player is assigned a rank based on their accumulated experience points. Ranks range from \"None\" to the prestigious \"The Global Elite.\"",
-              "description": null,
+              "title": "partiusfabaa/cs2-ranks",
+              "description": "⭐ 68 ⏱️ updated 1 year ago Each player is assigned a rank based on their accumulated experience points. Ranks range from \"None\" to the prestigious \"The Global Elite.\"",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,8 +692,8 @@
             },
             {
               "node_type": "item",
-              "title": "B3none/cs2-instadefuse ⭐ 66 ⏱️ updated 1 week ago A plugin that allows players to instantly defuse the bomb.",
-              "description": null,
+              "title": "B3none/cs2-instadefuse",
+              "description": "⭐ 66 ⏱️ updated 1 week ago A plugin that allows players to instantly defuse the bomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -707,8 +707,8 @@
             },
             {
               "node_type": "item",
-              "title": "Oz-Lin/cs2-rockthevote ⭐ 65 ⏱️ updated 11 months ago General purpose map voting plugin, started as a simple RTV and now has more features.",
-              "description": null,
+              "title": "Oz-Lin/cs2-rockthevote",
+              "description": "⭐ 65 ⏱️ updated 11 months ago General purpose map voting plugin, started as a simple RTV and now has more features.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,8 +722,8 @@
             },
             {
               "node_type": "item",
-              "title": "Lan2Play/PugSharp ⭐ 61 ⏱️ updated 6 months ago Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.",
-              "description": null,
+              "title": "Lan2Play/PugSharp",
+              "description": "⭐ 61 ⏱️ updated 6 months ago Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,8 +737,8 @@
             },
             {
               "node_type": "item",
-              "title": "daffyyyy/CS2-Tags ⭐ 60 ⏱️ updated 10 months ago Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.",
-              "description": null,
+              "title": "daffyyyy/CS2-Tags",
+              "description": "⭐ 60 ⏱️ updated 10 months ago Adds tags to the server that can be easily edited, tags can be assigned via permission or steamid64.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,8 +752,8 @@
             },
             {
               "node_type": "item",
-              "title": "CounterStrike2-Plugins-Archive/cs2-tags ⭐ 52 ⏱️ updated 1 year ago A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.",
-              "description": null,
+              "title": "CounterStrike2-Plugins-Archive/cs2-tags",
+              "description": "⭐ 52 ⏱️ updated 1 year ago A tag plugin designed to enhance your CS2 experience with a dynamic tagging system. Customise and manage player tags effortlessly for a more interactive and engaging game environment.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -767,8 +767,8 @@
             },
             {
               "node_type": "item",
-              "title": "schwarper/CS2MenuManager ⭐ 48 ⏱️ updated 1 month ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
-              "description": null,
+              "title": "schwarper/CS2MenuManager",
+              "description": "⭐ 48 ⏱️ updated 1 month ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -782,8 +782,8 @@
             },
             {
               "node_type": "item",
-              "title": "KillStr3aK/ResourcePrecacher ⭐ 45 ⏱️ updated 1 year ago This plugin can precache custom resources.",
-              "description": null,
+              "title": "KillStr3aK/ResourcePrecacher",
+              "description": "⭐ 45 ⏱️ updated 1 year ago This plugin can precache custom resources.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -797,8 +797,8 @@
             },
             {
               "node_type": "item",
-              "title": "zwolof/cs2-executes ⭐ 37 ⏱️ updated 10 months ago CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
-              "description": null,
+              "title": "zwolof/cs2-executes",
+              "description": "⭐ 37 ⏱️ updated 10 months ago CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -812,8 +812,8 @@
             },
             {
               "node_type": "item",
-              "title": "HvH-gg/CS2-Essentials ⭐ 36 ⏱️ updated 6 months ago It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.",
-              "description": null,
+              "title": "HvH-gg/CS2-Essentials",
+              "description": "⭐ 36 ⏱️ updated 6 months ago It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,8 +827,8 @@
             },
             {
               "node_type": "item",
-              "title": "schwarper/CS2TraceRay ⭐ 35 ⏱️ updated 5 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
-              "description": null,
+              "title": "schwarper/CS2TraceRay",
+              "description": "⭐ 35 ⏱️ updated 5 months ago A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -842,8 +842,8 @@
             },
             {
               "node_type": "item",
-              "title": "oqyh/cs2-Chat-Logger-GoldKingZ ⭐ 32 ⏱️ updated 1 year ago Log chat to local/discord webhook/mysql/web server.",
-              "description": null,
+              "title": "oqyh/cs2-Chat-Logger-GoldKingZ",
+              "description": "⭐ 32 ⏱️ updated 1 year ago Log chat to local/discord webhook/mysql/web server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -857,8 +857,8 @@
             },
             {
               "node_type": "item",
-              "title": "oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ ⭐ 32 ⏱️ updated 7 months ago Emit a sound when a player connects or disconnects.",
-              "description": null,
+              "title": "oqyh/cs2-Connect-Disconnect-Sound-GoldKingZ",
+              "description": "⭐ 32 ⏱️ updated 7 months ago Emit a sound when a player connects or disconnects.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,8 +872,8 @@
             },
             {
               "node_type": "item",
-              "title": "darkerz7/EntWatchSharp ⭐ 31 ⏱️ updated 1 month ago Notify players about entity interactions.",
-              "description": null,
+              "title": "darkerz7/EntWatchSharp",
+              "description": "⭐ 31 ⏱️ updated 1 month ago Notify players about entity interactions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -887,8 +887,8 @@
             },
             {
               "node_type": "item",
-              "title": "ssypchenko/cs2-gungame ⭐ 30 ⏱️ updated 1 month ago GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.",
-              "description": null,
+              "title": "ssypchenko/cs2-gungame",
+              "description": "⭐ 30 ⏱️ updated 1 month ago GunGame is a gameplay plugin inspired by the SourceMode GunGame plugin.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -902,8 +902,8 @@
             },
             {
               "node_type": "item",
-              "title": "R0mz1k/css-C4-Timer ⭐ 30 ⏱️ updated 1 year ago This plugin adds countdown to c4 bomb explosion to your server.",
-              "description": null,
+              "title": "R0mz1k/css-C4-Timer",
+              "description": "⭐ 30 ⏱️ updated 1 year ago This plugin adds countdown to c4 bomb explosion to your server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -917,8 +917,8 @@
             },
             {
               "node_type": "item",
-              "title": "grrhn/ThirdPerson-WIP ⭐ 24 ⏱️ updated 1 year ago WIP ThirdPerson plugin for CS2 expect bugs.",
-              "description": null,
+              "title": "grrhn/ThirdPerson-WIP",
+              "description": "⭐ 24 ⏱️ updated 1 year ago WIP ThirdPerson plugin for CS2 expect bugs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -932,8 +932,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-update-manager ⭐ 23 ⏱️ updated 2 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
-              "description": null,
+              "title": "Kandru/cs2-update-manager",
+              "description": "⭐ 23 ⏱️ updated 2 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -947,8 +947,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cruze03/Clientprefs ⭐ 22 ⏱️ updated 6 months ago This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.",
-              "description": null,
+              "title": "Cruze03/Clientprefs",
+              "description": "⭐ 22 ⏱️ updated 6 months ago This plugin exposes some natives for developers to save player data to SQLite / MySQL without actually adding sql code to your plugin giving developers easy access to save player cookie to database.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -962,8 +962,8 @@
             },
             {
               "node_type": "item",
-              "title": "wiruwiru/AutomaticAds-CS2 ⭐ 22 ⏱️ updated 3 weeks ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
-              "description": null,
+              "title": "wiruwiru/AutomaticAds-CS2",
+              "description": "⭐ 22 ⏱️ updated 3 weeks ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -977,8 +977,8 @@
             },
             {
               "node_type": "item",
-              "title": "qstage/CS2-HidePlayers ⭐ 21 ⏱️ updated 11 months ago Allows you to hide player models.",
-              "description": null,
+              "title": "qstage/CS2-HidePlayers",
+              "description": "⭐ 21 ⏱️ updated 11 months ago Allows you to hide player models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -992,8 +992,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-roll-the-dice ⭐ 20 ⏱️ updated 1 month ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
-              "description": null,
+              "title": "Kandru/cs2-roll-the-dice",
+              "description": "⭐ 20 ⏱️ updated 1 month ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1007,8 +1007,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-quake-sounds ⭐ 20 ⏱️ updated 1 week ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
-              "description": null,
+              "title": "Kandru/cs2-quake-sounds",
+              "description": "⭐ 20 ⏱️ updated 1 week ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1022,8 +1022,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_Duel ⭐ 19 ⏱️ updated 1 week ago This plugin allows players to do 1vs1 duel.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_Duel",
+              "description": "⭐ 19 ⏱️ updated 1 week ago This plugin allows players to do 1vs1 duel.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,8 +1037,8 @@
             },
             {
               "node_type": "item",
-              "title": "samyycX/CSSharpPatcher ⭐ 19 ⏱️ updated 10 months ago A plugin with various patches for cs2.",
-              "description": null,
+              "title": "samyycX/CSSharpPatcher",
+              "description": "⭐ 19 ⏱️ updated 10 months ago A plugin with various patches for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,8 +1052,8 @@
             },
             {
               "node_type": "item",
-              "title": "KillStr3aK/CS2-AntiDLL ⭐ 19 ⏱️ updated 1 year ago This plugin is similar to the CS:GO version.",
-              "description": null,
+              "title": "KillStr3aK/CS2-AntiDLL",
+              "description": "⭐ 19 ⏱️ updated 1 year ago This plugin is similar to the CS:GO version.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1067,8 +1067,8 @@
             },
             {
               "node_type": "item",
-              "title": "samyycX/CS2-SkyboxChanger ⭐ 18 ⏱️ updated 1 year ago A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.",
-              "description": null,
+              "title": "samyycX/CS2-SkyboxChanger",
+              "description": "⭐ 18 ⏱️ updated 1 year ago A plugin allow player to change their own skybox material, color and brightness on every map dynamically and seamlessly.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1082,8 +1082,8 @@
             },
             {
               "node_type": "item",
-              "title": "qstage/CS2-FixRandomSpawn ⭐ 18 ⏱️ updated 12 months ago Fixes convar for any game mode.",
-              "description": null,
+              "title": "qstage/CS2-FixRandomSpawn",
+              "description": "⭐ 18 ⏱️ updated 12 months ago Fixes convar for any game mode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1097,8 +1097,8 @@
             },
             {
               "node_type": "item",
-              "title": "KKNecmi/ThirdPerson-Revamped ⭐ 18 ⏱️ updated 1 month ago A modern, improved third-person camera plugin for Counter-Strike 2.",
-              "description": null,
+              "title": "KKNecmi/ThirdPerson-Revamped",
+              "description": "⭐ 18 ⏱️ updated 1 month ago A modern, improved third-person camera plugin for Counter-Strike 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,8 +1112,8 @@
             },
             {
               "node_type": "item",
-              "title": "PhantomYopta/CS2_Speedometer ⭐ 18 ⏱️ updated 2 years ago Just a speedometer for CS2.",
-              "description": null,
+              "title": "PhantomYopta/CS2_Speedometer",
+              "description": "⭐ 18 ⏱️ updated 2 years ago Just a speedometer for CS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,8 +1127,8 @@
             },
             {
               "node_type": "item",
-              "title": "mister-keno/advanced-ff-cs2 ⭐ 16 ⏱️ updated 4 months ago This plugin implements advanced control of friendly fire.",
-              "description": null,
+              "title": "mister-keno/advanced-ff-cs2",
+              "description": "⭐ 16 ⏱️ updated 4 months ago This plugin implements advanced control of friendly fire.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1142,8 +1142,8 @@
             },
             {
               "node_type": "item",
-              "title": "HvH-gg/TeleportFix ⭐ 16 ⏱️ updated 6 months ago CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.",
-              "description": null,
+              "title": "HvH-gg/TeleportFix",
+              "description": "⭐ 16 ⏱️ updated 6 months ago CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,8 +1157,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cruze03/cs2_blockradiocommands ⭐ 16 ⏱️ updated 2 years ago A CSSharp plugin to block all radio commands.",
-              "description": null,
+              "title": "Cruze03/cs2_blockradiocommands",
+              "description": "⭐ 16 ⏱️ updated 2 years ago A CSSharp plugin to block all radio commands.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1172,8 +1172,8 @@
             },
             {
               "node_type": "item",
-              "title": "Letaryat/CS2-Poor-MapPropAds ⭐ 15 ⏱️ updated 8 months ago This plugin allows for server owners to create billboard type advertisements that are placed on wall.",
-              "description": null,
+              "title": "Letaryat/CS2-Poor-MapPropAds",
+              "description": "⭐ 15 ⏱️ updated 8 months ago This plugin allows for server owners to create billboard type advertisements that are placed on wall.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1187,8 +1187,8 @@
             },
             {
               "node_type": "item",
-              "title": "K4ryuu/K4-AlwaysWeaponSkins ⭐ 15 ⏱️ updated 6 months ago This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.",
-              "description": null,
+              "title": "K4ryuu/K4-AlwaysWeaponSkins",
+              "description": "⭐ 15 ⏱️ updated 6 months ago This plugin enhances weapon skin visibility by ensuring your equipped Steam inventory skins are displayed consistently across both teams.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,8 +1202,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-Playervotes ⭐ 15 ⏱️ updated 8 months ago Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.",
-              "description": null,
+              "title": "asapverneri/CS2-Playervotes",
+              "description": "⭐ 15 ⏱️ updated 8 months ago Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1217,8 +1217,8 @@
             },
             {
               "node_type": "item",
-              "title": "Austinbots/CS2-BotAI ⭐ 15 ⏱️ updated 11 months ago Improves the built in bots AI.",
-              "description": null,
+              "title": "Austinbots/CS2-BotAI",
+              "description": "⭐ 15 ⏱️ updated 11 months ago Improves the built in bots AI.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,8 +1232,8 @@
             },
             {
               "node_type": "item",
-              "title": "T3Marius/T3Menu-API ⭐ 14 ⏱️ updated 7 months ago T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.",
-              "description": null,
+              "title": "T3Marius/T3Menu-API",
+              "description": "⭐ 14 ⏱️ updated 7 months ago T3Menu-API is a plugin created on counterstrikesharp with purpose of creating a better, refined menu controlled with player buttons.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,8 +1247,8 @@
             },
             {
               "node_type": "item",
-              "title": "B3none/cs2-instaplant ⭐ 14 ⏱️ updated 2 years ago Plant the bomb instantly as a terrorist.",
-              "description": null,
+              "title": "B3none/cs2-instaplant",
+              "description": "⭐ 14 ⏱️ updated 2 years ago Plant the bomb instantly as a terrorist.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,8 +1262,8 @@
             },
             {
               "node_type": "item",
-              "title": "Quantor97/CS2-Kill-Plugin ⭐ 14 ⏱️ updated 2 years ago A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'.",
-              "description": null,
+              "title": "Quantor97/CS2-Kill-Plugin",
+              "description": "⭐ 14 ⏱️ updated 2 years ago A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1277,8 +1277,8 @@
             },
             {
               "node_type": "item",
-              "title": "schwarper/cs2-store ⭐ 13 ⏱️ updated 1 month ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
-              "description": null,
+              "title": "schwarper/cs2-store",
+              "description": "⭐ 13 ⏱️ updated 1 month ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1292,8 +1292,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-demo-recorder ⭐ 12 ⏱️ updated 2 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
-              "description": null,
+              "title": "Kandru/cs2-demo-recorder",
+              "description": "⭐ 12 ⏱️ updated 2 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1307,8 +1307,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_AntiCamp ⭐ 11 ⏱️ updated 1 week ago This plugin detect player who is camping for a specific time.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_AntiCamp",
+              "description": "⭐ 11 ⏱️ updated 1 week ago This plugin detect player who is camping for a specific time.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1322,8 +1322,8 @@
             },
             {
               "node_type": "item",
-              "title": "T3Marius/MVP-Anthem ⭐ 11 ⏱️ updated 10 months ago A plugin that add custom mvp sound to the game.",
-              "description": null,
+              "title": "T3Marius/MVP-Anthem",
+              "description": "⭐ 11 ⏱️ updated 10 months ago A plugin that add custom mvp sound to the game.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1337,8 +1337,8 @@
             },
             {
               "node_type": "item",
-              "title": "HvH-gg/RapidFireFix ⭐ 11 ⏱️ updated 10 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
-              "description": null,
+              "title": "HvH-gg/RapidFireFix",
+              "description": "⭐ 11 ⏱️ updated 10 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,8 +1352,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_UnrestrictedFOV ⭐ 10 ⏱️ updated 1 year ago This simple plugin allow players to change their FOV.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_UnrestrictedFOV",
+              "description": "⭐ 10 ⏱️ updated 1 year ago This simple plugin allow players to change their FOV.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,8 +1367,8 @@
             },
             {
               "node_type": "item",
-              "title": "darkerz7/CS2-EntityFix ⭐ 10 ⏱️ updated 1 month ago Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.",
-              "description": null,
+              "title": "darkerz7/CS2-EntityFix",
+              "description": "⭐ 10 ⏱️ updated 1 month ago Fixes game_player_equip, game_ui, IgniteLifeTime, point_viewcontrol, trigger_gravity. Idea taken from cs2fixes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,8 +1382,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-challenges ⭐ 10 ⏱️ updated 1 year ago This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).",
-              "description": null,
+              "title": "Kandru/cs2-challenges",
+              "description": "⭐ 10 ⏱️ updated 1 year ago This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1397,8 +1397,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_HeadshotOnly ⭐ 8 ⏱️ updated 1 year ago This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_HeadshotOnly",
+              "description": "⭐ 8 ⏱️ updated 1 year ago This plugin enables headshot only to all players or enables headshot only on players themselves by using public command !hs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1412,8 +1412,8 @@
             },
             {
               "node_type": "item",
-              "title": "darkerz7/CS2-HideTeammates ⭐ 8 ⏱️ updated 1 month ago Hides Teammates on the entire map or distance.",
-              "description": null,
+              "title": "darkerz7/CS2-HideTeammates",
+              "description": "⭐ 8 ⏱️ updated 1 month ago Hides Teammates on the entire map or distance.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1427,8 +1427,8 @@
             },
             {
               "node_type": "item",
-              "title": "darkerz7/CSSharp-Fixes ⭐ 8 ⏱️ updated 1 month ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
-              "description": null,
+              "title": "darkerz7/CSSharp-Fixes",
+              "description": "⭐ 8 ⏱️ updated 1 month ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1442,8 +1442,8 @@
             },
             {
               "node_type": "item",
-              "title": "Ferks-FK/CS2-TeamLimiter ⭐ 7 ⏱️ updated 1 year ago This plugin allows you to set a maximum number of players in both teams. Useful for PUG/MIX or Retake mode servers.",
-              "description": null,
+              "title": "Ferks-FK/CS2-TeamLimiter",
+              "description": "⭐ 7 ⏱️ updated 1 year ago This plugin allows you to set a maximum number of players in both teams. Useful for PUG/MIX or Retake mode servers.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1457,8 +1457,8 @@
             },
             {
               "node_type": "item",
-              "title": "abnerfs/cs2-killfeed-filter ⭐ 7 ⏱️ updated 2 years ago Show only your kills/assists/deaths in the killfeed, useful for DM servers where the killfeed has too much kills going on.",
-              "description": null,
+              "title": "abnerfs/cs2-killfeed-filter",
+              "description": "⭐ 7 ⏱️ updated 2 years ago Show only your kills/assists/deaths in the killfeed, useful for DM servers where the killfeed has too much kills going on.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,8 +1472,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_Noscope ⭐ 6 ⏱️ updated 5 months ago This plugin disables scope of scope weapons like AWP, scout, etc.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_Noscope",
+              "description": "⭐ 6 ⏱️ updated 5 months ago This plugin disables scope of scope weapons like AWP, scout, etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1487,8 +1487,8 @@
             },
             {
               "node_type": "item",
-              "title": "TICHOJEBEC-SK/cs2-WeaponRestrict ⭐ 6 ⏱️ updated 10 months ago A plugin that lets you restrict weapons by rules.",
-              "description": null,
+              "title": "TICHOJEBEC-SK/cs2-WeaponRestrict",
+              "description": "⭐ 6 ⏱️ updated 10 months ago A plugin that lets you restrict weapons by rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1502,8 +1502,8 @@
             },
             {
               "node_type": "item",
-              "title": "Interesting-exe/QuickDefuse ⭐ 6 ⏱️ updated 1 year ago Guess a wire for a chance to instantly defuse the bomb.",
-              "description": null,
+              "title": "Interesting-exe/QuickDefuse",
+              "description": "⭐ 6 ⏱️ updated 1 year ago Guess a wire for a chance to instantly defuse the bomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1517,8 +1517,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-ChatRelay ⭐ 6 ⏱️ updated 1 year ago Lightweight plugin to send your cs2 server chat messages to discord channel using webhook.",
-              "description": null,
+              "title": "asapverneri/CS2-ChatRelay",
+              "description": "⭐ 6 ⏱️ updated 1 year ago Lightweight plugin to send your cs2 server chat messages to discord channel using webhook.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1532,8 +1532,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_Revive ⭐ 5 ⏱️ updated 11 months ago Revive teammates with 'E' (+use button).",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_Revive",
+              "description": "⭐ 5 ⏱️ updated 11 months ago Revive teammates with 'E' (+use button).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1547,8 +1547,8 @@
             },
             {
               "node_type": "item",
-              "title": "M-archand/CS2FlashingHtmlHudFix ⭐ 5 ⏱️ updated 1 year ago A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting.",
-              "description": null,
+              "title": "M-archand/CS2FlashingHtmlHudFix",
+              "description": "⭐ 5 ⏱️ updated 1 year ago A CS2 CS# Plugin that uses a workaround found by Poggu to make .PrintToCenterHTML not flash every second by setting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1562,8 +1562,8 @@
             },
             {
               "node_type": "item",
-              "title": "R0mz1k/CSS-Knockback ⭐ 5 ⏱️ updated 2 years ago This plugin, when hit, repels the recipient of the damage.",
-              "description": null,
+              "title": "R0mz1k/CSS-Knockback",
+              "description": "⭐ 5 ⏱️ updated 2 years ago This plugin, when hit, repels the recipient of the damage.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1577,8 +1577,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-Gunsmenu ⭐ 4 ⏱️ updated 5 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
-              "description": null,
+              "title": "asapverneri/CS2-Gunsmenu",
+              "description": "⭐ 4 ⏱️ updated 5 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1592,8 +1592,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-Baninfo ⭐ 4 ⏱️ updated 1 year ago Useful plugin that shows connected players ban & mute history in console.",
-              "description": null,
+              "title": "asapverneri/CS2-Baninfo",
+              "description": "⭐ 4 ⏱️ updated 1 year ago Useful plugin that shows connected players ban & mute history in console.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1607,8 +1607,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-BotQuotaManager ⭐ 4 ⏱️ updated 1 year ago This plugin handles bot_quota depending on playercount on the server.",
-              "description": null,
+              "title": "asapverneri/CS2-BotQuotaManager",
+              "description": "⭐ 4 ⏱️ updated 1 year ago This plugin handles bot_quota depending on playercount on the server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1622,8 +1622,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-Legs ⭐ 4 ⏱️ updated 1 year ago Simple plugin to disable lower body.",
-              "description": null,
+              "title": "asapverneri/CS2-Legs",
+              "description": "⭐ 4 ⏱️ updated 1 year ago Simple plugin to disable lower body.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1637,8 +1637,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-Clantags ⭐ 4 ⏱️ updated 1 year ago Extremely simple plugin to set admin/vip tag to scoreboard.",
-              "description": null,
+              "title": "asapverneri/CS2-Clantags",
+              "description": "⭐ 4 ⏱️ updated 1 year ago Extremely simple plugin to set admin/vip tag to scoreboard.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,8 +1652,8 @@
             },
             {
               "node_type": "item",
-              "title": "zakriamansoor47/SLAYER_1HitKill ⭐ 4 ⏱️ updated 1 year ago This simple plugin allows players to kill others in 1 Hit.",
-              "description": null,
+              "title": "zakriamansoor47/SLAYER_1HitKill",
+              "description": "⭐ 4 ⏱️ updated 1 year ago This simple plugin allows players to kill others in 1 Hit.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1667,8 +1667,8 @@
             },
             {
               "node_type": "item",
-              "title": "Dliix66/CS2-BotSlay ⭐ 3 ⏱️ updated 2 years ago CSSharp plugin to slay all bots when the last player dies.",
-              "description": null,
+              "title": "Dliix66/CS2-BotSlay",
+              "description": "⭐ 3 ⏱️ updated 2 years ago CSSharp plugin to slay all bots when the last player dies.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1682,8 +1682,8 @@
             },
             {
               "node_type": "item",
-              "title": "Austinbots/cs2-Change-Map-Rotation-Using-Text-File ⭐ 3 ⏱️ updated 12 months ago It allows you to change the map rotation using a text file.",
-              "description": null,
+              "title": "Austinbots/cs2-Change-Map-Rotation-Using-Text-File",
+              "description": "⭐ 3 ⏱️ updated 12 months ago It allows you to change the map rotation using a text file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1697,8 +1697,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-ScoutzKnivez ⭐ 2 ⏱️ updated 1 year ago This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable.",
-              "description": null,
+              "title": "asapverneri/CS2-ScoutzKnivez",
+              "description": "⭐ 2 ⏱️ updated 1 year ago This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1712,8 +1712,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-StaffList ⭐ 2 ⏱️ updated 1 year ago Simple plugin which show online admins in the server.",
-              "description": null,
+              "title": "asapverneri/CS2-StaffList",
+              "description": "⭐ 2 ⏱️ updated 1 year ago Simple plugin which show online admins in the server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1727,8 +1727,8 @@
             },
             {
               "node_type": "item",
-              "title": "Austinbots/cs2-BotsNoKnife ⭐ 2 ⏱️ updated 12 months ago Strips knife from bots.",
-              "description": null,
+              "title": "Austinbots/cs2-BotsNoKnife",
+              "description": "⭐ 2 ⏱️ updated 12 months ago Strips knife from bots.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1742,8 +1742,8 @@
             },
             {
               "node_type": "item",
-              "title": "TICHOJEBEC-SK/cs2-WarnSystem ⭐ 1 ⏱️ updated 11 months ago A plugin that allows admins to warn players.",
-              "description": null,
+              "title": "TICHOJEBEC-SK/cs2-WarnSystem",
+              "description": "⭐ 1 ⏱️ updated 11 months ago A plugin that allows admins to warn players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1757,8 +1757,8 @@
             },
             {
               "node_type": "item",
-              "title": "asapverneri/CS2-ChatLogs ⭐ 1 ⏱️ updated 1 year ago Plugin that store chat messages to MySQL database.",
-              "description": null,
+              "title": "asapverneri/CS2-ChatLogs",
+              "description": "⭐ 1 ⏱️ updated 1 year ago Plugin that store chat messages to MySQL database.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1779,8 +1779,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "samyycX/WeaponSkins ⭐ 36 ⏱️ updated 1 month ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
-              "description": null,
+              "title": "samyycX/WeaponSkins",
+              "description": "⭐ 36 ⏱️ updated 1 month ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1794,8 +1794,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/AddonsManager ⭐ 18 ⏱️ updated 1 month ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/AddonsManager",
+              "description": "⭐ 18 ⏱️ updated 1 month ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1809,8 +1809,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/MapChooser ⭐ 12 ⏱️ updated 1 month ago A powerful and customizable map voting system for SwiftlyS2.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/MapChooser",
+              "description": "⭐ 12 ⏱️ updated 1 month ago A powerful and customizable map voting system for SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,8 +1824,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/Admins ⭐ 12 ⏱️ updated 1 month ago Base admin system for your server.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/Admins",
+              "description": "⭐ 12 ⏱️ updated 1 month ago Base admin system for your server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1839,8 +1839,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/Audio ⭐ 8 ⏱️ updated 1 month ago A high performance VoIP audio lib for swiftlys2.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/Audio",
+              "description": "⭐ 8 ⏱️ updated 1 month ago A high performance VoIP audio lib for swiftlys2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1854,8 +1854,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/Economy ⭐ 6 ⏱️ updated 5 months ago The base economy plugin for your server.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/Economy",
+              "description": "⭐ 6 ⏱️ updated 5 months ago The base economy plugin for your server.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1869,8 +1869,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/Cookies ⭐ 6 ⏱️ updated 3 months ago Server/Client persistent variables.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/Cookies",
+              "description": "⭐ 6 ⏱️ updated 3 months ago Server/Client persistent variables.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1884,8 +1884,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/VIPCore ⭐ 6 ⏱️ updated 3 months ago A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/VIPCore",
+              "description": "⭐ 6 ⏱️ updated 3 months ago A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1899,8 +1899,8 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftlyS2-Plugins/MenuFlickeringFix ⭐ 5 ⏱️ updated 9 months ago Fix the flickering menu. Won't have effect during warmup for game reason.",
-              "description": null,
+              "title": "SwiftlyS2-Plugins/MenuFlickeringFix",
+              "description": "⭐ 5 ⏱️ updated 9 months ago Fix the flickering menu. Won't have effect during warmup for game reason.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:55:45.775Z",
+    "last_updated": "2026-08-24T14:41:18.753Z",
     "original_repository": "samyycX/awesome-cs2",
     "original_repository_id": 1044894376,
     "original_repository_sha": "1234fc820760d13f62fe58b4daaf56306d0ec61b",

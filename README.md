@@ -44,7 +44,7 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,306 | 🐛 59 | 🌐 C# | 📅 2026-08-17**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,308 | 🐛 59 | 🌐 C# | 📅 2026-08-17**\
   *A tool to download game files of a specific version.*
 
 * **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
@@ -313,7 +313,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
 
-* **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse) ⭐ 66 | 🐛 2 | 🌐 C# | 📅 2026-08-11**<br>
+* **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse) ⭐ 66 | 🐛 3 | 🌐 C# | 📅 2026-08-11**<br>
   ⭐ 66<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
