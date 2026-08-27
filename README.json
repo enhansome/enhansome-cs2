@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T19:52:36Z",
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3314
+            "stars": 3317
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-27T11:30:12Z",
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-07-22T23:41:27Z",
             "owner": "alliedmodders",
             "repo": "metamod-source",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 981085694,
             "language": "C#",
-            "last_commit": "2026-08-27T07:09:21Z",
+            "last_commit": "2026-08-27T18:59:32Z",
             "owner": "Kxnrl",
             "repo": "modsharp-public",
             "stars": 114
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1036227312,
             "language": "C#",
-            "last_commit": "2026-08-27T11:33:39Z",
+            "last_commit": "2026-08-27T17:06:25Z",
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
             "stars": 98
@@ -162,7 +162,7 @@
             "last_commit": "2024-02-18T16:19:34Z",
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1647
+            "stars": 1646
           }
         },
         {
@@ -2057,7 +2057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:28.975Z",
+    "last_updated": "2026-08-27T20:33:22.092Z",
     "original_repository_info": {
       "archived": false,
       "id": 1044894376,
