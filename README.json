@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T19:52:36Z",
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3317
-          }
+            "stars": 3323
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "LionDoge",
             "repo": "vpulse-editor",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "GAMMACASE",
             "repo": "Source2SchemaDumper",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "GAMMACASE",
             "repo": "PltPatcher",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         }
       ],
       "title": "Tools"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 700750483,
             "language": "C#",
-            "last_commit": "2026-08-27T11:30:12Z",
+            "last_commit": "2026-08-28T13:33:46Z",
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
             "stars": 1339
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "alliedmodders",
             "repo": "metamod-source",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 981085694,
             "language": "C#",
-            "last_commit": "2026-08-27T18:59:32Z",
+            "last_commit": "2026-08-28T11:31:35Z",
             "owner": "Kxnrl",
             "repo": "modsharp-public",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 1036227312,
             "language": "C#",
-            "last_commit": "2026-08-27T17:06:25Z",
+            "last_commit": "2026-08-28T15:10:34Z",
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "untrustedmodders",
             "repo": "plugify",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         }
       ],
       "title": "Modding Frameworks"
@@ -163,7 +172,8 @@
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
             "stars": 1646
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 76163822,
             "language": "Slang",
-            "last_commit": "2026-08-26T21:20:23Z",
+            "last_commit": "2026-08-28T20:56:48Z",
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 940
-          }
+            "stars": 939
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 76163822,
             "language": "Slang",
-            "last_commit": "2026-08-26T21:20:23Z",
+            "last_commit": "2026-08-28T20:56:48Z",
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 940
-          }
+            "stars": 939
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -204,11 +216,12 @@
             "archived": false,
             "id": 76163822,
             "language": "Slang",
-            "last_commit": "2026-08-26T21:20:23Z",
+            "last_commit": "2026-08-28T20:56:48Z",
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 940
-          }
+            "stars": 939
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 76163822,
             "language": "Slang",
-            "last_commit": "2026-08-26T21:20:23Z",
+            "last_commit": "2026-08-28T20:56:48Z",
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 940
-          }
+            "stars": 939
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -234,11 +248,12 @@
             "archived": false,
             "id": 76163822,
             "language": "Slang",
-            "last_commit": "2026-08-26T21:20:23Z",
+            "last_commit": "2026-08-28T20:56:48Z",
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 940
-          }
+            "stars": 939
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "alliedmodders",
             "repo": "hl2sdk",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "Wend4r",
             "repo": "sourcesdk",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:11:37.915Z"
         }
       ],
       "title": "Development Resources"
@@ -281,22 +298,23 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 360 ⏱️ updated 9 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 360 ⏱️ updated 8 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 695646152,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:03:17Z",
+                "last_commit": "2026-08-28T11:11:03Z",
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 195 ⏱️ updated 11 hours ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 196 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -306,7 +324,8 @@
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -321,7 +340,8 @@
                 "owner": "Source2ZE",
                 "repo": "MultiAddonManager",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -336,7 +356,8 @@
                 "owner": "Source2ZE",
                 "repo": "CS2ServerGUI",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -351,7 +372,8 @@
                 "owner": "Source2ZE",
                 "repo": "CleanerCS2",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -366,7 +388,8 @@
                 "owner": "Source2ZE",
                 "repo": "ServerListPlayersFix",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -381,12 +404,13 @@
                 "owner": "Source2ZE",
                 "repo": "MovementUnlocker",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 62 ⏱️ updated 1 day ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 62 ⏱️ updated 2 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,7 +420,8 @@
                 "owner": "Salvatore-Als",
                 "repo": "cs2-fake-rcon",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -411,12 +436,13 @@
                 "owner": "Cruze03",
                 "repo": "FakeRanks-RevealAll",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Source2ZE/StripperCS2",
-              "description": "⭐ 51 ⏱️ updated 1 day ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
+              "description": "⭐ 51 ⏱️ updated 2 days ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +452,8 @@
                 "owner": "Source2ZE",
                 "repo": "StripperCS2",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -441,12 +468,13 @@
                 "owner": "Interesting-exe",
                 "repo": "CS2Fixes-RampbugFix",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Source2ZE/AcceleratorCS2",
-              "description": "⭐ 31 ⏱️ updated 23 hours ago A plugin that generate a crash dump when there's a crash.",
+              "description": "⭐ 31 ⏱️ updated 2 days ago A plugin that generate a crash dump when there's a crash.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +484,8 @@
                 "owner": "Source2ZE",
                 "repo": "AcceleratorCS2",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -471,12 +500,13 @@
                 "owner": "GAMMACASE",
                 "repo": "Source2SchemaDumper",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 24 ⏱️ updated 2 hours ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 24 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -486,12 +516,13 @@
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Hider",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Cruze03/GameBanFix",
-              "description": "⭐ 19 ⏱️ updated 1 day ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
+              "description": "⭐ 19 ⏱️ updated 2 days ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -501,7 +532,8 @@
                 "owner": "Cruze03",
                 "repo": "GameBanFix",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -516,7 +548,8 @@
                 "owner": "samyycX",
                 "repo": "Audio",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Controller",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             }
           ],
           "description": null,
@@ -543,7 +577,7 @@
             {
               "node_type": "item",
               "title": "shobhit-pathak/MatchZy",
-              "description": "⭐ 488 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
+              "description": "⭐ 489 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,13 +586,14 @@
                 "last_commit": "2025-10-25T20:01:37Z",
                 "owner": "shobhit-pathak",
                 "repo": "MatchZy",
-                "stars": 488
-              }
+                "stars": 489
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Nereziel/cs2-WeaponPaints",
-              "description": "⭐ 408 ⏱️ updated 1 month ago A plugin to change weapon paints, gloves, agents and etc.",
+              "description": "⭐ 409 ⏱️ updated 1 month ago A plugin to change weapon paints, gloves, agents and etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,12 +603,13 @@
                 "owner": "Nereziel",
                 "repo": "cs2-WeaponPaints",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 314 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 315 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,8 +618,9 @@
                 "last_commit": "2026-08-27T09:47:51Z",
                 "owner": "B3none",
                 "repo": "cs2-retakes",
-                "stars": 315
-              }
+                "stars": 316
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -598,7 +635,8 @@
                 "owner": "daffyyyy",
                 "repo": "CS2-SimpleAdmin",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -613,7 +651,8 @@
                 "owner": "counterstrikesharp-panel",
                 "repo": "css-bans",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -628,12 +667,13 @@
                 "owner": "samyycX",
                 "repo": "CS2-PlayerModelChanger",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NockyCZ/CS2-Deathmatch",
-              "description": "⭐ 126 ⏱️ updated 3 weeks ago A plugin to implement deathmatch gamemode.",
+              "description": "⭐ 127 ⏱️ updated 3 weeks ago A plugin to implement deathmatch gamemode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,8 +682,9 @@
                 "last_commit": "2026-08-05T17:59:44Z",
                 "owner": "NockyCZ",
                 "repo": "CS2-Deathmatch",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -658,12 +699,13 @@
                 "owner": "NiGHT757",
                 "repo": "AFKManager",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "partiusfabaa/cs2-VIPCore",
-              "description": "⭐ 75 ⏱️ updated 2 weeks ago A vip plugin for cs2.",
+              "description": "⭐ 76 ⏱️ updated 3 weeks ago A vip plugin for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -672,8 +714,9 @@
                 "last_commit": "2026-08-06T14:39:13Z",
                 "owner": "partiusfabaa",
                 "repo": "cs2-VIPCore",
-                "stars": 75
-              }
+                "stars": 76
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -688,7 +731,8 @@
                 "owner": "oqyh",
                 "repo": "cs2-Game-Manager-GoldKingZ",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -703,7 +747,8 @@
                 "owner": "Cruze03",
                 "repo": "FortniteEmotesNDances",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -718,7 +763,8 @@
                 "owner": "partiusfabaa",
                 "repo": "cs2-ranks",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -733,7 +779,8 @@
                 "owner": "B3none",
                 "repo": "cs2-instadefuse",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -748,7 +795,8 @@
                 "owner": "Oz-Lin",
                 "repo": "cs2-rockthevote",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -763,7 +811,8 @@
                 "owner": "Lan2Play",
                 "repo": "PugSharp",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -778,7 +827,8 @@
                 "owner": "daffyyyy",
                 "repo": "CS2-Tags",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -793,7 +843,8 @@
                 "owner": "CounterStrike2-Plugins-Archive",
                 "repo": "cs2-tags",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -808,7 +859,8 @@
                 "owner": "schwarper",
                 "repo": "CS2MenuManager",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -823,7 +875,8 @@
                 "owner": "KillStr3aK",
                 "repo": "ResourcePrecacher",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -838,7 +891,8 @@
                 "owner": "zwolof",
                 "repo": "cs2-executes",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -853,7 +907,8 @@
                 "owner": "HvH-gg",
                 "repo": "CS2-Essentials",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -868,7 +923,8 @@
                 "owner": "schwarper",
                 "repo": "CS2TraceRay",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -883,7 +939,8 @@
                 "owner": "oqyh",
                 "repo": "cs2-Chat-Logger-GoldKingZ",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -898,7 +955,8 @@
                 "owner": "oqyh",
                 "repo": "cs2-Connect-Disconnect-Sound-GoldKingZ",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -913,7 +971,8 @@
                 "owner": "darkerz7",
                 "repo": "EntWatchSharp",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -928,7 +987,8 @@
                 "owner": "ssypchenko",
                 "repo": "cs2-gungame",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -943,7 +1003,8 @@
                 "owner": "R0mz1k",
                 "repo": "css-C4-Timer",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1019,8 @@
                 "owner": "grrhn",
                 "repo": "ThirdPerson-WIP",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1035,8 @@
                 "owner": "Kandru",
                 "repo": "cs2-update-manager",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -988,12 +1051,13 @@
                 "owner": "Cruze03",
                 "repo": "Clientprefs",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "wiruwiru/AutomaticAds-CS2",
-              "description": "⭐ 22 ⏱️ updated 4 weeks ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
+              "description": "⭐ 22 ⏱️ updated 1 month ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1067,8 @@
                 "owner": "wiruwiru",
                 "repo": "AutomaticAds-CS2",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1083,8 @@
                 "owner": "qstage",
                 "repo": "CS2-HidePlayers",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1032,23 +1098,9 @@
                 "last_commit": "2026-07-13T18:52:00Z",
                 "owner": "Kandru",
                 "repo": "cs2-roll-the-dice",
-                "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Kandru/cs2-quake-sounds",
-              "description": "⭐ 20 ⏱️ updated 2 weeks ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 964421670,
-                "language": "C#",
-                "last_commit": "2026-08-11T10:05:00Z",
-                "owner": "Kandru",
-                "repo": "cs2-quake-sounds",
-                "stars": 19
-              }
+                "stars": 21
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1063,7 +1115,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_Duel",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1131,24 @@
                 "owner": "KillStr3aK",
                 "repo": "CS2-AntiDLL",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kandru/cs2-quake-sounds",
+              "description": "⭐ 19 ⏱️ updated 2 weeks ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964421670,
+                "language": "C#",
+                "last_commit": "2026-08-11T10:05:00Z",
+                "owner": "Kandru",
+                "repo": "cs2-quake-sounds",
+                "stars": 19
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1163,8 @@
                 "owner": "samyycX",
                 "repo": "CSSharpPatcher",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1179,8 @@
                 "owner": "samyycX",
                 "repo": "CS2-SkyboxChanger",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1123,12 +1195,13 @@
                 "owner": "qstage",
                 "repo": "CS2-FixRandomSpawn",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "KKNecmi/ThirdPerson-Revamped",
-              "description": "⭐ 18 ⏱️ updated 2 days ago A modern, improved third-person camera plugin for Counter-Strike 2.",
+              "description": "⭐ 18 ⏱️ updated 3 days ago A modern, improved third-person camera plugin for Counter-Strike 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1138,7 +1211,8 @@
                 "owner": "KKNecmi",
                 "repo": "ThirdPerson-Revamped",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1153,7 +1227,8 @@
                 "owner": "PhantomYopta",
                 "repo": "CS2_Speedometer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1168,7 +1243,8 @@
                 "owner": "mister-keno",
                 "repo": "advanced-ff-cs2",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1259,8 @@
                 "owner": "HvH-gg",
                 "repo": "TeleportFix",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1198,7 +1275,8 @@
                 "owner": "Cruze03",
                 "repo": "cs2_blockradiocommands",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1291,8 @@
                 "owner": "Letaryat",
                 "repo": "CS2-Poor-MapPropAds",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1307,8 @@
                 "owner": "K4ryuu",
                 "repo": "K4-AlwaysWeaponSkins",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1243,7 +1323,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-Playervotes",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1258,7 +1339,8 @@
                 "owner": "Austinbots",
                 "repo": "CS2-BotAI",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1355,8 @@
                 "owner": "T3Marius",
                 "repo": "T3Menu-API",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1371,8 @@
                 "owner": "B3none",
                 "repo": "cs2-instaplant",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1387,8 @@
                 "owner": "Quantor97",
                 "repo": "CS2-Kill-Plugin",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1403,8 @@
                 "owner": "schwarper",
                 "repo": "cs2-store",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1419,8 @@
                 "owner": "Kandru",
                 "repo": "cs2-demo-recorder",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1435,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_AntiCamp",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1451,8 @@
                 "owner": "T3Marius",
                 "repo": "MVP-Anthem",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1467,8 @@
                 "owner": "HvH-gg",
                 "repo": "RapidFireFix",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1393,7 +1483,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_UnrestrictedFOV",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1499,8 @@
                 "owner": "darkerz7",
                 "repo": "CS2-EntityFix",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1515,8 @@
                 "owner": "Kandru",
                 "repo": "cs2-challenges",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1531,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_HeadshotOnly",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1453,7 +1547,8 @@
                 "owner": "darkerz7",
                 "repo": "CS2-HideTeammates",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1468,7 +1563,8 @@
                 "owner": "darkerz7",
                 "repo": "CSSharp-Fixes",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1483,7 +1579,8 @@
                 "owner": "Ferks-FK",
                 "repo": "CS2-TeamLimiter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1498,7 +1595,8 @@
                 "owner": "abnerfs",
                 "repo": "cs2-killfeed-filter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1513,7 +1611,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_Noscope",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1528,7 +1627,8 @@
                 "owner": "TICHOJEBEC-SK",
                 "repo": "cs2-WeaponRestrict",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1543,7 +1643,8 @@
                 "owner": "Interesting-exe",
                 "repo": "QuickDefuse",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1558,7 +1659,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-ChatRelay",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1573,7 +1675,8 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_Revive",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1588,7 +1691,8 @@
                 "owner": "M-archand",
                 "repo": "CS2FlashingHtmlHudFix",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1603,7 +1707,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-BotQuotaManager",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1618,7 +1723,8 @@
                 "owner": "R0mz1k",
                 "repo": "CSS-Knockback",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1633,7 +1739,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-Gunsmenu",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1648,7 +1755,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-Baninfo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1663,7 +1771,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-Legs",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1678,7 +1787,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-Clantags",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1693,12 +1803,13 @@
                 "owner": "zakriamansoor47",
                 "repo": "SLAYER_1HitKill",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-BreakerAndOpenDoor",
-              "description": "⭐ 3 ⏱️ updated 2 days ago Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution.",
+              "description": "⭐ 3 ⏱️ updated 3 days ago Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1708,7 +1819,8 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-BreakerAndOpenDoor",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1723,12 +1835,13 @@
                 "owner": "Dliix66",
                 "repo": "CS2-BotSlay",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "Austinbots/cs2-Change-Map-Rotation-Using-Text-File",
-              "description": "⭐ 3 ⏱️ updated 12 months ago It allows you to change the map rotation using a text file.",
+              "description": "⭐ 3 ⏱️ updated 1 year ago It allows you to change the map rotation using a text file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,12 +1851,13 @@
                 "owner": "Austinbots",
                 "repo": "cs2-Change-Map-Rotation-Using-Text-File",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-RETAKE",
-              "description": "⭐ 2 ⏱️ updated 2 days ago Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.",
+              "description": "⭐ 2 ⏱️ updated 3 days ago Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,12 +1867,13 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-RETAKE",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-AdminTools",
-              "description": "⭐ 2 ⏱️ updated 2 days ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
+              "description": "⭐ 2 ⏱️ updated 3 days ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1768,7 +1883,8 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-AdminTools",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1783,7 +1899,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-ScoutzKnivez",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1798,7 +1915,8 @@
                 "owner": "asapverneri",
                 "repo": "CS2-StaffList",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1813,12 +1931,13 @@
                 "owner": "Austinbots",
                 "repo": "cs2-BotsNoKnife",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-SpawnEditor",
-              "description": "⭐ 1 ⏱️ updated 2 days ago In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization.",
+              "description": "⭐ 1 ⏱️ updated 3 days ago In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1828,12 +1947,13 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-SpawnEditor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-AntiSlow",
-              "description": "⭐ 1 ⏱️ updated 2 days ago Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support.",
+              "description": "⭐ 1 ⏱️ updated 3 days ago Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,12 +1963,13 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-AntiSlow",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "TICHOJEBEC-SK/cs2-WarnSystem",
-              "description": "⭐ 1 ⏱️ updated 11 months ago A plugin that allows admins to warn players.",
+              "description": "⭐ 1 ⏱️ updated 12 months ago A plugin that allows admins to warn players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1858,7 +1979,8 @@
                 "owner": "TICHOJEBEC-SK",
                 "repo": "cs2-WarnSystem",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1873,12 +1995,13 @@
                 "owner": "asapverneri",
                 "repo": "CS2-ChatLogs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-STATPLAY",
-              "description": "⭐ 0 ⏱️ updated 1 day ago Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks.",
+              "description": "⭐ 0 ⏱️ updated 3 days ago Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1888,12 +2011,13 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-STATPLAY",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-Antibait",
-              "description": "⭐ 0 ⏱️ updated 2 days ago Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.",
+              "description": "⭐ 0 ⏱️ updated 3 days ago Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1903,7 +2027,8 @@
                 "owner": "NeuTroNBZh",
                 "repo": "CS2-Antibait",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             }
           ],
           "description": null,
@@ -1925,7 +2050,8 @@
                 "owner": "samyycX",
                 "repo": "WeaponSkins",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1940,12 +2066,13 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "AddonsManager",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/MapChooser",
-              "description": "⭐ 12 ⏱️ updated 1 month ago A powerful and customizable map voting system for SwiftlyS2.",
+              "description": "⭐ 12 ⏱️ updated 2 months ago A powerful and customizable map voting system for SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1955,7 +2082,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "MapChooser",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1970,7 +2098,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "Admins",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -1985,7 +2114,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "Audio",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -2000,7 +2130,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "Economy",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -2015,7 +2146,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "Cookies",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -2030,7 +2162,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "VIPCore",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             },
             {
               "node_type": "item",
@@ -2045,7 +2178,8 @@
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "MenuFlickeringFix",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
             }
           ],
           "description": "Check Forum for all swiftlys2 plugins.",
@@ -2057,17 +2191,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:33:22.092Z",
+    "last_updated": "2026-08-28T21:11:37.915Z",
     "original_repository_info": {
       "archived": false,
       "id": 1044894376,
       "language": "Python",
-      "last_commit": "2026-08-27T08:51:10Z",
+      "last_commit": "2026-08-28T11:04:09Z",
       "owner": "samyycX",
       "repo": "awesome-cs2",
-      "stars": 98
+      "stars": 99
     },
-    "original_repository_sha": "d423d1cd056fb01f37d25bef0d2bf690a1f2c446",
+    "original_repository_sha": "fe6330c50d91222af0197757015ad29c0f96a745",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
