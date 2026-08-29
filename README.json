@@ -131,7 +131,7 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T13:33:46Z",
+            "last_commit": "2026-08-29T08:18:03Z",
             "open_issues": 104,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
@@ -183,7 +183,7 @@
             "id": 981085694,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T11:31:35Z",
+            "last_commit": "2026-08-29T14:32:26Z",
             "open_issues": 9,
             "owner": "Kxnrl",
             "repo": "modsharp-public",
@@ -218,7 +218,7 @@
             "id": 1036227312,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:10:34Z",
+            "last_commit": "2026-08-29T11:34:04Z",
             "open_issues": 4,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "cplusplus",
               "csgo",
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 196 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 196 ⏱️ updated 2 days ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-26T21:05:19Z",
+                "last_commit": "2026-08-29T14:02:40Z",
                 "open_issues": 28,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CleanerCS2",
-              "description": "⭐ 65 ⏱️ updated 1 week ago A simple plugin that allows you to filter out console prints with regular expressions.",
+              "description": "⭐ 66 ⏱️ updated 1 week ago A simple plugin that allows you to filter out console prints with regular expressions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/ServerListPlayersFix",
-              "description": "⭐ 64 ⏱️ updated 1 week ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+              "description": "⭐ 65 ⏱️ updated 1 week ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 62 ⏱️ updated 2 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 62 ⏱️ updated 3 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -670,7 +670,7 @@
             {
               "node_type": "item",
               "title": "Cruze03/FakeRanks-RevealAll",
-              "description": "⭐ 53 ⏱️ updated 1 month ago A metamod plugin that reveals ranks of all players in server for player who presses tab.",
+              "description": "⭐ 54 ⏱️ updated 1 month ago A metamod plugin that reveals ranks of all players in server for player who presses tab.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 24 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 25 ⏱️ updated 47 minutes ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,8 +811,8 @@
                 "id": 1254215152,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T06:17:56Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-29T14:27:29Z",
+                "open_issues": 1,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Hider",
                 "stars": 25,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "Cruze03/GameBanFix",
-              "description": "⭐ 19 ⏱️ updated 2 days ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
+              "description": "⭐ 20 ⏱️ updated 2 days ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -881,7 +881,7 @@
                 "id": 1246881059,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-19T18:07:23Z",
+                "last_commit": "2026-08-29T14:34:28Z",
                 "open_issues": 0,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Controller",
@@ -961,7 +961,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 315 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 316 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1044,7 +1044,7 @@
             {
               "node_type": "item",
               "title": "samyycX/CS2-PlayerModelChanger",
-              "description": "⭐ 138 ⏱️ updated 12 months ago A cssharp plugin to change player models.",
+              "description": "⭐ 139 ⏱️ updated 12 months ago A cssharp plugin to change player models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +1073,7 @@
             {
               "node_type": "item",
               "title": "NockyCZ/CS2-Deathmatch",
-              "description": "⭐ 127 ⏱️ updated 3 weeks ago A plugin to implement deathmatch gamemode.",
+              "description": "⭐ 128 ⏱️ updated 3 weeks ago A plugin to implement deathmatch gamemode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1216,7 @@
             {
               "node_type": "item",
               "title": "partiusfabaa/cs2-ranks",
-              "description": "⭐ 68 ⏱️ updated 1 year ago Each player is assigned a rank based on their accumulated experience points. Ranks range from \"None\" to the prestigious \"The Global Elite.\"",
+              "description": "⭐ 69 ⏱️ updated 1 year ago Each player is assigned a rank based on their accumulated experience points. Ranks range from \"None\" to the prestigious \"The Global Elite.\"",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1631,7 +1631,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-update-manager",
-              "description": "⭐ 23 ⏱️ updated 2 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
+              "description": "⭐ 23 ⏱️ updated 3 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1725,7 +1725,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-roll-the-dice",
-              "description": "⭐ 20 ⏱️ updated 1 month ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
+              "description": "⭐ 21 ⏱️ updated 1 month ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1881,7 +1881,7 @@
             {
               "node_type": "item",
               "title": "KKNecmi/ThirdPerson-Revamped",
-              "description": "⭐ 18 ⏱️ updated 3 days ago A modern, improved third-person camera plugin for Counter-Strike 2.",
+              "description": "⭐ 18 ⏱️ updated 4 days ago A modern, improved third-person camera plugin for Counter-Strike 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1995,7 +1995,7 @@
             {
               "node_type": "item",
               "title": "Austinbots/CS2-BotAI",
-              "description": "⭐ 15 ⏱️ updated 11 months ago Improves the built in bots AI.",
+              "description": "⭐ 16 ⏱️ updated 11 months ago Improves the built in bots AI.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-demo-recorder",
-              "description": "⭐ 12 ⏱️ updated 2 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
+              "description": "⭐ 12 ⏱️ updated 3 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2209,7 +2209,7 @@
             {
               "node_type": "item",
               "title": "T3Marius/MVP-Anthem",
-              "description": "⭐ 11 ⏱️ updated 10 months ago A plugin that add custom mvp sound to the game.",
+              "description": "⭐ 11 ⏱️ updated 11 months ago A plugin that add custom mvp sound to the game.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2701,7 +2701,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-BreakerAndOpenDoor",
-              "description": "⭐ 3 ⏱️ updated 3 days ago Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution.",
+              "description": "⭐ 3 ⏱️ updated 4 days ago Automatic round-start map cleanup for retake servers — opens doors and breaks windows/vents/breakables with a robust multi-pass, fallback-safe execution.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2775,7 +2775,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-RETAKE",
-              "description": "⭐ 2 ⏱️ updated 3 days ago Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.",
+              "description": "⭐ 2 ⏱️ updated 4 days ago Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2807,7 +2807,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-AdminTools",
-              "description": "⭐ 2 ⏱️ updated 3 days ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
+              "description": "⭐ 2 ⏱️ updated 4 days ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2902,7 +2902,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-SpawnEditor",
-              "description": "⭐ 1 ⏱️ updated 3 days ago In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization.",
+              "description": "⭐ 1 ⏱️ updated 4 days ago In-game visual spawn editor companion for CS2-RETAKE — add, edit, delete and teleport to retake spawn points with live glow-pillar visualization.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2928,7 +2928,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-AntiSlow",
-              "description": "⭐ 1 ⏱️ updated 3 days ago Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support.",
+              "description": "⭐ 1 ⏱️ updated 4 days ago Blocks Shift slow-walk for targeted players, with temporary or permanent blocks and full localization support.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3035,7 +3035,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-Antibait",
-              "description": "⭐ 0 ⏱️ updated 3 days ago Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.",
+              "description": "⭐ 0 ⏱️ updated 4 days ago Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:41.413Z",
+    "last_updated": "2026-08-29T15:05:53.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3273,7 +3273,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-28T11:04:09Z",
+      "last_commit": "2026-08-29T06:48:55Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3288,7 +3288,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "fe6330c50d91222af0197757015ad29c0f96a745",
+    "original_repository_sha": "7b7a62af8cca847da70c0541411d4cd227cf0925",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
