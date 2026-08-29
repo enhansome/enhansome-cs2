@@ -47,7 +47,7 @@
 * **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,323 | 🐛 59 | 🌐 C# | 📅 2026-08-24**\
   *A tool to download game files of a specific version.*
 
-* **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
+* **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
   *A visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.*
 
 * **[Schema Dumper](https://github.com/GAMMACASE/Source2SchemaDumper) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-07-26**\
@@ -69,7 +69,7 @@
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,339 | 🐛 104 | 🌐 C# | 📅 2026-08-28** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,340 | 🐛 104 | 🌐 C# | 📅 2026-08-28** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
@@ -181,7 +181,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 8 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
-* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 196 | 🐛 27 | 🌐 C++ | 📅 2026-08-26**<br>
+* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 196 | 🐛 28 | 🌐 C++ | 📅 2026-08-26**<br>
   ⭐ 196<br>
   ⏱️ updated 1 day ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
@@ -191,17 +191,17 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
+* **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2) ⭐ 66 | 🐛 0 | 🌐 C++ | 📅 2026-08-18**<br>
+  ⭐ 65<br>
+  ⏱️ updated 1 week ago<br>
+  *A simple plugin that allows you to filter out console prints with regular expressions.*
+
 * **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI) ⭐ 65 | 🐛 0 | 🌐 C++ | 📅 2026-08-19**<br>
   ⭐ 65<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that shows entities, net messages, events and etc with a GUI.*
 
-* **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2) ⭐ 65 | 🐛 0 | 🌐 C++ | 📅 2026-08-18**<br>
-  ⭐ 65<br>
-  ⏱️ updated 1 week ago<br>
-  *A simple plugin that allows you to filter out console prints with regular expressions.*
-
-* **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix) ⭐ 64 | 🐛 0 | 🌐 C++ | 📅 2026-08-17**<br>
+* **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix) ⭐ 65 | 🐛 0 | 🌐 C++ | 📅 2026-08-17**<br>
   ⭐ 64<br>
   ⏱️ updated 1 week ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
@@ -216,7 +216,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 days ago<br>
   *Fakercon adds the fake\_rcon\_password and fake\_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
-* **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2026-07-09**<br>
+* **[Cruze03/FakeRanks-RevealAll](https://github.com/Cruze03/FakeRanks-RevealAll) ⭐ 54 | 🐛 0 | 🌐 C++ | 📅 2026-07-09**<br>
   ⭐ 53<br>
   ⏱️ updated 1 month ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
@@ -241,12 +241,12 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
-* **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 24 | 🐛 3 | 🌐 C++ | 📅 2026-08-27**<br>
+* **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 25 | 🐛 2 | 🌐 C++ | 📅 2026-08-27**<br>
   ⭐ 24<br>
   ⏱️ updated 1 day ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
-* **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2026-08-26**<br>
+* **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 20 | 🐛 1 | 🌐 C++ | 📅 2026-08-26**<br>
   ⭐ 19<br>
   ⏱️ updated 2 days ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
@@ -288,7 +288,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
-* **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) ⭐ 138 | 🐛 16 | 🌐 C# | 📅 2025-08-30**<br>
+* **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) ⭐ 139 | 🐛 16 | 🌐 C# | 📅 2025-08-30**<br>
   ⭐ 138<br>
   ⏱️ updated 12 months ago<br>
   *A cssharp plugin to change player models.*
@@ -318,7 +318,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 4 months ago<br>
   *This plugin allows players to use Emotes & Dances just like Fortnite.*
 
-* **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks) ⭐ 68 | 🐛 47 | 🌐 C# | 📅 2025-08-05**<br>
+* **[partiusfabaa/cs2-ranks](https://github.com/partiusfabaa/cs2-ranks) ⭐ 69 | 🐛 47 | 🌐 C# | 📅 2025-08-05**<br>
   ⭐ 68<br>
   ⏱️ updated 1 year ago<br>
   *Each player is assigned a rank based on their accumulated experience points. Ranks range from "None" to the prestigious "The Global Elite."*
@@ -483,6 +483,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 years ago<br>
   *A CSSharp plugin to block all radio commands.*
 
+* **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI) ⭐ 16 | 🐛 2 | 🌐 C# | 📅 2025-09-08**<br>
+  ⭐ 15<br>
+  ⏱️ updated 11 months ago<br>
+  *Improves the built in bots AI.*
+
 * **[Letaryat/CS2-Poor-MapPropAds](https://github.com/Letaryat/CS2-Poor-MapPropAds) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2025-12-25**<br>
   ⭐ 15<br>
   ⏱️ updated 8 months ago<br>
@@ -497,11 +502,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 15<br>
   ⏱️ updated 8 months ago<br>
   *Lightweight and efficient voting system for CS2 without anything pointless, allowing players to initiate votes for kicking, banning, and muting players.*
-
-* **[Austinbots/CS2-BotAI](https://github.com/Austinbots/CS2-BotAI) ⭐ 15 | 🐛 2 | 🌐 C# | 📅 2025-09-08**<br>
-  ⭐ 15<br>
-  ⏱️ updated 11 months ago<br>
-  *Improves the built in bots AI.*
 
 * **[T3Marius/T3Menu-API](https://github.com/T3Marius/T3Menu-API) ⭐ 14 | 🐛 1 | 🌐 C# | 📅 2026-01-16**<br>
   ⭐ 14<br>
@@ -1992,4 +1992,4 @@ Please feel free to submit pull requests or issues, we need your contributions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
