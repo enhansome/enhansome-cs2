@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3343,
+            "stars": 3345,
             "topics": [
               "c-sharp",
               "steam",
@@ -131,11 +131,11 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T08:23:28Z",
+            "last_commit": "2026-09-02T12:39:04Z",
             "open_issues": 104,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
-            "stars": 1341,
+            "stars": 1342,
             "topics": [
               "counter-strike-2",
               "cs2",
@@ -222,7 +222,7 @@
             "open_issues": 4,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:37.915Z"
@@ -243,7 +243,7 @@
             "open_issues": 3,
             "owner": "untrustedmodders",
             "repo": "plugify",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "cpp",
               "cpp20",
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1650,
+            "stars": 1653,
             "topics": [
               "cplusplus",
               "csgo",
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 360 ⏱️ updated 18 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 360 ⏱️ updated 9 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,11 +504,11 @@
                 "id": 695646152,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T10:42:28Z",
+                "last_commit": "2026-09-01T18:50:32Z",
                 "open_issues": 13,
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
-                "stars": 360,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 197 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 197 ⏱️ updated 51 minutes ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,8 +525,8 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T13:45:56Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-02T03:15:52Z",
+                "open_issues": 26,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
                 "stars": 197,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/MultiAddonManager",
-              "description": "⭐ 128 ⏱️ updated 1 week ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 129 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,7 +557,7 @@
                 "open_issues": 6,
                 "owner": "Source2ZE",
                 "repo": "MultiAddonManager",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CleanerCS2",
-              "description": "⭐ 67 ⏱️ updated 1 week ago A simple plugin that allows you to filter out console prints with regular expressions.",
+              "description": "⭐ 67 ⏱️ updated 2 weeks ago A simple plugin that allows you to filter out console prints with regular expressions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 62 ⏱️ updated 6 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 62 ⏱️ updated 1 week ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -700,7 +700,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/StripperCS2",
-              "description": "⭐ 51 ⏱️ updated 5 days ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
+              "description": "⭐ 51 ⏱️ updated 6 days ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -713,7 +713,7 @@
                 "open_issues": 0,
                 "owner": "Source2ZE",
                 "repo": "StripperCS2",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -742,7 +742,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/AcceleratorCS2",
-              "description": "⭐ 31 ⏱️ updated 5 days ago A plugin that generate a crash dump when there's a crash.",
+              "description": "⭐ 31 ⏱️ updated 6 days ago A plugin that generate a crash dump when there's a crash.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 26 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 26 ⏱️ updated 2 days ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,8 +811,8 @@
                 "id": 1254215152,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T11:27:01Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-02T12:20:57Z",
+                "open_issues": 1,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Hider",
                 "stars": 26,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "Cruze03/GameBanFix",
-              "description": "⭐ 20 ⏱️ updated 5 days ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
+              "description": "⭐ 20 ⏱️ updated 6 days ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Controller",
-              "description": "⭐ 18 ⏱️ updated 2 days ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
+              "description": "⭐ 18 ⏱️ updated 3 days ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +950,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-27T08:02:21Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "Nereziel",
                 "repo": "cs2-WeaponPaints",
                 "stars": 411,
@@ -961,7 +961,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 317 ⏱️ updated 4 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 317 ⏱️ updated 5 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-instadefuse",
-              "description": "⭐ 66 ⏱️ updated 2 weeks ago A plugin that allows players to instantly defuse the bomb.",
+              "description": "⭐ 66 ⏱️ updated 3 weeks ago A plugin that allows players to instantly defuse the bomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1704,7 +1704,7 @@
             {
               "node_type": "item",
               "title": "qstage/CS2-HidePlayers",
-              "description": "⭐ 21 ⏱️ updated 11 months ago Allows you to hide player models.",
+              "description": "⭐ 21 ⏱️ updated 12 months ago Allows you to hide player models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1748,7 +1748,7 @@
             {
               "node_type": "item",
               "title": "zakriamansoor47/SLAYER_Duel",
-              "description": "⭐ 19 ⏱️ updated 2 weeks ago This plugin allows players to do 1vs1 duel.",
+              "description": "⭐ 19 ⏱️ updated 3 weeks ago This plugin allows players to do 1vs1 duel.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1795,7 +1795,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-quake-sounds",
-              "description": "⭐ 19 ⏱️ updated 2 weeks ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
+              "description": "⭐ 19 ⏱️ updated 3 weeks ago This is a simple Quake Sound plugin for your server. It supports all types of sounds - only a workshop addon is necessesary.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2188,7 +2188,7 @@
             {
               "node_type": "item",
               "title": "zakriamansoor47/SLAYER_AntiCamp",
-              "description": "⭐ 11 ⏱️ updated 2 weeks ago This plugin detect player who is camping for a specific time.",
+              "description": "⭐ 11 ⏱️ updated 3 weeks ago This plugin detect player who is camping for a specific time.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2960,7 +2960,7 @@
             {
               "node_type": "item",
               "title": "TICHOJEBEC-SK/cs2-WarnSystem",
-              "description": "⭐ 1 ⏱️ updated 12 months ago A plugin that allows admins to warn players.",
+              "description": "⭐ 1 ⏱️ updated 1 year ago A plugin that allows admins to warn players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "NeuTroNBZh/CS2-STATPLAY",
-              "description": "⭐ 0 ⏱️ updated 6 days ago Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks.",
+              "description": "⭐ 0 ⏱️ updated 1 week ago Production-ready stats plugin — captures kills, rounds, objectives and grenades in real time, persists to MySQL, with !stats/!rank/!top commands and milestone webhooks.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3069,7 +3069,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 1 day ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 2 days ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:01:23.619Z",
+    "last_updated": "2026-09-02T14:31:52.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3273,11 +3273,11 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-01T04:45:31Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-02T04:07:10Z",
+      "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
-      "stars": 100,
+      "stars": 101,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3288,7 +3288,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "8a4a65008c90e11fb7222e5dd39c85050778d071",
+    "original_repository_sha": "b3c21be016b17ca3d4f6f6a834733621e9834b65",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
