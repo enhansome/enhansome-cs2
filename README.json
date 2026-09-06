@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3351,
+            "stars": 3353,
             "topics": [
               "c-sharp",
               "steam",
@@ -131,7 +131,7 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T11:44:15Z",
+            "last_commit": "2026-09-06T12:02:08Z",
             "open_issues": 102,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
@@ -222,7 +222,7 @@
             "open_issues": 3,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:37.915Z"
@@ -312,7 +312,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "csgo",
               "protobuf",
@@ -338,7 +338,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "csgo",
               "protobuf",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "csgo",
               "protobuf",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "csgo",
               "protobuf",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "csgo",
               "protobuf",
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 361 ⏱️ updated 3 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 361 ⏱️ updated 4 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 199 ⏱️ updated 21 minutes ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 199 ⏱️ updated 2 hours ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,8 +525,8 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-05T03:43:34Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-06T02:08:35Z",
+                "open_issues": 20,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
                 "stars": 199,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/MultiAddonManager",
-              "description": "⭐ 129 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 130 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 26 ⏱️ updated 10 hours ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 26 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Controller",
-              "description": "⭐ 18 ⏱️ updated 6 days ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
+              "description": "⭐ 19 ⏱️ updated 1 week ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -864,7 +864,7 @@
                 "open_issues": 0,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Controller",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1124,7 +1124,7 @@
             {
               "node_type": "item",
               "title": "partiusfabaa/cs2-VIPCore",
-              "description": "⭐ 76 ⏱️ updated 4 weeks ago A vip plugin for cs2.",
+              "description": "⭐ 76 ⏱️ updated 1 month ago A vip plugin for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-demo-recorder",
-              "description": "⭐ 12 ⏱️ updated 3 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
+              "description": "⭐ 13 ⏱️ updated 3 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2178,7 +2178,7 @@
                 "open_issues": 0,
                 "owner": "Kandru",
                 "repo": "cs2-demo-recorder",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "cssharp"
                 ]
@@ -3069,7 +3069,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 5 days ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 6 days ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3195,7 +3195,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/Cookies",
-              "description": "⭐ 6 ⏱️ updated 3 months ago Server/Client persistent variables.",
+              "description": "⭐ 6 ⏱️ updated 4 months ago Server/Client persistent variables.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
                 "open_issues": 1,
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "MenuFlickeringFix",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:28:03.158Z",
+    "last_updated": "2026-09-06T13:41:33.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3273,7 +3273,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-05T04:05:12Z",
+      "last_commit": "2026-09-06T04:13:01Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3288,7 +3288,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "b9059e2e22dca0f71b9b0f3cc066a0d2536b2107",
+    "original_repository_sha": "a283b2269c41eef4056a0352d2e32448980a40f6",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"

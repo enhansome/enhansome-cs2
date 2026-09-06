@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/09/04 04:09:12</strong>
+  Last Sync: <strong>2026/09/05 04:05:11</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -44,7 +44,7 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,351 | 🐛 59 | 🌐 C# | 📅 2026-08-31**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,353 | 🐛 59 | 🌐 C# | 📅 2026-08-31**\
   *A tool to download game files of a specific version.*
 
 * **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
@@ -69,7 +69,7 @@
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,343 | 🐛 102 | 🌐 C# | 📅 2026-09-05** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,343 | 🐛 102 | 🌐 C# | 📅 2026-09-06** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
@@ -80,7 +80,7 @@
 * **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 114 | 🐛 6 | 🌐 C# | 📅 2026-09-04** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
   *Modern Source 2 Modding Solution.*
 
-* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 100 | 🐛 3 | 🌐 C# | 📅 2026-09-04** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
+* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 101 | 🐛 3 | 🌐 C# | 📅 2026-09-04** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
 
 * **[Plugify](https://github.com/untrustedmodders/plugify) ⭐ 83 | 🐛 1 | 🌐 C++ | 📅 2026-09-04** \[[Website](https://plugify.net)] \[[Discord](https://discord.gg/untrustedmodders)]\
@@ -93,23 +93,23 @@ These are the websites with resources that you might need to check during develo
 * **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,654 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
   *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
 
-* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
+* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
   *A list of all cs2 convars, directly dumped from latest cs2 binary.*
 
-* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
+* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
   *A list of all cs2 commands, directly dumped from latest cs2 binary.*
 
 * **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
   *A list of all cs2 game events.*\
   *The data might be outdated, if so, you can find the latest ones here:*\
-  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
-  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
-  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28*
 
-* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
+* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
-* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 945 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
+* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 947 | 🐛 0 | 🌐 Slang | 📅 2026-08-28**\
   *A list of all cs2 protobuf definitions.*
 
 * **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 459 | 🐛 8 | 🌐 C++ | 📅 2026-09-02**\
@@ -178,16 +178,16 @@ These are the websites with resources that you might need to check during develo
 
 * **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 361 | 🐛 13 | 🌐 C++ | 📅 2026-09-01**<br>
   ⭐ 361<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
-* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 199 | 🐛 21 | 🌐 C++ | 📅 2026-09-05**<br>
+* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 199 | 🐛 20 | 🌐 C++ | 📅 2026-09-06**<br>
   ⭐ 199<br>
-  ⏱️ updated 21 minutes ago<br>
+  ⏱️ updated 2 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 * **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 130 | 🐛 6 | 🌐 C++ | 📅 2026-08-18**<br>
-  ⭐ 129<br>
+  ⭐ 130<br>
   ⏱️ updated 2 weeks ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
@@ -243,7 +243,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2026-09-04**<br>
   ⭐ 26<br>
-  ⏱️ updated 10 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 * **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2026-08-26**<br>
@@ -251,9 +251,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.*
 
-* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2026-08-29**<br>
-  ⭐ 18<br>
-  ⏱️ updated 6 days ago<br>
+* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-08-29**<br>
+  ⭐ 19<br>
+  ⏱️ updated 1 week ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 * **[samyycX/Audio](https://github.com/samyycX/Audio) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2025-08-22**<br>
@@ -305,7 +305,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore) ⭐ 76 | 🐛 38 | 🌐 C# | 📅 2026-08-06**<br>
   ⭐ 76<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *A vip plugin for cs2.*
 
 * **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ) ⭐ 73 | 🐛 0 | 🌐 C# | 📅 2026-07-24**<br>
@@ -523,8 +523,8 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
-* **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-05-30**<br>
-  ⭐ 12<br>
+* **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-05-30**<br>
+  ⭐ 13<br>
   ⏱️ updated 3 months ago<br>
   *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
 
@@ -729,7 +729,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins) ⭐ 36 | 🐛 12 | 🌐 C# | 📅 2026-08-30**<br>
   ⭐ 36<br>
-  ⏱️ updated 5 days ago<br>
+  ⏱️ updated 6 days ago<br>
   *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
 * **[SwiftlyS2-Plugins/AddonsManager](https://github.com/SwiftlyS2-Plugins/AddonsManager) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2026-07-09**<br>
@@ -759,7 +759,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-05-08**<br>
   ⭐ 6<br>
-  ⏱️ updated 3 months ago<br>
+  ⏱️ updated 4 months ago<br>
   *Server/Client persistent variables.*
 
 * **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore) ⭐ 6 | 🐛 5 | 🌐 C# | 📅 2026-05-05**<br>
@@ -767,7 +767,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
   ⏱️ updated 4 months ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
-* **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2025-11-12**<br>
+* **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2025-11-12**<br>
   ⭐ 5<br>
   ⏱️ updated 9 months ago<br>
   *Fix the flickering menu. Won't have effect during warmup for game reason.*
@@ -1992,4 +1992,4 @@ Please feel free to submit pull requests or issues, we need your contributions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
