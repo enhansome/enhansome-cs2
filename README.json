@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3353,
+            "stars": 3356,
             "topics": [
               "c-sharp",
               "steam",
@@ -131,7 +131,7 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T12:02:08Z",
+            "last_commit": "2026-09-07T14:05:55Z",
             "open_issues": 102,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
@@ -218,7 +218,7 @@
             "id": 1036227312,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T06:53:37Z",
+            "last_commit": "2026-09-06T14:09:40Z",
             "open_issues": 3,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "cplusplus",
               "csgo",
@@ -464,7 +464,7 @@
             "id": 343620765,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-05T09:06:42Z",
+            "last_commit": "2026-09-06T22:51:29Z",
             "open_issues": 0,
             "owner": "Wend4r",
             "repo": "sourcesdk",
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 361 ⏱️ updated 4 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 361 ⏱️ updated 5 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 199 ⏱️ updated 2 hours ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 199 ⏱️ updated 11 hours ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-06T02:08:35Z",
+                "last_commit": "2026-09-06T16:54:16Z",
                 "open_issues": 20,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/ServerListPlayersFix",
-              "description": "⭐ 65 ⏱️ updated 2 weeks ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+              "description": "⭐ 65 ⏱️ updated 3 weeks ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/MovementUnlocker",
-              "description": "⭐ 62 ⏱️ updated 2 weeks ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
+              "description": "⭐ 62 ⏱️ updated 3 weeks ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 26 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 26 ⏱️ updated 12 hours ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,7 +811,7 @@
                 "id": 1254215152,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T17:33:51Z",
+                "last_commit": "2026-09-06T15:38:08Z",
                 "open_issues": 0,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Hider",
@@ -864,7 +864,7 @@
                 "open_issues": 0,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Controller",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -989,7 +989,7 @@
             {
               "node_type": "item",
               "title": "daffyyyy/CS2-SimpleAdmin",
-              "description": "⭐ 186 ⏱️ updated 2 months ago Manage your Counter-Strike 2 server with simple commands!",
+              "description": "⭐ 187 ⏱️ updated 2 months ago Manage your Counter-Strike 2 server with simple commands!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1002,7 +1002,7 @@
                 "open_issues": 61,
                 "owner": "daffyyyy",
                 "repo": "CS2-SimpleAdmin",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1704,7 +1704,7 @@
             {
               "node_type": "item",
               "title": "qstage/CS2-HidePlayers",
-              "description": "⭐ 21 ⏱️ updated 12 months ago Allows you to hide player models.",
+              "description": "⭐ 21 ⏱️ updated 1 year ago Allows you to hide player models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3069,7 +3069,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 6 days ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 1 week ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3090,7 +3090,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/AddonsManager",
-              "description": "⭐ 18 ⏱️ updated 1 month ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 19 ⏱️ updated 1 month ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3103,7 +3103,7 @@
                 "open_issues": 1,
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "AddonsManager",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -3215,6 +3215,27 @@
             },
             {
               "node_type": "item",
+              "title": "SwiftlyS2-Plugins/MenuFlickeringFix",
+              "description": "⭐ 6 ⏱️ updated 9 months ago Fix the flickering menu. Won't have effect during warmup for game reason.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fixes flickering on the menu.",
+                "homepage": null,
+                "id": 1089663301,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2025-11-12T07:05:24Z",
+                "open_issues": 1,
+                "owner": "SwiftlyS2-Plugins",
+                "repo": "MenuFlickeringFix",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "SwiftlyS2-Plugins/VIPCore",
               "description": "⭐ 6 ⏱️ updated 4 months ago A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.",
               "children": [],
@@ -3233,27 +3254,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SwiftlyS2-Plugins/MenuFlickeringFix",
-              "description": "⭐ 5 ⏱️ updated 9 months ago Fix the flickering menu. Won't have effect during warmup for game reason.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fixes flickering on the menu.",
-                "homepage": null,
-                "id": 1089663301,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2025-11-12T07:05:24Z",
-                "open_issues": 1,
-                "owner": "SwiftlyS2-Plugins",
-                "repo": "MenuFlickeringFix",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
             }
           ],
           "description": "Check Forum for all swiftlys2 plugins.",
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:41:33.375Z",
+    "last_updated": "2026-09-07T15:53:31.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3273,7 +3273,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-06T04:13:01Z",
+      "last_commit": "2026-09-07T04:12:19Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3288,7 +3288,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "a283b2269c41eef4056a0352d2e32448980a40f6",
+    "original_repository_sha": "b0c0883f38d60096994fdfbff663db36417e4534",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
