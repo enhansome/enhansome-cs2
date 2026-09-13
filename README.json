@@ -15,11 +15,11 @@
             "id": 11851957,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T19:43:30Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-12T15:14:48Z",
+            "open_issues": 59,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3374,
+            "stars": 3377,
             "topics": [
               "c-sharp",
               "steam",
@@ -187,7 +187,7 @@
             "open_issues": 8,
             "owner": "Kxnrl",
             "repo": "modsharp-public",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "counter-strike-2",
               "counterstrike",
@@ -219,10 +219,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T00:10:47Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:37.915Z"
@@ -243,7 +243,7 @@
             "open_issues": 1,
             "owner": "untrustedmodders",
             "repo": "plugify",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "cpp",
               "cpp20",
@@ -439,7 +439,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-10T14:06:17Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "alliedmodders",
             "repo": "hl2sdk",
             "stars": 461,
@@ -464,7 +464,7 @@
             "id": 343620765,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-11T12:45:32Z",
+            "last_commit": "2026-09-12T20:59:40Z",
             "open_issues": 0,
             "owner": "Wend4r",
             "repo": "sourcesdk",
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 361 ⏱️ updated 1 day ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 361 ⏱️ updated 8 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,7 +504,7 @@
                 "id": 695646152,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T22:36:54Z",
+                "last_commit": "2026-09-13T04:49:30Z",
                 "open_issues": 12,
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 199 ⏱️ updated 6 hours ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 201 ⏱️ updated 1 day ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +529,7 @@
                 "open_issues": 20,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "cs2",
                   "csgo",
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/MultiAddonManager",
-              "description": "⭐ 131 ⏱️ updated 2 days ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 131 ⏱️ updated 3 days ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CleanerCS2",
-              "description": "⭐ 68 ⏱️ updated 3 days ago A simple plugin that allows you to filter out console prints with regular expressions.",
+              "description": "⭐ 68 ⏱️ updated 4 days ago A simple plugin that allows you to filter out console prints with regular expressions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,8 +585,29 @@
             },
             {
               "node_type": "item",
+              "title": "Source2ZE/CS2ServerGUI",
+              "description": "⭐ 66 ⏱️ updated 3 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Brings back the removed dev tools from the CS2 client",
+                "homepage": null,
+                "id": 770616051,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-10T02:59:00Z",
+                "open_issues": 0,
+                "owner": "Source2ZE",
+                "repo": "CS2ServerGUI",
+                "stars": 66,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "Source2ZE/ServerListPlayersFix",
-              "description": "⭐ 66 ⏱️ updated 3 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+              "description": "⭐ 66 ⏱️ updated 4 days ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,29 +627,8 @@
             },
             {
               "node_type": "item",
-              "title": "Source2ZE/CS2ServerGUI",
-              "description": "⭐ 65 ⏱️ updated 2 days ago A plugin that shows entities, net messages, events and etc with a GUI.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Brings back the removed dev tools from the CS2 client",
-                "homepage": null,
-                "id": 770616051,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-10T02:59:00Z",
-                "open_issues": 0,
-                "owner": "Source2ZE",
-                "repo": "CS2ServerGUI",
-                "stars": 65,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
               "title": "Source2ZE/MovementUnlocker",
-              "description": "⭐ 62 ⏱️ updated 3 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
+              "description": "⭐ 62 ⏱️ updated 4 days ago A plugin that removes the max speed limitation from players on the ground, feels like CS:S. Useful for zombie knockback, several movement gamemodes, or just easier bhop.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 62 ⏱️ updated 3 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 62 ⏱️ updated 4 days ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -700,7 +700,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/StripperCS2",
-              "description": "⭐ 53 ⏱️ updated 3 days ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
+              "description": "⭐ 53 ⏱️ updated 4 days ago A plugin that allows server operators to manage map lump data similarly to how Stripper:Source worked.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -742,7 +742,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/AcceleratorCS2",
-              "description": "⭐ 32 ⏱️ updated 3 days ago A plugin that generate a crash dump when there's a crash.",
+              "description": "⭐ 32 ⏱️ updated 4 days ago A plugin that generate a crash dump when there's a crash.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -763,7 +763,7 @@
             {
               "node_type": "item",
               "title": "GAMMACASE/Source2SchemaDumper",
-              "description": "⭐ 27 ⏱️ updated 2 days ago A plugin that can dump the schemas and generate a header file.",
+              "description": "⭐ 27 ⏱️ updated 4 days ago A plugin that can dump the schemas and generate a header file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 26 ⏱️ updated 21 hours ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 27 ⏱️ updated 9 hours ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,11 +811,11 @@
                 "id": 1254215152,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T08:42:14Z",
+                "last_commit": "2026-09-13T03:59:59Z",
                 "open_issues": 1,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Hider",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Controller",
-              "description": "⭐ 20 ⏱️ updated 1 week ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
+              "description": "⭐ 20 ⏱️ updated 9 hours ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
                 "id": 1246881059,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T14:34:28Z",
+                "last_commit": "2026-09-13T04:00:17Z",
                 "open_issues": 1,
                 "owner": "XBribo",
                 "repo": "CS2-Bot-Controller",
@@ -900,7 +900,7 @@
             {
               "node_type": "item",
               "title": "shobhit-pathak/MatchZy",
-              "description": "⭐ 492 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
+              "description": "⭐ 493 ⏱️ updated 10 months ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -913,7 +913,7 @@
                 "open_issues": 131,
                 "owner": "shobhit-pathak",
                 "repo": "MatchZy",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -961,7 +961,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 317 ⏱️ updated 2 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 317 ⏱️ updated 19 hours ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -970,8 +970,8 @@
                 "id": 733595280,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T19:35:49Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-12T18:03:07Z",
+                "open_issues": 3,
                 "owner": "B3none",
                 "repo": "cs2-retakes",
                 "stars": 317,
@@ -989,7 +989,7 @@
             {
               "node_type": "item",
               "title": "daffyyyy/CS2-SimpleAdmin",
-              "description": "⭐ 186 ⏱️ updated 2 months ago Manage your Counter-Strike 2 server with simple commands!",
+              "description": "⭐ 188 ⏱️ updated 2 months ago Manage your Counter-Strike 2 server with simple commands!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1002,7 +1002,7 @@
                 "open_issues": 61,
                 "owner": "daffyyyy",
                 "repo": "CS2-SimpleAdmin",
-                "stars": 186,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "counterstrikesharp-panel/css-bans",
-              "description": "⭐ 145 ⏱️ updated 3 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
+              "description": "⭐ 145 ⏱️ updated 4 months ago CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +1073,7 @@
             {
               "node_type": "item",
               "title": "NockyCZ/CS2-Deathmatch",
-              "description": "⭐ 129 ⏱️ updated 1 month ago A plugin to implement deathmatch gamemode.",
+              "description": "⭐ 130 ⏱️ updated 1 month ago A plugin to implement deathmatch gamemode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1086,7 +1086,7 @@
                 "open_issues": 5,
                 "owner": "NockyCZ",
                 "repo": "CS2-Deathmatch",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "counterstrikesharp",
                   "cs2",
@@ -1103,7 +1103,7 @@
             {
               "node_type": "item",
               "title": "NiGHT757/AFKManager",
-              "description": "⭐ 84 ⏱️ updated 11 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
+              "description": "⭐ 85 ⏱️ updated 11 months ago AFK Manager plugin for CS2 based on player-checker by sazonische from CS:GO.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1116,7 +1116,7 @@
                 "open_issues": 4,
                 "owner": "NiGHT757",
                 "repo": "AFKManager",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1145,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "oqyh/cs2-Game-Manager-GoldKingZ",
-              "description": "⭐ 73 ⏱️ updated 1 month ago Block/Hide unnecessaries in game.",
+              "description": "⭐ 74 ⏱️ updated 1 month ago Block/Hide unnecessaries in game.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1158,7 @@
                 "open_issues": 0,
                 "owner": "oqyh",
                 "repo": "cs2-Game-Manager-GoldKingZ",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "block",
                   "body",
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-instadefuse",
-              "description": "⭐ 66 ⏱️ updated 3 days ago A plugin that allows players to instantly defuse the bomb.",
+              "description": "⭐ 66 ⏱️ updated 4 days ago A plugin that allows players to instantly defuse the bomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1347,7 +1347,7 @@
             {
               "node_type": "item",
               "title": "schwarper/CS2MenuManager",
-              "description": "⭐ 48 ⏱️ updated 1 month ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
+              "description": "⭐ 49 ⏱️ updated 1 month ago CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1360,7 +1360,7 @@
                 "open_issues": 1,
                 "owner": "schwarper",
                 "repo": "CS2MenuManager",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1395,7 +1395,7 @@
             {
               "node_type": "item",
               "title": "HvH-gg/CS2-Essentials",
-              "description": "⭐ 37 ⏱️ updated 7 months ago It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.",
+              "description": "⭐ 38 ⏱️ updated 7 months ago It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1408,7 +1408,7 @@
                 "open_issues": 3,
                 "owner": "HvH-gg",
                 "repo": "CS2-Essentials",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "darkerz7/EntWatchSharp",
-              "description": "⭐ 31 ⏱️ updated 1 month ago Notify players about entity interactions.",
+              "description": "⭐ 31 ⏱️ updated 1 hour ago Notify players about entity interactions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1551,7 +1551,7 @@
                 "id": 840976623,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T07:04:02Z",
+                "last_commit": "2026-09-13T11:59:57Z",
                 "open_issues": 0,
                 "owner": "darkerz7",
                 "repo": "EntWatchSharp",
@@ -1630,6 +1630,32 @@
             },
             {
               "node_type": "item",
+              "title": "wiruwiru/AutomaticAds-CS2",
+              "description": "⭐ 23 ⏱️ updated 1 month ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Allows server administrators to configure an advertisement to be sent automatically, at the moment of sending it, a sound is also played so that users pay attention to the advertisement. (for CounterStrikeSharp)",
+                "homepage": null,
+                "id": 865036038,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-29T04:46:26Z",
+                "open_issues": 3,
+                "owner": "wiruwiru",
+                "repo": "AutomaticAds-CS2",
+                "stars": 23,
+                "topics": [
+                  "counter-strike-2",
+                  "counterstrikesharp",
+                  "cs2",
+                  "metamod"
+                ]
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "Kandru/cs2-update-manager",
               "description": "⭐ 23 ⏱️ updated 3 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
               "children": [],
@@ -1671,32 +1697,6 @@
                 "topics": [
                   "counterstrikesharp",
                   "cs2"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "wiruwiru/AutomaticAds-CS2",
-              "description": "⭐ 22 ⏱️ updated 1 month ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Allows server administrators to configure an advertisement to be sent automatically, at the moment of sending it, a sound is also played so that users pay attention to the advertisement. (for CounterStrikeSharp)",
-                "homepage": null,
-                "id": 865036038,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-29T04:46:26Z",
-                "open_issues": 3,
-                "owner": "wiruwiru",
-                "repo": "AutomaticAds-CS2",
-                "stars": 22,
-                "topics": [
-                  "counter-strike-2",
-                  "counterstrikesharp",
-                  "cs2",
-                  "metamod"
                 ]
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1818,7 +1818,7 @@
             {
               "node_type": "item",
               "title": "samyycX/CSSharpPatcher",
-              "description": "⭐ 18 ⏱️ updated 10 months ago A plugin with various patches for cs2.",
+              "description": "⭐ 18 ⏱️ updated 11 months ago A plugin with various patches for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2099,6 +2099,27 @@
             },
             {
               "node_type": "item",
+              "title": "schwarper/cs2-store",
+              "description": "⭐ 14 ⏱️ updated 1 month ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A store plugin which designed to enhance your gameplay by providing a dynamic credit system that allows you to purchase essential items directly from the store.",
+                "homepage": "Discord:schwarper",
+                "id": 773738834,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-19T08:27:49Z",
+                "open_issues": 4,
+                "owner": "schwarper",
+                "repo": "cs2-store",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "B3none/cs2-instaplant",
               "description": "⭐ 14 ⏱️ updated 2 years ago Plant the bomb instantly as a terrorist.",
               "children": [],
@@ -2137,27 +2158,6 @@
                 "owner": "Quantor97",
                 "repo": "CS2-Kill-Plugin",
                 "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "schwarper/cs2-store",
-              "description": "⭐ 13 ⏱️ updated 1 month ago A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A store plugin which designed to enhance your gameplay by providing a dynamic credit system that allows you to purchase essential items directly from the store.",
-                "homepage": "Discord:schwarper",
-                "id": 773738834,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-19T08:27:49Z",
-                "open_issues": 4,
-                "owner": "schwarper",
-                "repo": "cs2-store",
-                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "HvH-gg/RapidFireFix",
-              "description": "⭐ 11 ⏱️ updated 10 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
+              "description": "⭐ 11 ⏱️ updated 11 months ago CounterStrikeSharp plugin to handle rapid fire in CS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2732,6 +2732,38 @@
             },
             {
               "node_type": "item",
+              "title": "NeuTroNBZh/CS2-AdminTools",
+              "description": "⭐ 3 ⏱️ updated 2 weeks ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CS2 CounterStrikeSharp plugin — wallhack, invisibility, god mode & admin commands for private/custom servers",
+                "homepage": null,
+                "id": 1242794859,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-08-24T12:35:21Z",
+                "open_issues": 0,
+                "owner": "NeuTroNBZh",
+                "repo": "CS2-AdminTools",
+                "stars": 3,
+                "topics": [
+                  "admin-commands",
+                  "counter-strike-2",
+                  "counterstrikesharp",
+                  "cs2",
+                  "cs2-plugin",
+                  "csharp",
+                  "gaming",
+                  "plugin",
+                  "portfolio",
+                  "wallhack"
+                ]
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dliix66/CS2-BotSlay",
               "description": "⭐ 3 ⏱️ updated 2 years ago CSSharp plugin to slay all bots when the last player dies.",
               "children": [],
@@ -2800,38 +2832,6 @@
                   "plugin",
                   "portfolio",
                   "retake"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NeuTroNBZh/CS2-AdminTools",
-              "description": "⭐ 2 ⏱️ updated 2 weeks ago Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CS2 CounterStrikeSharp plugin — wallhack, invisibility, god mode & admin commands for private/custom servers",
-                "homepage": null,
-                "id": 1242794859,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-08-24T12:35:21Z",
-                "open_issues": 0,
-                "owner": "NeuTroNBZh",
-                "repo": "CS2-AdminTools",
-                "stars": 2,
-                "topics": [
-                  "admin-commands",
-                  "counter-strike-2",
-                  "counterstrikesharp",
-                  "cs2",
-                  "cs2-plugin",
-                  "csharp",
-                  "gaming",
-                  "plugin",
-                  "portfolio",
-                  "wallhack"
                 ]
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "nvmxre/cs2-hud-panel",
-              "description": "⭐ 1 ⏱️ updated 18 hours ago Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.",
+              "description": "⭐ 1 ⏱️ updated 2 days ago Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3101,7 +3101,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 1 week ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 2 weeks ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3122,7 +3122,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/AddonsManager",
-              "description": "⭐ 19 ⏱️ updated 2 months ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 20 ⏱️ updated 2 months ago This plugin is a port of Source2ZE's MultiAddonManager for SwiftlyS2, allowing you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3135,7 +3135,7 @@
                 "open_issues": 1,
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "AddonsManager",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -3143,7 +3143,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/MapChooser",
-              "description": "⭐ 13 ⏱️ updated 2 months ago A powerful and customizable map voting system for SwiftlyS2.",
+              "description": "⭐ 13 ⏱️ updated 1 hour ago A powerful and customizable map voting system for SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3152,7 +3152,7 @@
                 "id": 1146751722,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-06-29T09:51:47Z",
+                "last_commit": "2026-09-13T12:03:21Z",
                 "open_issues": 0,
                 "owner": "SwiftlyS2-Plugins",
                 "repo": "MapChooser",
@@ -3297,7 +3297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:37:36.913Z",
+    "last_updated": "2026-09-13T14:26:07.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3305,7 +3305,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-12T04:14:58Z",
+      "last_commit": "2026-09-13T13:37:48Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3320,7 +3320,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "05763291217db2302e3e407e682b8e86b562a34f",
+    "original_repository_sha": "0a0862c4fe9cd5923b5ce8f907e898ebc3cb6150",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
