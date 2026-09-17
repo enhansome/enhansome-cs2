@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/09/16 04:29:46</strong>
+  Last Sync: <strong>2026/09/16 13:34:07</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -44,7 +44,7 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,386 | 🐛 59 | 🌐 C# | 📅 2026-09-12**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,388 | 🐛 59 | 🌐 C# | 📅 2026-09-12**\
   *A tool to download game files of a specific version.*
 
 * **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-08-05**\
@@ -69,18 +69,18 @@
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,348 | 🐛 106 | 🌐 C# | 📅 2026-09-15** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,349 | 🐛 106 | 🌐 C# | 📅 2026-09-17** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-* **[Metamod](https://github.com/alliedmodders/metamod-source) ⭐ 549 | 🐛 20 | 🌐 Pascal | 📅 2026-09-15** \[[Website](https://www.sourcemm.net/downloads.php?branch=dev)] \[[Discord](https://discord.com/invite/HUc67zN)]\
+* **[Metamod](https://github.com/alliedmodders/metamod-source) ⭐ 550 | 🐛 20 | 🌐 Pascal | 📅 2026-09-16** \[[Website](https://www.sourcemm.net/downloads.php?branch=dev)] \[[Discord](https://discord.com/invite/HUc67zN)]\
   *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
   ***Please notice that it's the dev branch that support cs2, make sure you download the right version.***
 
 * **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 114 | 🐛 6 | 🌐 C# | 📅 2026-09-14** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
   *Modern Source 2 Modding Solution.*
 
-* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 102 | 🐛 3 | 🌐 C# | 📅 2026-09-15** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
+* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 103 | 🐛 3 | 🌐 C# | 📅 2026-09-15** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
 
 * **[Plugify](https://github.com/untrustedmodders/plugify) ⭐ 84 | 🐛 1 | 🌐 C++ | 📅 2026-09-14** \[[Website](https://plugify.net)] \[[Discord](https://discord.gg/untrustedmodders)]\
@@ -93,26 +93,26 @@ These are the websites with resources that you might need to check during develo
 * **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,660 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
   *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
 
-* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
+* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
   *A list of all cs2 convars, directly dumped from latest cs2 binary.*
 
-* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
+* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
   *A list of all cs2 commands, directly dumped from latest cs2 binary.*
 
 * **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
   *A list of all cs2 game events.*\
   *The data might be outdated, if so, you can find the latest ones here:*\
-  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
-  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
-  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09*
 
-* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
+* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
-* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 950 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
+* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 951 | 🐛 0 | 🌐 Slang | 📅 2026-09-09**\
   *A list of all cs2 protobuf definitions.*
 
-* **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 461 | 🐛 9 | 🌐 C++ | 📅 2026-09-14**\
+* **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 460 | 🐛 9 | 🌐 C++ | 📅 2026-09-17**\
   *Actively maintained SDK for cs2.*
 
 * **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk) ⭐ 44 | 🐛 0 | 🌐 C++ | 📅 2026-09-14**\
@@ -176,19 +176,19 @@ These are the websites with resources that you might need to check during develo
 
 ## Metamod Plugins
 
-* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 362 | 🐛 12 | 🌐 C++ | 📅 2026-09-16**<br>
+* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 362 | 🐛 12 | 🌐 C++ | 📅 2026-09-17**<br>
   ⭐ 362<br>
-  ⏱️ updated 12 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
-* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 202 | 🐛 31 | 🌐 C++ | 📅 2026-09-14**<br>
+* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 202 | 🐛 31 | 🌐 C++ | 📅 2026-09-17**<br>
   ⭐ 202<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
 * **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 131 | 🐛 6 | 🌐 C++ | 📅 2026-09-09**<br>
   ⭐ 131<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
 * **[Source2ZE/CleanerCS2](https://github.com/Source2ZE/CleanerCS2) ⭐ 68 | 🐛 0 | 🌐 C++ | 📅 2026-09-08**<br>
@@ -196,15 +196,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A simple plugin that allows you to filter out console prints with regular expressions.*
 
-* **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI) ⭐ 66 | 🐛 0 | 🌐 C++ | 📅 2026-09-10**<br>
-  ⭐ 66<br>
-  ⏱️ updated 6 days ago<br>
-  *A plugin that shows entities, net messages, events and etc with a GUI.*
-
-* **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix) ⭐ 66 | 🐛 0 | 🌐 C++ | 📅 2026-09-08**<br>
+* **[Source2ZE/ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix) ⭐ 67 | 🐛 0 | 🌐 C++ | 📅 2026-09-08**<br>
   ⭐ 66<br>
   ⏱️ updated 1 week ago<br>
   *Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.*
+
+* **[Source2ZE/CS2ServerGUI](https://github.com/Source2ZE/CS2ServerGUI) ⭐ 66 | 🐛 0 | 🌐 C++ | 📅 2026-09-10**<br>
+  ⭐ 66<br>
+  ⏱️ updated 1 week ago<br>
+  *A plugin that shows entities, net messages, events and etc with a GUI.*
 
 * **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-09-08**<br>
   ⭐ 63<br>
@@ -238,17 +238,17 @@ These are the websites with resources that you might need to check during develo
 
 * **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 28 | 🐛 1 | 🌐 C++ | 📅 2026-09-14**<br>
   ⭐ 28<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 * **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-09-09**<br>
   ⭐ 27<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
-* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 21 | 🐛 0 | 🌐 C++ | 📅 2026-09-15**<br>
+* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2026-09-15**<br>
   ⭐ 21<br>
-  ⏱️ updated 22 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 * **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2026-08-26**<br>
@@ -273,9 +273,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
-* **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes) ⭐ 317 | 🐛 3 | 🌐 C# | 📅 2026-09-12**<br>
+* **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes) ⭐ 318 | 🐛 2 | 🌐 C# | 📅 2026-09-16**<br>
   ⭐ 317<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 11 hours ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 * **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) ⭐ 188 | 🐛 61 | 🌐 C# | 📅 2026-06-27**<br>
@@ -350,7 +350,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[schwarper/CS2MenuManager](https://github.com/schwarper/CS2MenuManager) ⭐ 49 | 🐛 1 | 🌐 C# | 📅 2026-07-18**<br>
   ⭐ 49<br>
-  ⏱️ updated 1 month ago<br>
+  ⏱️ updated 2 months ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
 * **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher) ⭐ 45 | 🐛 2 | 🌐 C# | 📅 2025-06-15**<br>
@@ -385,7 +385,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2026-09-14**<br>
   ⭐ 31<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Notify players about entity interactions.*
 
 * **[ssypchenko/cs2-gungame](https://github.com/ssypchenko/cs2-gungame) ⭐ 30 | 🐛 1 | 🌐 C# | 📅 2026-07-11**<br>
@@ -698,6 +698,11 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *This is a legendary gamemode made for CS2. It's in early state, but it should be pretty stable.*
 
+* **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2025-05-25**<br>
+  ⭐ 2<br>
+  ⏱️ updated 1 year ago<br>
+  *Plugin that store chat messages to MySQL database.*
+
 * **[asapverneri/CS2-StaffList](https://github.com/asapverneri/CS2-StaffList) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2024-09-09**<br>
   ⭐ 2<br>
   ⏱️ updated 2 years ago<br>
@@ -727,11 +732,6 @@ These are the websites with resources that you might need to check during develo
   ⭐ 1<br>
   ⏱️ updated 3 weeks ago<br>
   *Through-wall glow highlight tool for retake servers — permanent admin-toggled glow plus automatic last-CT-alive highlighting.*
-
-* **[asapverneri/CS2-ChatLogs](https://github.com/asapverneri/CS2-ChatLogs) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2025-05-25**<br>
-  ⭐ 1<br>
-  ⏱️ updated 1 year ago<br>
-  *Plugin that store chat messages to MySQL database.*
 
 * **[schwarper/cs2-anticheat](https://github.com/schwarper/cs2-anticheat)**<br>
   ⭐ 0<br>
@@ -2019,4 +2019,4 @@ Please feel free to submit pull requests or issues, we need your contributions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
