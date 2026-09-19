@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3392,
+            "stars": 3393,
             "topics": [
               "c-sharp",
               "steam",
@@ -135,7 +135,7 @@
             "open_issues": 106,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
-            "stars": 1349,
+            "stars": 1350,
             "topics": [
               "counter-strike-2",
               "cs2",
@@ -312,7 +312,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "csgo",
               "protobuf",
@@ -338,7 +338,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "csgo",
               "protobuf",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "csgo",
               "protobuf",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "csgo",
               "protobuf",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "csgo",
               "protobuf",
@@ -439,7 +439,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-17T10:03:57Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "alliedmodders",
             "repo": "hl2sdk",
             "stars": 460,
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 362 ⏱️ updated 6 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 362 ⏱️ updated 8 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,8 +504,8 @@
                 "id": 695646152,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T04:43:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-18T19:23:27Z",
+                "open_issues": 13,
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
                 "stars": 362,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 202 ⏱️ updated 19 hours ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 202 ⏱️ updated 6 minutes ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-18T08:51:42Z",
+                "last_commit": "2026-09-19T04:10:42Z",
                 "open_issues": 32,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
@@ -763,7 +763,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 28 ⏱️ updated 4 days ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 28 ⏱️ updated 5 days ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Controller",
-              "description": "⭐ 22 ⏱️ updated 2 days ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
+              "description": "⭐ 22 ⏱️ updated 3 days ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -961,7 +961,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 318 ⏱️ updated 1 day ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 318 ⏱️ updated 2 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1263,7 +1263,7 @@
             {
               "node_type": "item",
               "title": "Oz-Lin/cs2-rockthevote",
-              "description": "⭐ 66 ⏱️ updated 11 months ago General purpose map voting plugin, started as a simple RTV and now has more features.",
+              "description": "⭐ 66 ⏱️ updated 12 months ago General purpose map voting plugin, started as a simple RTV and now has more features.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "darkerz7/EntWatchSharp",
-              "description": "⭐ 31 ⏱️ updated 3 days ago Notify players about entity interactions.",
+              "description": "⭐ 31 ⏱️ updated 4 days ago Notify players about entity interactions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1552,7 +1552,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-14T15:35:17Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "darkerz7",
                 "repo": "EntWatchSharp",
                 "stars": 31,
@@ -2596,7 +2596,7 @@
             {
               "node_type": "item",
               "title": "asapverneri/CS2-Gunsmenu",
-              "description": "⭐ 4 ⏱️ updated 5 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
+              "description": "⭐ 4 ⏱️ updated 6 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "nvmxre/cs2-hud-panel",
-              "description": "⭐ 3 ⏱️ updated 6 days ago Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.",
+              "description": "⭐ 3 ⏱️ updated 1 week ago Clickable, flicker-free HUD panels on the custom_hud_layout entity — one entity with per-player state, Show/Hide/SetText/SetClass and a Clicked event, plus a worked example and a list of the engine gotchas.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3203,7 +3203,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/MapChooser",
-              "description": "⭐ 14 ⏱️ updated 4 days ago A powerful and customizable map voting system for SwiftlyS2.",
+              "description": "⭐ 14 ⏱️ updated 5 days ago A powerful and customizable map voting system for SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3287,7 +3287,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/Cookies",
-              "description": "⭐ 6 ⏱️ updated 4 months ago Server/Client persistent variables.",
+              "description": "⭐ 6 ⏱️ updated 15 hours ago Server/Client persistent variables.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3357,7 +3357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:32:17.718Z",
+    "last_updated": "2026-09-19T13:56:20.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3365,7 +3365,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-18T04:20:48Z",
+      "last_commit": "2026-09-19T04:17:36Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3380,7 +3380,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "39b79e9a8cde89b37da98c5b507fdde874a74178",
+    "original_repository_sha": "f6d16a99c6d1a77a3b2b13d0a6dafe1fac4c0fb0",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
