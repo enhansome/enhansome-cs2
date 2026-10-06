@@ -131,11 +131,11 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:22:35Z",
+            "last_commit": "2026-10-06T13:33:40Z",
             "open_issues": 108,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "counter-strike-2",
               "cs2",
@@ -161,7 +161,7 @@
             "open_issues": 21,
             "owner": "alliedmodders",
             "repo": "metamod-source",
-            "stars": 558,
+            "stars": 560,
             "topics": [
               "hacktoberfest",
               "metamod",
@@ -183,7 +183,7 @@
             "id": 981085694,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:29:39Z",
+            "last_commit": "2026-10-06T16:26:26Z",
             "open_issues": 9,
             "owner": "Kxnrl",
             "repo": "modsharp-public",
@@ -218,7 +218,7 @@
             "id": 1036227312,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:41:20Z",
+            "last_commit": "2026-10-06T16:40:42Z",
             "open_issues": 3,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "cplusplus",
               "csgo",
@@ -438,11 +438,11 @@
             "id": 20148756,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-05T19:22:31Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-06T13:55:00Z",
+            "open_issues": 11,
             "owner": "alliedmodders",
             "repo": "hl2sdk",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "hacktoberfest",
               "reverse-engineering",
@@ -557,28 +557,7 @@
                 "open_issues": 7,
                 "owner": "Source2ZE",
                 "repo": "MultiAddonManager",
-                "stars": 131,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Source2ZE/CleanerCS2",
-              "description": "⭐ 67 ⏱️ updated 3 weeks ago A simple plugin that allows you to filter out console prints with regular expressions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Allows you to filter out console prints with regular expressions",
-                "homepage": null,
-                "id": 758979720,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-08T22:20:06Z",
-                "open_issues": 0,
-                "owner": "Source2ZE",
-                "repo": "CleanerCS2",
-                "stars": 67,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -599,6 +578,27 @@
                 "open_issues": 0,
                 "owner": "Source2ZE",
                 "repo": "ServerListPlayersFix",
+                "stars": 68,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Source2ZE/CleanerCS2",
+              "description": "⭐ 67 ⏱️ updated 3 weeks ago A simple plugin that allows you to filter out console prints with regular expressions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Allows you to filter out console prints with regular expressions",
+                "homepage": null,
+                "id": 758979720,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-08T22:20:06Z",
+                "open_issues": 0,
+                "owner": "Source2ZE",
+                "repo": "CleanerCS2",
                 "stars": 67,
                 "topics": []
               },
@@ -857,7 +857,7 @@
                 "open_issues": 0,
                 "owner": "Cruze03",
                 "repo": "GameBanFix",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -953,7 +953,7 @@
                 "open_issues": 19,
                 "owner": "Nereziel",
                 "repo": "cs2-WeaponPaints",
-                "stars": 414,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1083,7 +1083,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T19:34:35Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "NockyCZ",
                 "repo": "CS2-Deathmatch",
                 "stars": 133,
@@ -1928,6 +1928,27 @@
             },
             {
               "node_type": "item",
+              "title": "HvH-gg/TeleportFix",
+              "description": "⭐ 16 ⏱️ updated 8 months ago CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A plugin for Counter-Strike 2 that fixes the teleport/airstuck exploit and server crasher",
+                "homepage": null,
+                "id": 767954643,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-02-06T12:39:56Z",
+                "open_issues": 0,
+                "owner": "HvH-gg",
+                "repo": "TeleportFix",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "Letaryat/CS2-Poor-MapPropAds",
               "description": "⭐ 16 ⏱️ updated 9 months ago This plugin allows for server owners to create billboard type advertisements that are placed on wall.",
               "children": [],
@@ -1963,27 +1984,6 @@
                 "open_issues": 3,
                 "owner": "mister-keno",
                 "repo": "advanced-ff-cs2",
-                "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HvH-gg/TeleportFix",
-              "description": "⭐ 16 ⏱️ updated 8 months ago CounterStrikeSharp plugin to fix the teleport/airstuck/crash exploit.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A plugin for Counter-Strike 2 that fixes the teleport/airstuck exploit and server crasher",
-                "homepage": null,
-                "id": 767954643,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-02-06T12:39:56Z",
-                "open_issues": 0,
-                "owner": "HvH-gg",
-                "repo": "TeleportFix",
                 "stars": 16,
                 "topics": []
               },
@@ -2260,7 +2260,7 @@
                 "id": 941037604,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T10:27:50Z",
+                "last_commit": "2026-10-06T13:17:14Z",
                 "open_issues": 0,
                 "owner": "Kandru",
                 "repo": "cs2-challenges",
@@ -2504,6 +2504,27 @@
             },
             {
               "node_type": "item",
+              "title": "asapverneri/CS2-BotQuotaManager",
+              "description": "⭐ 5 ⏱️ updated 2 years ago This plugin handles bot_quota depending on playercount on the server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This plugin handles bot_quota depending on playercount on the server.",
+                "homepage": null,
+                "id": 852569083,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2024-09-15T15:52:11Z",
+                "open_issues": 0,
+                "owner": "asapverneri",
+                "repo": "CS2-BotQuotaManager",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "NeuTroNBZh/CS2-RETAKE",
               "description": "⭐ 5 ⏱️ updated 1 week ago Feature-rich CS2 retake plugin with weapon selection menu, AWP restrictions, built-in InstaDefuse, CT kit distribution, and team scramble/queue management.",
               "children": [],
@@ -2612,27 +2633,6 @@
                   "cs2",
                   "plugin"
                 ]
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
-              "title": "asapverneri/CS2-BotQuotaManager",
-              "description": "⭐ 5 ⏱️ updated 2 years ago This plugin handles bot_quota depending on playercount on the server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This plugin handles bot_quota depending on playercount on the server.",
-                "homepage": null,
-                "id": 852569083,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2024-09-15T15:52:11Z",
-                "open_issues": 0,
-                "owner": "asapverneri",
-                "repo": "CS2-BotQuotaManager",
-                "stars": 5,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
             },
@@ -3358,7 +3358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:34.422Z",
+    "last_updated": "2026-10-06T16:50:05.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
