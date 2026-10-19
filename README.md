@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/10/17 04:01:25</strong>
+  Last Sync: <strong>2026/10/18 04:09:29</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -44,7 +44,7 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,466 | 🐛 60 | 🌐 C# | 📅 2026-10-14**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,470 | 🐛 60 | 🌐 C# | 📅 2026-10-14**\
   *A tool to download game files of a specific version.*
 
 * **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-10-11**\
@@ -64,23 +64,23 @@
 * **[SteamDB](https://steamdb.info/app/730/charts/)**\
   *A website tracking steam games information.*
 
-* **[cs2-signatures](https://github.com/ianlucas/cs2-signatures) ⭐ 125 | 🐛 0 | 📅 2026-10-18**\
+* **[cs2-signatures](https://github.com/ianlucas/cs2-signatures) ⭐ 126 | 🐛 0 | 📅 2026-10-19**\
   *A github repo for tracking gamedata status after a game update.*
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,373 | 🐛 109 | 🌐 C# | 📅 2026-10-18** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,373 | 🐛 109 | 🌐 C# | 📅 2026-10-19** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
-* **[Metamod](https://github.com/alliedmodders/metamod-source) ⭐ 564 | 🐛 20 | 🌐 Pascal | 📅 2026-10-17** \[[Website](https://www.sourcemm.net/downloads.php?branch=dev)] \[[Discord](https://discord.com/invite/HUc67zN)]\
+* **[Metamod](https://github.com/alliedmodders/metamod-source) ⭐ 565 | 🐛 19 | 🌐 Pascal | 📅 2026-10-18** \[[Website](https://www.sourcemm.net/downloads.php?branch=dev)] \[[Discord](https://discord.com/invite/HUc67zN)]\
   *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
   ***Please notice that it's the dev branch that support cs2, make sure you download the right version.***
 
-* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 115 | 🐛 9 | 🌐 C# | 📅 2026-10-15** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
+* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 115 | 🐛 9 | 🌐 C# | 📅 2026-10-18** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
   *Modern Source 2 Modding Solution.*
 
-* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 109 | 🐛 2 | 🌐 C# | 📅 2026-10-16** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
+* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 109 | 🐛 0 | 🌐 C# | 📅 2026-10-19** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
 
 * **[Plugify](https://github.com/untrustedmodders/plugify) ⭐ 88 | 🐛 2 | 🌐 C++ | 📅 2026-10-02** \[[Website](https://plugify.net)] \[[Discord](https://discord.gg/untrustedmodders)]\
@@ -90,32 +90,32 @@
 
 These are the websites with resources that you might need to check during development.
 
-* **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,665 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
+* **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,666 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
   *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
 
-* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
+* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
   *A list of all cs2 convars, directly dumped from latest cs2 binary.*
 
-* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
+* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
   *A list of all cs2 commands, directly dumped from latest cs2 binary.*
 
 * **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
   *A list of all cs2 game events.*\
   *The data might be outdated, if so, you can find the latest ones here:*\
-  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
-  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
-  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15*
 
-* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
+* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
-* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 971 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
+* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 972 | 🐛 0 | 🌐 Slang | 📅 2026-10-15**\
   *A list of all cs2 protobuf definitions.*
 
-* **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-10-07**\
+* **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 468 | 🐛 5 | 🌐 C++ | 📅 2026-10-07**\
   *Actively maintained SDK for cs2.*
 
-* **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk) ⭐ 44 | 🐛 16 | 🌐 C++ | 📅 2026-10-17**\
+* **[HL2SDK Wend4r's fork](https://github.com/Wend4r/sourcesdk) ⭐ 44 | 🐛 16 | 🌐 C++ | 📅 2026-10-18**\
   *A fork of hl2sdk, if there's a game update, you might find what have changed in here or in pull requests.*
 
 * **[Schema Explorer](https://s2v.app/SchemaExplorer/)**\
@@ -176,18 +176,18 @@ These are the websites with resources that you might need to check during develo
 
 ## Metamod Plugins
 
-* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 363 | 🐛 11 | 🌐 C++ | 📅 2026-10-16**<br>
+* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 362 | 🐛 12 | 🌐 C++ | 📅 2026-10-16**<br>
   ⭐ 363<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
-* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 208 | 🐛 29 | 🌐 C++ | 📅 2026-10-18**<br>
-  ⭐ 207<br>
-  ⏱️ updated 1 hour ago<br>
+* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 208 | 🐛 28 | 🌐 C++ | 📅 2026-10-18**<br>
+  ⭐ 208<br>
+  ⏱️ updated 7 hours ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
-* **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 132 | 🐛 7 | 🌐 C++ | 📅 2026-09-28**<br>
-  ⭐ 132<br>
+* **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 133 | 🐛 7 | 🌐 C++ | 📅 2026-09-28**<br>
+  ⭐ 133<br>
   ⏱️ updated 2 weeks ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
 
@@ -213,7 +213,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[Salvatore-Als/cs2-fake-rcon](https://github.com/Salvatore-Als/cs2-fake-rcon) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-10-04**<br>
   ⭐ 64<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *Fakercon adds the fake\_rcon\_password and fake\_rcon commands because Valve has not integrated the original command into the game (or it is broken).*
 
 * **[Source2ZE/StripperCS2](https://github.com/Source2ZE/StripperCS2) ⭐ 54 | 🐛 0 | 🌐 C++ | 📅 2026-09-23**<br>
@@ -226,9 +226,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 weeks ago<br>
   *A metamod plugin that reveals ranks of all players in server for player who presses tab.*
 
-* **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2026-10-18**<br>
+* **[Interesting-exe/CS2Fixes-RampbugFix](https://github.com/Interesting-exe/CS2Fixes-RampbugFix) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2026-10-18**<br>
   ⭐ 36<br>
-  ⏱️ updated 5 months ago<br>
+  ⏱️ updated 22 hours ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
 * **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2026-09-08**<br>
@@ -238,17 +238,17 @@ These are the websites with resources that you might need to check during develo
 
 * **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2026-10-18**<br>
   ⭐ 31<br>
-  ⏱️ updated 32 minutes ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 * **[GAMMACASE/Source2SchemaDumper](https://github.com/GAMMACASE/Source2SchemaDumper) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-10-14**<br>
   ⭐ 28<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
 * **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-18**<br>
   ⭐ 25<br>
-  ⏱️ updated 32 minutes ago<br>
+  ⏱️ updated 1 day ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 * **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2026-09-23**<br>
@@ -263,27 +263,27 @@ These are the websites with resources that you might need to check during develo
 
 ## CounterStrikeSharp Plugins
 
-* **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy) ⭐ 507 | 🐛 137 | 🌐 C# | 📅 2026-10-18**<br>
+* **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy) ⭐ 506 | 🐛 137 | 🌐 C# | 📅 2026-10-18**<br>
   ⭐ 507<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 21 hours ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
 * **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) ⭐ 416 | 🐛 17 | 🌐 C# | 📅 2026-10-04**<br>
   ⭐ 416<br>
-  ⏱️ updated 1 week ago<br>
+  ⏱️ updated 2 weeks ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
-* **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes) ⭐ 321 | 🐛 4 | 🌐 C# | 📅 2026-10-14**<br>
+* **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes) ⭐ 320 | 🐛 4 | 🌐 C# | 📅 2026-10-14**<br>
   ⭐ 321<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
-* **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) ⭐ 190 | 🐛 62 | 🌐 C# | 📅 2026-10-16**<br>
+* **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) ⭐ 189 | 🐛 62 | 🌐 C# | 📅 2026-10-16**<br>
   ⭐ 190<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Manage your Counter-Strike 2 server with simple commands!*
 
-* **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans) ⭐ 146 | 🐛 13 | 🌐 SCSS | 📅 2026-10-07**<br>
+* **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans) ⭐ 145 | 🐛 13 | 🌐 SCSS | 📅 2026-10-07**<br>
   ⭐ 146<br>
   ⏱️ updated 1 week ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
@@ -305,7 +305,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore) ⭐ 75 | 🐛 38 | 🌐 C# | 📅 2026-10-16**<br>
   ⭐ 75<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A vip plugin for cs2.*
 
 * **[oqyh/cs2-Game-Manager-GoldKingZ](https://github.com/oqyh/cs2-Game-Manager-GoldKingZ) ⭐ 75 | 🐛 0 | 🌐 C# | 📅 2026-07-24**<br>
@@ -325,7 +325,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse) ⭐ 68 | 🐛 3 | 🌐 C# | 📅 2026-10-14**<br>
   ⭐ 68<br>
-  ⏱️ updated 3 days ago<br>
+  ⏱️ updated 4 days ago<br>
   *A plugin that allows players to instantly defuse the bomb.*
 
 * **[Oz-Lin/cs2-rockthevote](https://github.com/Oz-Lin/cs2-rockthevote) ⭐ 66 | 🐛 22 | 🌐 C# | 📅 2025-09-23**<br>
@@ -353,7 +353,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *CS2MenuManager is a modern, extensible and easy to use menu system for Counter-Strike 2 based on the CounterStrikeSharp library.*
 
-* **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher) ⭐ 45 | 🐛 2 | 🌐 C# | 📅 2025-06-15**<br>
+* **[KillStr3aK/ResourcePrecacher](https://github.com/KillStr3aK/ResourcePrecacher) ⭐ 44 | 🐛 2 | 🌐 C# | 📅 2025-06-15**<br>
   ⭐ 45<br>
   ⏱️ updated 1 year ago<br>
   *This plugin can precache custom resources.*
@@ -363,7 +363,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 8 months ago<br>
   *It includes basic features like reset score and rage quit as well as optional restrictions for weapons, friendly fire, rapid fire and other exploit/crash fixes.*
 
-* **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes) ⭐ 38 | 🐛 11 | 🌐 C# | 📅 2025-10-20**<br>
+* **[zwolof/cs2-executes](https://github.com/zwolof/cs2-executes) ⭐ 37 | 🐛 11 | 🌐 C# | 📅 2025-10-20**<br>
   ⭐ 38<br>
   ⏱️ updated 12 months ago<br>
   *CS2 implementation of executes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
@@ -373,9 +373,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 6 months ago<br>
   *A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.*
 
-* **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp) ⭐ 32 | 🐛 1 | 🌐 C# | 📅 2026-10-18**<br>
+* **[darkerz7/EntWatchSharp](https://github.com/darkerz7/EntWatchSharp) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2026-10-19**<br>
   ⭐ 32<br>
-  ⏱️ updated 2 weeks ago<br>
+  ⏱️ updated 8 hours ago<br>
   *Notify players about entity interactions.*
 
 * **[oqyh/cs2-Chat-Logger-GoldKingZ](https://github.com/oqyh/cs2-Chat-Logger-GoldKingZ) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2025-05-31**<br>
@@ -403,15 +403,15 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 year ago<br>
   *WIP ThirdPerson plugin for CS2 expect bugs.*
 
-* **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2) ⭐ 23 | 🐛 3 | 🌐 C# | 📅 2026-07-29**<br>
-  ⭐ 23<br>
-  ⏱️ updated 2 months ago<br>
-  *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
-
 * **[Kandru/cs2-update-manager](https://github.com/Kandru/cs2-update-manager) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2026-05-30**<br>
   ⭐ 23<br>
   ⏱️ updated 4 months ago<br>
   *The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.*
+
+* **[wiruwiru/AutomaticAds-CS2](https://github.com/wiruwiru/AutomaticAds-CS2) ⭐ 22 | 🐛 3 | 🌐 C# | 📅 2026-07-29**<br>
+  ⭐ 23<br>
+  ⏱️ updated 2 months ago<br>
+  *This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.*
 
 * **[Cruze03/Clientprefs](https://github.com/Cruze03/Clientprefs) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2026-02-19**<br>
   ⭐ 22<br>
@@ -425,7 +425,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice) ⭐ 21 | 🐛 4 | 🌐 C# | 📅 2026-10-16**<br>
   ⭐ 21<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 * **[samyycX/CS2-SkyboxChanger](https://github.com/samyycX/CS2-SkyboxChanger) ⭐ 20 | 🐛 3 | 🌐 C# | 📅 2026-10-09**<br>
@@ -513,11 +513,6 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 3 months ago<br>
   *A store plugin designed to enhance your gameplay by providing a dynamic credit system that allows players to purchase essential items directly from the store.*
 
-* **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-05-30**<br>
-  ⭐ 14<br>
-  ⏱️ updated 4 months ago<br>
-  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
-
 * **[B3none/cs2-instaplant](https://github.com/B3none/cs2-instaplant) ⭐ 14 | 🐛 1 | 🌐 C# | 📅 2024-01-13**<br>
   ⭐ 14<br>
   ⏱️ updated 2 years ago<br>
@@ -528,9 +523,14 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 years ago<br>
   *A simple kill plugin that allows players to suicide via chat by entering '!suicide' or '/suicide'.*
 
+* **[Kandru/cs2-demo-recorder](https://github.com/Kandru/cs2-demo-recorder) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-05-30**<br>
+  ⭐ 14<br>
+  ⏱️ updated 4 months ago<br>
+  *This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.*
+
 * **[Kandru/cs2-challenges](https://github.com/Kandru/cs2-challenges) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-10-16**<br>
   ⭐ 13<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).*
 
 * **[zakriamansoor47/SLAYER\_AntiCamp](https://github.com/zakriamansoor47/SLAYER_AntiCamp) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-08-11**<br>
@@ -650,7 +650,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[asapverneri/CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-03-22**<br>
   ⭐ 4<br>
-  ⏱️ updated 6 months ago<br>
+  ⏱️ updated 7 months ago<br>
   *Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.*
 
 * **[asapverneri/CS2-Baninfo](https://github.com/asapverneri/CS2-Baninfo) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2024-10-24**<br>
@@ -742,9 +742,9 @@ These are the websites with resources that you might need to check during develo
 
 Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
-* **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins) ⭐ 36 | 🐛 13 | 🌐 C# | 📅 2026-10-16**<br>
+* **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins) ⭐ 35 | 🐛 13 | 🌐 C# | 📅 2026-10-16**<br>
   ⭐ 36<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
 * **[SwiftlyS2-Plugins/AddonsManager](https://github.com/SwiftlyS2-Plugins/AddonsManager) ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-10-07**<br>
@@ -769,7 +769,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore) ⭐ 7 | 🐛 4 | 🌐 C# | 📅 2026-10-13**<br>
   ⭐ 7<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 * **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-03-14**<br>
@@ -814,6 +814,10 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
   </tr>
   <tr>
     <td align="center" valign="top" width="80">
+      <a href="https://github.com/adammyllykoski"><img src="https://avatars.githubusercontent.com/u/150072141?v=4" width="64" height="64" alt="adammyllykoski" /></a><br/>
+      <a href="https://github.com/adammyllykoski">@adammyllykoski</a>
+    </td>
+    <td align="center" valign="top" width="80">
       <a href="https://github.com/agasking1337"><img src="https://avatars.githubusercontent.com/u/29358982?v=4" width="64" height="64" alt="agasking1337" /></a><br/>
       <a href="https://github.com/agasking1337">@agasking1337</a>
     </td>
@@ -829,12 +833,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/algorithm-developer"><img src="https://avatars.githubusercontent.com/u/17625859?v=4" width="64" height="64" alt="algorithm-developer" /></a><br/>
       <a href="https://github.com/algorithm-developer">@algorithm-developer</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AloneElxy"><img src="https://avatars.githubusercontent.com/u/74292375?v=4" width="64" height="64" alt="AloneElxy" /></a><br/>
       <a href="https://github.com/AloneElxy">@AloneElxy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AlphaKeks"><img src="https://avatars.githubusercontent.com/u/85143381?v=4" width="64" height="64" alt="AlphaKeks" /></a><br/>
       <a href="https://github.com/AlphaKeks">@AlphaKeks</a>
@@ -851,12 +855,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/AnshumanRohella"><img src="https://avatars.githubusercontent.com/u/6627611?v=4" width="64" height="64" alt="AnshumanRohella" /></a><br/>
       <a href="https://github.com/AnshumanRohella">@AnshumanRohella</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/AntPGN"><img src="https://avatars.githubusercontent.com/u/3760018?v=4" width="64" height="64" alt="AntPGN" /></a><br/>
       <a href="https://github.com/AntPGN">@AntPGN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Apfelwurm"><img src="https://avatars.githubusercontent.com/u/23552885?v=4" width="64" height="64" alt="Apfelwurm" /></a><br/>
       <a href="https://github.com/Apfelwurm">@Apfelwurm</a>
@@ -873,12 +877,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Austinbots"><img src="https://avatars.githubusercontent.com/u/182579764?v=4" width="64" height="64" alt="Austinbots" /></a><br/>
       <a href="https://github.com/Austinbots">@Austinbots</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ay-gitgud"><img src="https://avatars.githubusercontent.com/u/241843953?v=4" width="64" height="64" alt="ay-gitgud" /></a><br/>
       <a href="https://github.com/ay-gitgud">@ay-gitgud</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/B3none"><img src="https://avatars.githubusercontent.com/u/24966460?v=4" width="64" height="64" alt="B3none" /></a><br/>
       <a href="https://github.com/B3none">@B3none</a>
@@ -895,12 +899,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/borzaka"><img src="https://avatars.githubusercontent.com/u/1230402?v=4" width="64" height="64" alt="borzaka" /></a><br/>
       <a href="https://github.com/borzaka">@borzaka</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/brkvlr"><img src="https://avatars.githubusercontent.com/u/50466021?v=4" width="64" height="64" alt="brkvlr" /></a><br/>
       <a href="https://github.com/brkvlr">@brkvlr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/btnrv"><img src="https://avatars.githubusercontent.com/u/83274417?v=4" width="64" height="64" alt="btnrv" /></a><br/>
       <a href="https://github.com/btnrv">@btnrv</a>
@@ -917,12 +921,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/CeLicat"><img src="https://avatars.githubusercontent.com/u/19570348?v=4" width="64" height="64" alt="CeLicat" /></a><br/>
       <a href="https://github.com/CeLicat">@CeLicat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/characharm"><img src="https://avatars.githubusercontent.com/u/123120856?v=4" width="64" height="64" alt="characharm" /></a><br/>
       <a href="https://github.com/characharm">@characharm</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/CharlesBarone"><img src="https://avatars.githubusercontent.com/u/16052438?v=4" width="64" height="64" alt="CharlesBarone" /></a><br/>
       <a href="https://github.com/CharlesBarone">@CharlesBarone</a>
@@ -939,12 +943,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/CounterStrike2-Plugins-Archive"><img src="https://avatars.githubusercontent.com/u/268485493?v=4" width="64" height="64" alt="CounterStrike2-Plugins-Archive" /></a><br/>
       <a href="https://github.com/CounterStrike2-Plugins-Archive">@CounterStrike2-Plugins-Archive</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/counterstrikesharp-panel"><img src="https://avatars.githubusercontent.com/u/167018976?v=4" width="64" height="64" alt="counterstrikesharp-panel" /></a><br/>
       <a href="https://github.com/counterstrikesharp-panel">@counterstrikesharp-panel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/crashzk"><img src="https://avatars.githubusercontent.com/u/32937653?v=4" width="64" height="64" alt="crashzk" /></a><br/>
       <a href="https://github.com/crashzk">@crashzk</a>
@@ -961,12 +965,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/daffyyyy"><img src="https://avatars.githubusercontent.com/u/41084667?v=4" width="64" height="64" alt="daffyyyy" /></a><br/>
       <a href="https://github.com/daffyyyy">@daffyyyy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/darichey"><img src="https://avatars.githubusercontent.com/u/3052455?v=4" width="64" height="64" alt="darichey" /></a><br/>
       <a href="https://github.com/darichey">@darichey</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/darkerz7"><img src="https://avatars.githubusercontent.com/u/25752428?v=4" width="64" height="64" alt="darkerz7" /></a><br/>
       <a href="https://github.com/darkerz7">@darkerz7</a>
@@ -983,12 +987,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/deafps"><img src="https://avatars.githubusercontent.com/u/170218118?v=4" width="64" height="64" alt="deafps" /></a><br/>
       <a href="https://github.com/deafps">@deafps</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/DearCrazyLeaf"><img src="https://avatars.githubusercontent.com/u/124550277?v=4" width="64" height="64" alt="DearCrazyLeaf" /></a><br/>
       <a href="https://github.com/DearCrazyLeaf">@DearCrazyLeaf</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/DeonduPreez"><img src="https://avatars.githubusercontent.com/u/23405975?v=4" width="64" height="64" alt="DeonduPreez" /></a><br/>
       <a href="https://github.com/DeonduPreez">@DeonduPreez</a>
@@ -1005,12 +1009,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/DizzyThermal"><img src="https://avatars.githubusercontent.com/u/730767?v=4" width="64" height="64" alt="DizzyThermal" /></a><br/>
       <a href="https://github.com/DizzyThermal">@DizzyThermal</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Dliix66"><img src="https://avatars.githubusercontent.com/u/2865871?v=4" width="64" height="64" alt="Dliix66" /></a><br/>
       <a href="https://github.com/Dliix66">@Dliix66</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/dollannn"><img src="https://avatars.githubusercontent.com/u/50216897?v=4" width="64" height="64" alt="dollannn" /></a><br/>
       <a href="https://github.com/dollannn">@dollannn</a>
@@ -1027,12 +1031,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Dying-Ducks"><img src="https://avatars.githubusercontent.com/u/109040754?v=4" width="64" height="64" alt="Dying-Ducks" /></a><br/>
       <a href="https://github.com/Dying-Ducks">@Dying-Ducks</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/e-n-v-i"><img src="https://avatars.githubusercontent.com/u/112311421?v=4" width="64" height="64" alt="e-n-v-i" /></a><br/>
       <a href="https://github.com/e-n-v-i">@e-n-v-i</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/e54385991"><img src="https://avatars.githubusercontent.com/u/19951346?v=4" width="64" height="64" alt="e54385991" /></a><br/>
       <a href="https://github.com/e54385991">@e54385991</a>
@@ -1049,12 +1053,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/ELDment"><img src="https://avatars.githubusercontent.com/u/79680886?v=4" width="64" height="64" alt="ELDment" /></a><br/>
       <a href="https://github.com/ELDment">@ELDment</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/emilhaapalainen"><img src="https://avatars.githubusercontent.com/u/47125778?v=4" width="64" height="64" alt="emilhaapalainen" /></a><br/>
       <a href="https://github.com/emilhaapalainen">@emilhaapalainen</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/erikpeik"><img src="https://avatars.githubusercontent.com/u/52178013?v=4" width="64" height="64" alt="erikpeik" /></a><br/>
       <a href="https://github.com/erikpeik">@erikpeik</a>
@@ -1071,12 +1075,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/exd02"><img src="https://avatars.githubusercontent.com/u/62575526?v=4" width="64" height="64" alt="exd02" /></a><br/>
       <a href="https://github.com/exd02">@exd02</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/execut1ve"><img src="https://avatars.githubusercontent.com/u/37169808?v=4" width="64" height="64" alt="execut1ve" /></a><br/>
       <a href="https://github.com/execut1ve">@execut1ve</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/exkludera"><img src="https://avatars.githubusercontent.com/u/51145038?v=4" width="64" height="64" alt="exkludera" /></a><br/>
       <a href="https://github.com/exkludera">@exkludera</a>
@@ -1093,12 +1097,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Faramour"><img src="https://avatars.githubusercontent.com/u/44729057?v=4" width="64" height="64" alt="Faramour" /></a><br/>
       <a href="https://github.com/Faramour">@Faramour</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Ferks-FK"><img src="https://avatars.githubusercontent.com/u/69549678?v=4" width="64" height="64" alt="Ferks-FK" /></a><br/>
       <a href="https://github.com/Ferks-FK">@Ferks-FK</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/FlowingSPDG"><img src="https://avatars.githubusercontent.com/u/30292185?v=4" width="64" height="64" alt="FlowingSPDG" /></a><br/>
       <a href="https://github.com/FlowingSPDG">@FlowingSPDG</a>
@@ -1115,12 +1119,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Frozen-H2O"><img src="https://avatars.githubusercontent.com/u/43626458?v=4" width="64" height="64" alt="Frozen-H2O" /></a><br/>
       <a href="https://github.com/Frozen-H2O">@Frozen-H2O</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/fsynr"><img src="https://avatars.githubusercontent.com/u/257867946?v=4" width="64" height="64" alt="fsynr" /></a><br/>
       <a href="https://github.com/fsynr">@fsynr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/GabrielBarcelos1"><img src="https://avatars.githubusercontent.com/u/57267134?v=4" width="64" height="64" alt="GabrielBarcelos1" /></a><br/>
       <a href="https://github.com/GabrielBarcelos1">@GabrielBarcelos1</a>
@@ -1137,12 +1141,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/GAMMACASE"><img src="https://avatars.githubusercontent.com/u/31375974?v=4" width="64" height="64" alt="GAMMACASE" /></a><br/>
       <a href="https://github.com/GAMMACASE">@GAMMACASE</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Geekvcn"><img src="https://avatars.githubusercontent.com/u/20044214?v=4" width="64" height="64" alt="Geekvcn" /></a><br/>
       <a href="https://github.com/Geekvcn">@Geekvcn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/geison66"><img src="https://avatars.githubusercontent.com/u/17097504?v=4" width="64" height="64" alt="geison66" /></a><br/>
       <a href="https://github.com/geison66">@geison66</a>
@@ -1159,12 +1163,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/apps/github-actions"><img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt="github-actions[bot]" /></a><br/>
       <a href="https://github.com/apps/github-actions">@github-actions[bot]</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Gorakel"><img src="https://avatars.githubusercontent.com/u/29128011?v=4" width="64" height="64" alt="Gorakel" /></a><br/>
       <a href="https://github.com/Gorakel">@Gorakel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/grrhn"><img src="https://avatars.githubusercontent.com/u/105857708?v=4" width="64" height="64" alt="grrhn" /></a><br/>
       <a href="https://github.com/grrhn">@grrhn</a>
@@ -1181,12 +1185,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Hichatu"><img src="https://avatars.githubusercontent.com/u/47224085?v=4" width="64" height="64" alt="Hichatu" /></a><br/>
       <a href="https://github.com/Hichatu">@Hichatu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/hlyl"><img src="https://avatars.githubusercontent.com/u/1834987?v=4" width="64" height="64" alt="hlyl" /></a><br/>
       <a href="https://github.com/hlyl">@hlyl</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/hmerrors"><img src="https://avatars.githubusercontent.com/u/97862393?v=4" width="64" height="64" alt="hmerrors" /></a><br/>
       <a href="https://github.com/hmerrors">@hmerrors</a>
@@ -1203,12 +1207,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/HvH-gg"><img src="https://avatars.githubusercontent.com/u/112752845?v=4" width="64" height="64" alt="HvH-gg" /></a><br/>
       <a href="https://github.com/HvH-gg">@HvH-gg</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/hzqst"><img src="https://avatars.githubusercontent.com/u/12287588?v=4" width="64" height="64" alt="hzqst" /></a><br/>
       <a href="https://github.com/hzqst">@hzqst</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/icyteriyaki"><img src="https://avatars.githubusercontent.com/u/174741064?v=4" width="64" height="64" alt="icyteriyaki" /></a><br/>
       <a href="https://github.com/icyteriyaki">@icyteriyaki</a>
@@ -1225,12 +1229,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/ilyhalight"><img src="https://avatars.githubusercontent.com/u/62353659?v=4" width="64" height="64" alt="ilyhalight" /></a><br/>
       <a href="https://github.com/ilyhalight">@ilyhalight</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/im6705"><img src="https://avatars.githubusercontent.com/u/10539689?v=4" width="64" height="64" alt="im6705" /></a><br/>
       <a href="https://github.com/im6705">@im6705</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/imi-tat0r"><img src="https://avatars.githubusercontent.com/u/17706178?v=4" width="64" height="64" alt="imi-tat0r" /></a><br/>
       <a href="https://github.com/imi-tat0r">@imi-tat0r</a>
@@ -1247,12 +1251,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/invoker420"><img src="https://avatars.githubusercontent.com/u/187507316?v=4" width="64" height="64" alt="invoker420" /></a><br/>
       <a href="https://github.com/invoker420">@invoker420</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ipsvn"><img src="https://avatars.githubusercontent.com/u/80017804?v=4" width="64" height="64" alt="ipsvn" /></a><br/>
       <a href="https://github.com/ipsvn">@ipsvn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/iWanheda"><img src="https://avatars.githubusercontent.com/u/34320875?v=4" width="64" height="64" alt="iWanheda" /></a><br/>
       <a href="https://github.com/iWanheda">@iWanheda</a>
@@ -1269,12 +1273,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/JackJack3231"><img src="https://avatars.githubusercontent.com/u/26525530?v=4" width="64" height="64" alt="JackJack3231" /></a><br/>
       <a href="https://github.com/JackJack3231">@JackJack3231</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/jakkekz"><img src="https://avatars.githubusercontent.com/u/120755650?v=4" width="64" height="64" alt="jakkekz" /></a><br/>
       <a href="https://github.com/jakkekz">@jakkekz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/JayCroghan"><img src="https://avatars.githubusercontent.com/u/1171148?v=4" width="64" height="64" alt="JayCroghan" /></a><br/>
       <a href="https://github.com/JayCroghan">@JayCroghan</a>
@@ -1291,12 +1295,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/jonahbearde"><img src="https://avatars.githubusercontent.com/u/48353815?v=4" width="64" height="64" alt="jonahbearde" /></a><br/>
       <a href="https://github.com/jonahbearde">@jonahbearde</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/jonassjoh"><img src="https://avatars.githubusercontent.com/u/17067347?v=4" width="64" height="64" alt="jonassjoh" /></a><br/>
       <a href="https://github.com/jonassjoh">@jonassjoh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Julienhqr"><img src="https://avatars.githubusercontent.com/u/43007197?v=4" width="64" height="64" alt="Julienhqr" /></a><br/>
       <a href="https://github.com/Julienhqr">@Julienhqr</a>
@@ -1313,12 +1317,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/k0shir0"><img src="https://avatars.githubusercontent.com/u/163620373?v=4" width="64" height="64" alt="k0shir0" /></a><br/>
       <a href="https://github.com/k0shir0">@k0shir0</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/K4ryuu"><img src="https://avatars.githubusercontent.com/u/104531589?v=4" width="64" height="64" alt="K4ryuu" /></a><br/>
       <a href="https://github.com/K4ryuu">@K4ryuu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Kandru"><img src="https://avatars.githubusercontent.com/u/1965552?v=4" width="64" height="64" alt="Kandru" /></a><br/>
       <a href="https://github.com/Kandru">@Kandru</a>
@@ -1335,12 +1339,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/KillerRoi"><img src="https://avatars.githubusercontent.com/u/54289708?v=4" width="64" height="64" alt="KillerRoi" /></a><br/>
       <a href="https://github.com/KillerRoi">@KillerRoi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/KillStr3aK"><img src="https://avatars.githubusercontent.com/u/19509520?v=4" width="64" height="64" alt="KillStr3aK" /></a><br/>
       <a href="https://github.com/KillStr3aK">@KillStr3aK</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/kkeegzz"><img src="https://avatars.githubusercontent.com/u/54126889?v=4" width="64" height="64" alt="kkeegzz" /></a><br/>
       <a href="https://github.com/kkeegzz">@kkeegzz</a>
@@ -1357,12 +1361,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/komashchenko"><img src="https://avatars.githubusercontent.com/u/22940384?v=4" width="64" height="64" alt="komashchenko" /></a><br/>
       <a href="https://github.com/komashchenko">@komashchenko</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/kraigher"><img src="https://avatars.githubusercontent.com/u/4018223?v=4" width="64" height="64" alt="kraigher" /></a><br/>
       <a href="https://github.com/kraigher">@kraigher</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/kralgorkem"><img src="https://avatars.githubusercontent.com/u/61798602?v=4" width="64" height="64" alt="kralgorkem" /></a><br/>
       <a href="https://github.com/kralgorkem">@kralgorkem</a>
@@ -1379,12 +1383,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Kxnrl"><img src="https://avatars.githubusercontent.com/u/3905845?v=4" width="64" height="64" alt="Kxnrl" /></a><br/>
       <a href="https://github.com/Kxnrl">@Kxnrl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/KZGlobalTeam"><img src="https://avatars.githubusercontent.com/u/71567872?v=4" width="64" height="64" alt="KZGlobalTeam" /></a><br/>
       <a href="https://github.com/KZGlobalTeam">@KZGlobalTeam</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/laazzee"><img src="https://avatars.githubusercontent.com/u/19431478?v=4" width="64" height="64" alt="laazzee" /></a><br/>
       <a href="https://github.com/laazzee">@laazzee</a>
@@ -1401,12 +1405,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/LaplaceTor"><img src="https://avatars.githubusercontent.com/u/28674126?v=4" width="64" height="64" alt="LaplaceTor" /></a><br/>
       <a href="https://github.com/LaplaceTor">@LaplaceTor</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/LeqenddC"><img src="https://avatars.githubusercontent.com/u/68579920?v=4" width="64" height="64" alt="LeqenddC" /></a><br/>
       <a href="https://github.com/LeqenddC">@LeqenddC</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Letaryat"><img src="https://avatars.githubusercontent.com/u/69041891?v=4" width="64" height="64" alt="Letaryat" /></a><br/>
       <a href="https://github.com/Letaryat">@Letaryat</a>
@@ -1423,12 +1427,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/m-arcuri"><img src="https://avatars.githubusercontent.com/u/124469923?v=4" width="64" height="64" alt="m-arcuri" /></a><br/>
       <a href="https://github.com/m-arcuri">@m-arcuri</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/mAa4a97"><img src="https://avatars.githubusercontent.com/u/34139457?v=4" width="64" height="64" alt="mAa4a97" /></a><br/>
       <a href="https://github.com/mAa4a97">@mAa4a97</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/marqdevx"><img src="https://avatars.githubusercontent.com/u/11246294?v=4" width="64" height="64" alt="marqdevx" /></a><br/>
       <a href="https://github.com/marqdevx">@marqdevx</a>
@@ -1445,12 +1449,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/maximee-leroyy"><img src="https://avatars.githubusercontent.com/u/19607336?v=4" width="64" height="64" alt="maximee-leroyy" /></a><br/>
       <a href="https://github.com/maximee-leroyy">@maximee-leroyy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/MD-V"><img src="https://avatars.githubusercontent.com/u/436613?v=4" width="64" height="64" alt="MD-V" /></a><br/>
       <a href="https://github.com/MD-V">@MD-V</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/MerakW"><img src="https://avatars.githubusercontent.com/u/34398344?v=4" width="64" height="64" alt="MerakW" /></a><br/>
       <a href="https://github.com/MerakW">@MerakW</a>
@@ -1467,12 +1471,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/michihupf"><img src="https://avatars.githubusercontent.com/u/26794144?v=4" width="64" height="64" alt="michihupf" /></a><br/>
       <a href="https://github.com/michihupf">@michihupf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Micka2302"><img src="https://avatars.githubusercontent.com/u/20491694?v=4" width="64" height="64" alt="Micka2302" /></a><br/>
       <a href="https://github.com/Micka2302">@Micka2302</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/mihaigsm2003"><img src="https://avatars.githubusercontent.com/u/51678688?v=4" width="64" height="64" alt="mihaigsm2003" /></a><br/>
       <a href="https://github.com/mihaigsm2003">@mihaigsm2003</a>
@@ -1489,12 +1493,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/mister-keno"><img src="https://avatars.githubusercontent.com/u/129111509?v=4" width="64" height="64" alt="mister-keno" /></a><br/>
       <a href="https://github.com/mister-keno">@mister-keno</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/mrc4tt"><img src="https://avatars.githubusercontent.com/u/5301047?v=4" width="64" height="64" alt="mrc4tt" /></a><br/>
       <a href="https://github.com/mrc4tt">@mrc4tt</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/MSWS"><img src="https://avatars.githubusercontent.com/u/14448584?v=4" width="64" height="64" alt="MSWS" /></a><br/>
       <a href="https://github.com/MSWS">@MSWS</a>
@@ -1511,12 +1515,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/NeuTroNBZh"><img src="https://avatars.githubusercontent.com/u/135857979?v=4" width="64" height="64" alt="NeuTroNBZh" /></a><br/>
       <a href="https://github.com/NeuTroNBZh">@NeuTroNBZh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/nicedayzhu"><img src="https://avatars.githubusercontent.com/u/5286862?v=4" width="64" height="64" alt="nicedayzhu" /></a><br/>
       <a href="https://github.com/nicedayzhu">@nicedayzhu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/NiGHT757"><img src="https://avatars.githubusercontent.com/u/86895149?v=4" width="64" height="64" alt="NiGHT757" /></a><br/>
       <a href="https://github.com/NiGHT757">@NiGHT757</a>
@@ -1533,12 +1537,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/NockyCZ"><img src="https://avatars.githubusercontent.com/u/63038995?v=4" width="64" height="64" alt="NockyCZ" /></a><br/>
       <a href="https://github.com/NockyCZ">@NockyCZ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/nokkvireyr"><img src="https://avatars.githubusercontent.com/u/60022455?v=4" width="64" height="64" alt="nokkvireyr" /></a><br/>
       <a href="https://github.com/nokkvireyr">@nokkvireyr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/notkoen"><img src="https://avatars.githubusercontent.com/u/45914779?v=4" width="64" height="64" alt="notkoen" /></a><br/>
       <a href="https://github.com/notkoen">@notkoen</a>
@@ -1555,12 +1559,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/nuclearsilo583"><img src="https://avatars.githubusercontent.com/u/58926275?v=4" width="64" height="64" alt="nuclearsilo583" /></a><br/>
       <a href="https://github.com/nuclearsilo583">@nuclearsilo583</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/NullVerdict"><img src="https://avatars.githubusercontent.com/u/24498484?v=4" width="64" height="64" alt="NullVerdict" /></a><br/>
       <a href="https://github.com/NullVerdict">@NullVerdict</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/NVedsted"><img src="https://avatars.githubusercontent.com/u/1313288?v=4" width="64" height="64" alt="NVedsted" /></a><br/>
       <a href="https://github.com/NVedsted">@NVedsted</a>
@@ -1577,12 +1581,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/NYSHUN"><img src="https://avatars.githubusercontent.com/u/175985294?v=4" width="64" height="64" alt="NYSHUN" /></a><br/>
       <a href="https://github.com/NYSHUN">@NYSHUN</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/o3LL"><img src="https://avatars.githubusercontent.com/u/16344976?v=4" width="64" height="64" alt="o3LL" /></a><br/>
       <a href="https://github.com/o3LL">@o3LL</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/OniquirAK"><img src="https://avatars.githubusercontent.com/u/84151839?v=4" width="64" height="64" alt="OniquirAK" /></a><br/>
       <a href="https://github.com/OniquirAK">@OniquirAK</a>
@@ -1599,12 +1603,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/oscar-wos"><img src="https://avatars.githubusercontent.com/u/29248751?v=4" width="64" height="64" alt="oscar-wos" /></a><br/>
       <a href="https://github.com/oscar-wos">@oscar-wos</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/oylsister"><img src="https://avatars.githubusercontent.com/u/57207701?v=4" width="64" height="64" alt="oylsister" /></a><br/>
       <a href="https://github.com/oylsister">@oylsister</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Oz-Lin"><img src="https://avatars.githubusercontent.com/u/36224575?v=4" width="64" height="64" alt="Oz-Lin" /></a><br/>
       <a href="https://github.com/Oz-Lin">@Oz-Lin</a>
@@ -1621,12 +1625,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/partiusfabaa"><img src="https://avatars.githubusercontent.com/u/96542489?v=4" width="64" height="64" alt="partiusfabaa" /></a><br/>
       <a href="https://github.com/partiusfabaa">@partiusfabaa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/pc-dongles"><img src="https://avatars.githubusercontent.com/u/79170834?v=4" width="64" height="64" alt="pc-dongles" /></a><br/>
       <a href="https://github.com/pc-dongles">@pc-dongles</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/PhantomYopta"><img src="https://avatars.githubusercontent.com/u/129750207?v=4" width="64" height="64" alt="PhantomYopta" /></a><br/>
       <a href="https://github.com/PhantomYopta">@PhantomYopta</a>
@@ -1643,12 +1647,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/prahzera"><img src="https://avatars.githubusercontent.com/u/110359720?v=4" width="64" height="64" alt="prahzera" /></a><br/>
       <a href="https://github.com/prahzera">@prahzera</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Prefix"><img src="https://avatars.githubusercontent.com/u/1775218?v=4" width="64" height="64" alt="Prefix" /></a><br/>
       <a href="https://github.com/Prefix">@Prefix</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/qq410525209"><img src="https://avatars.githubusercontent.com/u/47157419?v=4" width="64" height="64" alt="qq410525209" /></a><br/>
       <a href="https://github.com/qq410525209">@qq410525209</a>
@@ -1665,12 +1669,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Quantor97"><img src="https://avatars.githubusercontent.com/u/45876155?v=4" width="64" height="64" alt="Quantor97" /></a><br/>
       <a href="https://github.com/Quantor97">@Quantor97</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/R0mz1k"><img src="https://avatars.githubusercontent.com/u/81678188?v=4" width="64" height="64" alt="R0mz1k" /></a><br/>
       <a href="https://github.com/R0mz1k">@R0mz1k</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rainstorm-9"><img src="https://avatars.githubusercontent.com/u/181768486?v=4" width="64" height="64" alt="rainstorm-9" /></a><br/>
       <a href="https://github.com/rainstorm-9">@rainstorm-9</a>
@@ -1687,12 +1691,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/rcnoob"><img src="https://avatars.githubusercontent.com/u/139053812?v=4" width="64" height="64" alt="rcnoob" /></a><br/>
       <a href="https://github.com/rcnoob">@rcnoob</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rcon420"><img src="https://avatars.githubusercontent.com/u/47292145?v=4" width="64" height="64" alt="rcon420" /></a><br/>
       <a href="https://github.com/rcon420">@rcon420</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rdfortega"><img src="https://avatars.githubusercontent.com/u/19917918?v=4" width="64" height="64" alt="rdfortega" /></a><br/>
       <a href="https://github.com/rdfortega">@rdfortega</a>
@@ -1709,12 +1713,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/rislah"><img src="https://avatars.githubusercontent.com/u/12495774?v=4" width="64" height="64" alt="rislah" /></a><br/>
       <a href="https://github.com/rislah">@rislah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rodopoulos1"><img src="https://avatars.githubusercontent.com/u/101236856?v=4" width="64" height="64" alt="rodopoulos1" /></a><br/>
       <a href="https://github.com/rodopoulos1">@rodopoulos1</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/roflmuffin"><img src="https://github.com/roflmuffin.png" width="64" height="64" alt="roflmuffin" /></a><br/>
       <a href="https://github.com/roflmuffin">@roflmuffin</a>
@@ -1731,12 +1735,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/RoyZ-iwnl"><img src="https://avatars.githubusercontent.com/u/24809366?v=4" width="64" height="64" alt="RoyZ-iwnl" /></a><br/>
       <a href="https://github.com/RoyZ-iwnl">@RoyZ-iwnl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/rsKliPPy"><img src="https://avatars.githubusercontent.com/u/9073673?v=4" width="64" height="64" alt="rsKliPPy" /></a><br/>
       <a href="https://github.com/rsKliPPy">@rsKliPPy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Salvatore-Als"><img src="https://avatars.githubusercontent.com/u/58212852?v=4" width="64" height="64" alt="Salvatore-Als" /></a><br/>
       <a href="https://github.com/Salvatore-Als">@Salvatore-Als</a>
@@ -1753,12 +1757,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/sapsanDev"><img src="https://avatars.githubusercontent.com/u/42625140?v=4" width="64" height="64" alt="sapsanDev" /></a><br/>
       <a href="https://github.com/sapsanDev">@sapsanDev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/sarim-hk"><img src="https://avatars.githubusercontent.com/u/58489447?v=4" width="64" height="64" alt="sarim-hk" /></a><br/>
       <a href="https://github.com/sarim-hk">@sarim-hk</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Satttoshi"><img src="https://avatars.githubusercontent.com/u/109807794?v=4" width="64" height="64" alt="Satttoshi" /></a><br/>
       <a href="https://github.com/Satttoshi">@Satttoshi</a>
@@ -1775,12 +1779,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/shmitzas"><img src="https://avatars.githubusercontent.com/u/46751666?v=4" width="64" height="64" alt="shmitzas" /></a><br/>
       <a href="https://github.com/shmitzas">@shmitzas</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/shobhit-pathak"><img src="https://avatars.githubusercontent.com/u/140690706?v=4" width="64" height="64" alt="shobhit-pathak" /></a><br/>
       <a href="https://github.com/shobhit-pathak">@shobhit-pathak</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/shuni3360"><img src="https://avatars.githubusercontent.com/u/328813756?v=4" width="64" height="64" alt="shuni3360" /></a><br/>
       <a href="https://github.com/shuni3360">@shuni3360</a>
@@ -1797,12 +1801,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/skuzzis"><img src="https://avatars.githubusercontent.com/u/61626661?v=4" width="64" height="64" alt="skuzzis" /></a><br/>
       <a href="https://github.com/skuzzis">@skuzzis</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/SlynxCZ"><img src="https://avatars.githubusercontent.com/u/88426022?v=4" width="64" height="64" alt="SlynxCZ" /></a><br/>
       <a href="https://github.com/SlynxCZ">@SlynxCZ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/sniperpl"><img src="https://avatars.githubusercontent.com/u/87908771?v=4" width="64" height="64" alt="sniperpl" /></a><br/>
       <a href="https://github.com/sniperpl">@sniperpl</a>
@@ -1819,12 +1823,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Source2ZE"><img src="https://avatars.githubusercontent.com/u/129127192?v=4" width="64" height="64" alt="Source2ZE" /></a><br/>
       <a href="https://github.com/Source2ZE">@Source2ZE</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/SpawnTerror"><img src="https://avatars.githubusercontent.com/u/39906114?v=4" width="64" height="64" alt="SpawnTerror" /></a><br/>
       <a href="https://github.com/SpawnTerror">@SpawnTerror</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/sphaxa"><img src="https://avatars.githubusercontent.com/u/25424125?v=4" width="64" height="64" alt="sphaxa" /></a><br/>
       <a href="https://github.com/sphaxa">@sphaxa</a>
@@ -1841,12 +1845,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Staaar0"><img src="https://avatars.githubusercontent.com/u/45707960?v=4" width="64" height="64" alt="Staaar0" /></a><br/>
       <a href="https://github.com/Staaar0">@Staaar0</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/stefanx111"><img src="https://avatars.githubusercontent.com/u/60297289?v=4" width="64" height="64" alt="stefanx111" /></a><br/>
       <a href="https://github.com/stefanx111">@stefanx111</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/stevefan1999-personal"><img src="https://avatars.githubusercontent.com/u/29133953?v=4" width="64" height="64" alt="stevefan1999-personal" /></a><br/>
       <a href="https://github.com/stevefan1999-personal">@stevefan1999-personal</a>
@@ -1863,12 +1867,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/SwiftlyS2-Plugins"><img src="https://avatars.githubusercontent.com/u/237630240?v=4" width="64" height="64" alt="SwiftlyS2-Plugins" /></a><br/>
       <a href="https://github.com/SwiftlyS2-Plugins">@SwiftlyS2-Plugins</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/szogun1910"><img src="https://avatars.githubusercontent.com/u/69729783?v=4" width="64" height="64" alt="szogun1910" /></a><br/>
       <a href="https://github.com/szogun1910">@szogun1910</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/T3Marius"><img src="https://avatars.githubusercontent.com/u/168598779?v=4" width="64" height="64" alt="T3Marius" /></a><br/>
       <a href="https://github.com/T3Marius">@T3Marius</a>
@@ -1885,12 +1889,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/The0mikkel"><img src="https://avatars.githubusercontent.com/u/28625667?v=4" width="64" height="64" alt="The0mikkel" /></a><br/>
       <a href="https://github.com/The0mikkel">@The0mikkel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/thechrisnixon"><img src="https://avatars.githubusercontent.com/u/672057?v=4" width="64" height="64" alt="thechrisnixon" /></a><br/>
       <a href="https://github.com/thechrisnixon">@thechrisnixon</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/TheR00st3r"><img src="https://avatars.githubusercontent.com/u/1764864?v=4" width="64" height="64" alt="TheR00st3r" /></a><br/>
       <a href="https://github.com/TheR00st3r">@TheR00st3r</a>
@@ -1907,12 +1911,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/tilgep"><img src="https://avatars.githubusercontent.com/u/66904238?v=4" width="64" height="64" alt="tilgep" /></a><br/>
       <a href="https://github.com/tilgep">@tilgep</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/tiltysola"><img src="https://avatars.githubusercontent.com/u/19757919?v=4" width="64" height="64" alt="tiltysola" /></a><br/>
       <a href="https://github.com/tiltysola">@tiltysola</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Truba55"><img src="https://avatars.githubusercontent.com/u/28046241?v=4" width="64" height="64" alt="Truba55" /></a><br/>
       <a href="https://github.com/Truba55">@Truba55</a>
@@ -1929,12 +1933,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/unicbm"><img src="https://avatars.githubusercontent.com/u/136828391?v=4" width="64" height="64" alt="unicbm" /></a><br/>
       <a href="https://github.com/unicbm">@unicbm</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/UpkkXnet"><img src="https://avatars.githubusercontent.com/u/96552017?v=4" width="64" height="64" alt="UpkkXnet" /></a><br/>
       <a href="https://github.com/UpkkXnet">@UpkkXnet</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/ValMadBox"><img src="https://avatars.githubusercontent.com/u/195292199?v=4" width="64" height="64" alt="ValMadBox" /></a><br/>
       <a href="https://github.com/ValMadBox">@ValMadBox</a>
@@ -1951,12 +1955,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?v=4" width="64" height="64" alt="weblate" /></a><br/>
       <a href="https://github.com/weblate">@weblate</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/webpashtet"><img src="https://avatars.githubusercontent.com/u/44953225?v=4" width="64" height="64" alt="webpashtet" /></a><br/>
       <a href="https://github.com/webpashtet">@webpashtet</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Wend4r"><img src="https://avatars.githubusercontent.com/u/47463683?v=4" width="64" height="64" alt="Wend4r" /></a><br/>
       <a href="https://github.com/Wend4r">@Wend4r</a>
@@ -1973,12 +1977,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/Wngui"><img src="https://avatars.githubusercontent.com/u/12588316?v=4" width="64" height="64" alt="Wngui" /></a><br/>
       <a href="https://github.com/Wngui">@Wngui</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/XBribo"><img src="https://avatars.githubusercontent.com/u/63445088?v=4" width="64" height="64" alt="XBribo" /></a><br/>
       <a href="https://github.com/XBribo">@XBribo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/xen-000"><img src="https://avatars.githubusercontent.com/u/24222257?v=4" width="64" height="64" alt="xen-000" /></a><br/>
       <a href="https://github.com/xen-000">@xen-000</a>
@@ -1995,12 +1999,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/xLeviNx"><img src="https://avatars.githubusercontent.com/u/48465241?v=4" width="64" height="64" alt="xLeviNx" /></a><br/>
       <a href="https://github.com/xLeviNx">@xLeviNx</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/y0ungsm"><img src="https://avatars.githubusercontent.com/u/84058740?v=4" width="64" height="64" alt="y0ungsm" /></a><br/>
       <a href="https://github.com/y0ungsm">@y0ungsm</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Yarukon"><img src="https://avatars.githubusercontent.com/u/61296195?v=4" width="64" height="64" alt="Yarukon" /></a><br/>
       <a href="https://github.com/Yarukon">@Yarukon</a>
@@ -2017,12 +2021,12 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
       <a href="https://github.com/yonilerner"><img src="https://avatars.githubusercontent.com/u/278810?v=4" width="64" height="64" alt="yonilerner" /></a><br/>
       <a href="https://github.com/yonilerner">@yonilerner</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/zakriamansoor47"><img src="https://avatars.githubusercontent.com/u/56433510?v=4" width="64" height="64" alt="zakriamansoor47" /></a><br/>
       <a href="https://github.com/zakriamansoor47">@zakriamansoor47</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="80">
       <a href="https://github.com/Zeisenx"><img src="https://avatars.githubusercontent.com/u/19303143?v=4" width="64" height="64" alt="Zeisenx" /></a><br/>
       <a href="https://github.com/Zeisenx">@Zeisenx</a>
@@ -2059,4 +2063,4 @@ Please feel free to submit pull requests or issues, we need your contributions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

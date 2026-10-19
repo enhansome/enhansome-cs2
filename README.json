@@ -19,7 +19,7 @@
             "open_issues": 60,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3466,
+            "stars": 3470,
             "topics": [
               "c-sharp",
               "steam",
@@ -131,7 +131,7 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T08:19:01Z",
+            "last_commit": "2026-10-19T08:25:56Z",
             "open_issues": 109,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
@@ -157,11 +157,11 @@
             "id": 20146565,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T17:03:36Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-18T20:27:32Z",
+            "open_issues": 19,
             "owner": "alliedmodders",
             "repo": "metamod-source",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "hacktoberfest",
               "metamod",
@@ -183,7 +183,7 @@
             "id": 981085694,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T16:50:49Z",
+            "last_commit": "2026-10-18T17:07:21Z",
             "open_issues": 9,
             "owner": "Kxnrl",
             "repo": "modsharp-public",
@@ -218,8 +218,8 @@
             "id": 1036227312,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T18:16:13Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-19T16:57:42Z",
+            "open_issues": 0,
             "owner": "swiftly-solution",
             "repo": "swiftlys2",
             "stars": 109,
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "perilouswithadollarsign",
             "repo": "cstrike15_src",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "cplusplus",
               "csgo",
@@ -312,7 +312,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "csgo",
               "protobuf",
@@ -338,7 +338,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "csgo",
               "protobuf",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "csgo",
               "protobuf",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "csgo",
               "protobuf",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "SteamTracking",
             "repo": "GameTracking-CS2",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "csgo",
               "protobuf",
@@ -442,7 +442,7 @@
             "open_issues": 5,
             "owner": "alliedmodders",
             "repo": "hl2sdk",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "hacktoberfest",
               "reverse-engineering",
@@ -464,7 +464,7 @@
             "id": 343620765,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-17T19:20:37Z",
+            "last_commit": "2026-10-18T18:31:46Z",
             "open_issues": 16,
             "owner": "Wend4r",
             "repo": "sourcesdk",
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 363 ⏱️ updated 2 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 363 ⏱️ updated 3 days ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -506,10 +506,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-16T01:08:15Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
-                "stars": 363,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 207 ⏱️ updated 1 hour ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 208 ⏱️ updated 7 hours ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -526,8 +526,8 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T02:38:11Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-18T20:38:29Z",
+                "open_issues": 28,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
                 "stars": 208,
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/MultiAddonManager",
-              "description": "⭐ 132 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
+              "description": "⭐ 133 ⏱️ updated 2 weeks ago A plugin that allows you to use multiple workshop addons at once and have clients download them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -558,7 +558,7 @@
                 "open_issues": 7,
                 "owner": "Source2ZE",
                 "repo": "MultiAddonManager",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 64 ⏱️ updated 1 week ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 64 ⏱️ updated 2 weeks ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,7 +722,7 @@
             {
               "node_type": "item",
               "title": "Interesting-exe/CS2Fixes-RampbugFix",
-              "description": "⭐ 36 ⏱️ updated 5 months ago Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.",
+              "description": "⭐ 36 ⏱️ updated 22 hours ago Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
                 "open_issues": 0,
                 "owner": "Interesting-exe",
                 "repo": "CS2Fixes-RampbugFix",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 31 ⏱️ updated 32 minutes ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 31 ⏱️ updated 1 day ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "GAMMACASE/Source2SchemaDumper",
-              "description": "⭐ 28 ⏱️ updated 3 days ago A plugin that can dump the schemas and generate a header file.",
+              "description": "⭐ 28 ⏱️ updated 4 days ago A plugin that can dump the schemas and generate a header file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Controller",
-              "description": "⭐ 25 ⏱️ updated 32 minutes ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
+              "description": "⭐ 25 ⏱️ updated 1 day ago CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -901,7 +901,7 @@
             {
               "node_type": "item",
               "title": "shobhit-pathak/MatchZy",
-              "description": "⭐ 507 ⏱️ updated 2 weeks ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
+              "description": "⭐ 507 ⏱️ updated 21 hours ago MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
                 "open_issues": 137,
                 "owner": "shobhit-pathak",
                 "repo": "MatchZy",
-                "stars": 507,
+                "stars": 506,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "Nereziel/cs2-WeaponPaints",
-              "description": "⭐ 416 ⏱️ updated 1 week ago A plugin to change weapon paints, gloves, agents and etc.",
+              "description": "⭐ 416 ⏱️ updated 2 weeks ago A plugin to change weapon paints, gloves, agents and etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -962,7 +962,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-retakes",
-              "description": "⭐ 321 ⏱️ updated 4 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
+              "description": "⭐ 321 ⏱️ updated 5 days ago CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -975,7 +975,7 @@
                 "open_issues": 4,
                 "owner": "B3none",
                 "repo": "cs2-retakes",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "counter-strike-2",
                   "counterstrikesharp",
@@ -990,7 +990,7 @@
             {
               "node_type": "item",
               "title": "daffyyyy/CS2-SimpleAdmin",
-              "description": "⭐ 190 ⏱️ updated 1 day ago Manage your Counter-Strike 2 server with simple commands!",
+              "description": "⭐ 190 ⏱️ updated 2 days ago Manage your Counter-Strike 2 server with simple commands!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1003,7 @@
                 "open_issues": 62,
                 "owner": "daffyyyy",
                 "repo": "CS2-SimpleAdmin",
-                "stars": 190,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1024,7 +1024,7 @@
                 "open_issues": 13,
                 "owner": "counterstrikesharp-panel",
                 "repo": "css-bans",
-                "stars": 146,
+                "stars": 145,
                 "topics": [
                   "admin-panel",
                   "counter-strike-2",
@@ -1125,7 +1125,7 @@
             {
               "node_type": "item",
               "title": "partiusfabaa/cs2-VIPCore",
-              "description": "⭐ 75 ⏱️ updated 1 day ago A vip plugin for cs2.",
+              "description": "⭐ 75 ⏱️ updated 2 days ago A vip plugin for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1238,7 +1238,7 @@
             {
               "node_type": "item",
               "title": "B3none/cs2-instadefuse",
-              "description": "⭐ 68 ⏱️ updated 3 days ago A plugin that allows players to instantly defuse the bomb.",
+              "description": "⭐ 68 ⏱️ updated 4 days ago A plugin that allows players to instantly defuse the bomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,7 +1382,7 @@
                 "open_issues": 2,
                 "owner": "KillStr3aK",
                 "repo": "ResourcePrecacher",
-                "stars": 45,
+                "stars": 44,
                 "topics": [
                   "counter-strike-2",
                   "counterstrikesharp",
@@ -1440,7 +1440,7 @@
                 "open_issues": 11,
                 "owner": "zwolof",
                 "repo": "cs2-executes",
-                "stars": 38,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1469,7 +1469,7 @@
             {
               "node_type": "item",
               "title": "darkerz7/EntWatchSharp",
-              "description": "⭐ 32 ⏱️ updated 2 weeks ago Notify players about entity interactions.",
+              "description": "⭐ 32 ⏱️ updated 8 hours ago Notify players about entity interactions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1478,8 +1478,8 @@
                 "id": 840976623,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T10:16:52Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-19T06:42:46Z",
+                "open_issues": 0,
                 "owner": "darkerz7",
                 "repo": "EntWatchSharp",
                 "stars": 32,
@@ -1631,32 +1631,6 @@
             },
             {
               "node_type": "item",
-              "title": "wiruwiru/AutomaticAds-CS2",
-              "description": "⭐ 23 ⏱️ updated 2 months ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Allows server administrators to configure an advertisement to be sent automatically, at the moment of sending it, a sound is also played so that users pay attention to the advertisement. (for CounterStrikeSharp)",
-                "homepage": null,
-                "id": 865036038,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-29T04:46:26Z",
-                "open_issues": 3,
-                "owner": "wiruwiru",
-                "repo": "AutomaticAds-CS2",
-                "stars": 23,
-                "topics": [
-                  "counter-strike-2",
-                  "counterstrikesharp",
-                  "cs2",
-                  "metamod"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
               "title": "Kandru/cs2-update-manager",
               "description": "⭐ 23 ⏱️ updated 4 months ago The Plugin Update Manager is a plugin for Counter-Strike 2 designed to automatically update all your other plugins.",
               "children": [],
@@ -1674,6 +1648,32 @@
                 "stars": 23,
                 "topics": [
                   "cssharp"
+                ]
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
+              "title": "wiruwiru/AutomaticAds-CS2",
+              "description": "⭐ 23 ⏱️ updated 2 months ago This plugin allows you to schedule and display announcements in the chat at customizable intervals. Each announcement is accompanied by a brief sound effect to capture players' attention seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Allows server administrators to configure an advertisement to be sent automatically, at the moment of sending it, a sound is also played so that users pay attention to the advertisement. (for CounterStrikeSharp)",
+                "homepage": null,
+                "id": 865036038,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-29T04:46:26Z",
+                "open_issues": 3,
+                "owner": "wiruwiru",
+                "repo": "AutomaticAds-CS2",
+                "stars": 22,
+                "topics": [
+                  "counter-strike-2",
+                  "counterstrikesharp",
+                  "cs2",
+                  "metamod"
                 ]
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -1726,7 +1726,7 @@
             {
               "node_type": "item",
               "title": "Kandru/cs2-roll-the-dice",
-              "description": "⭐ 21 ⏱️ updated 1 day ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
+              "description": "⭐ 21 ⏱️ updated 2 days ago This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2121,29 +2121,6 @@
             },
             {
               "node_type": "item",
-              "title": "Kandru/cs2-demo-recorder",
-              "description": "⭐ 14 ⏱️ updated 4 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "a simple Counter-Strike 2 Demo Recorder",
-                "homepage": null,
-                "id": 795146343,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-05-30T23:29:15Z",
-                "open_issues": 0,
-                "owner": "Kandru",
-                "repo": "cs2-demo-recorder",
-                "stars": 14,
-                "topics": [
-                  "cssharp"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:37.915Z"
-            },
-            {
-              "node_type": "item",
               "title": "B3none/cs2-instaplant",
               "description": "⭐ 14 ⏱️ updated 2 years ago Plant the bomb instantly as a terrorist.",
               "children": [],
@@ -2188,8 +2165,31 @@
             },
             {
               "node_type": "item",
+              "title": "Kandru/cs2-demo-recorder",
+              "description": "⭐ 14 ⏱️ updated 4 months ago This tool automatically start a recording whenever someone is on your server. It makes sure to stop the recording before the level is being changed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "a simple Counter-Strike 2 Demo Recorder",
+                "homepage": null,
+                "id": 795146343,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-30T23:29:15Z",
+                "open_issues": 0,
+                "owner": "Kandru",
+                "repo": "cs2-demo-recorder",
+                "stars": 13,
+                "topics": [
+                  "cssharp"
+                ]
+              },
+              "first_seen": "2026-08-28T21:11:37.915Z"
+            },
+            {
+              "node_type": "item",
               "title": "Kandru/cs2-challenges",
-              "description": "⭐ 13 ⏱️ updated 1 day ago This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).",
+              "description": "⭐ 13 ⏱️ updated 2 days ago This plugin allows you to create Challenges for players. Challenges are tasks that players need to complete within a certain time frame (e.g., daily, weekly, monthly).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2756,7 +2756,7 @@
             {
               "node_type": "item",
               "title": "asapverneri/CS2-Gunsmenu",
-              "description": "⭐ 4 ⏱️ updated 6 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
+              "description": "⭐ 4 ⏱️ updated 7 months ago Up to date and lightweight gunmenu for CS2, allowing players to choose guns at any time of the round.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3163,7 +3163,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 1 day ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 2 days ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3176,7 +3176,7 @@
                 "open_issues": 13,
                 "owner": "samyycX",
                 "repo": "WeaponSkins",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:37.915Z"
@@ -3268,7 +3268,7 @@
             {
               "node_type": "item",
               "title": "SwiftlyS2-Plugins/VIPCore",
-              "description": "⭐ 7 ⏱️ updated 4 days ago A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.",
+              "description": "⭐ 7 ⏱️ updated 5 days ago A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3359,7 +3359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:02:38.341Z",
+    "last_updated": "2026-10-19T16:59:36.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3367,7 +3367,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-18T04:09:29Z",
+      "last_commit": "2026-10-19T04:18:17Z",
       "open_issues": 0,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3382,7 +3382,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "1eb9ef61ceb7298f95a51f578dba1c3f92278303",
+    "original_repository_sha": "729120b14c9abd5915fd890912a8ade6da4ecf87",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
