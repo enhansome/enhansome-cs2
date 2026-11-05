@@ -4,7 +4,7 @@
   An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 </p>
 <p>
-  Last Sync: <strong>2026/11/03 06:18:40</strong>
+  Last Sync: <strong>2026/11/04 05:53:55</strong>
 </p>
 <p>
   Project Uptime: <strong>1 year</strong>
@@ -44,10 +44,10 @@
 
 # Tools
 
-* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,507 | 🐛 65 | 🌐 C# | 📅 2026-11-04**\
+* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader) ⭐ 3,510 | 🐛 66 | 🌐 C# | 📅 2026-11-04**\
   *A tool to download game files of a specific version.*
 
-* **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-10-11**\
+* **[VPulse Editor](https://github.com/LionDoge/vpulse-editor) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-11-05**\
   *A visual programming tool to write the vpulse script, which is a new unreleased visualized script system for source2 to replace vscript.*
 
 * **[Schema Dumper](https://github.com/GAMMACASE/Source2SchemaDumper) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-10-24**\
@@ -64,12 +64,12 @@
 * **[SteamDB](https://steamdb.info/app/730/charts/)**\
   *A website tracking steam games information.*
 
-* **[cs2-signatures](https://github.com/ianlucas/cs2-signatures) ⭐ 126 | 🐛 0 | 📅 2026-11-03**\
+* **[cs2-signatures](https://github.com/ianlucas/cs2-signatures) ⭐ 126 | 🐛 0 | 📅 2026-11-05**\
   *A github repo for tracking gamedata status after a game update.*
 
 # Modding Frameworks
 
-* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,387 | 🐛 111 | 🌐 C# | 📅 2026-11-02** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
+* **[CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ⭐ 1,386 | 🐛 113 | 🌐 C# | 📅 2026-11-05** \[[Website](https://docs.cssharp.dev/)] \[[Discord](https://discord.com/invite/eAZU3guKWU)]\
   *The most popular modding framework for cs2, the plugins are written in c#.*\
   *Alias: CS#, cssharp*
 
@@ -77,10 +77,10 @@
   *The cobblestone of all of the current open source framework since source1, written in C++, hard to develop but have access to fundamental things.*\
   ***Please notice that it's the dev branch that support cs2, make sure you download the right version.***
 
-* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 118 | 🐛 0 | 🌐 C# | 📅 2026-11-03** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
+* **[SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) ⭐ 118 | 🐛 1 | 🌐 C# | 📅 2026-11-05** \[[Website](https://swiftlys2.net)] \[[Discord](https://swiftlys2.net/discord)]\
   *A modding framework that support c#, with more features than counterstrikesharp.*
 
-* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 115 | 🐛 9 | 🌐 C# | 📅 2026-10-29** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
+* **[Modsharp](https://github.com/Kxnrl/modsharp-public) ⭐ 115 | 🐛 9 | 🌐 C# | 📅 2026-11-05** \[[Website](https://docs.modsharp.net/)] \[[Discord](https://discord.com/invite/wKarAjHm2G)]
   *Modern Source 2 Modding Solution.*
 
 * **[Plugify](https://github.com/untrustedmodders/plugify) ⭐ 88 | 🐛 2 | 🌐 C++ | 📅 2026-11-03** \[[Website](https://plugify.net)] \[[Discord](https://discord.gg/untrustedmodders)]\
@@ -93,23 +93,23 @@ These are the websites with resources that you might need to check during develo
 * **[cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) ⭐ 1,675 | 🐛 5 | 🌐 C++ | 📅 2024-02-18**\
   *CSGO Leaked source code in 2020, cs2 is still using some codes from it.*
 
-* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03**\
+* **[ConVars](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/convars.txt) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05**\
   *A list of all cs2 convars, directly dumped from latest cs2 binary.*
 
-* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03**\
+* **[Commands](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/DumpSource2/commands.txt) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05**\
   *A list of all cs2 commands, directly dumped from latest cs2 binary.*
 
 * **[Game Events](https://cs2.poggu.me/dumped-data/game-events)**\
   *A list of all cs2 game events.*\
   *The data might be outdated, if so, you can find the latest ones here:*\
-  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03*
-  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03*
-  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03*
+  *[core.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/core/pak01_dir/resource/core.gameevents) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05*
+  *[game.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/game.gameevents) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05*
+  *[mod.gameevents](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/game/csgo/pak01_dir/resource/mod.gameevents) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05*
 
-* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03**\
+* **[Schemas](https://github.com/SteamDatabase/GameTracking-CS2/tree/master/DumpSource2/schemas) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05**\
   *A list of all cs2 schema classes and fields, directly dumped from latest cs2 binary.*
 
-* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 979 | 🐛 0 | 🌐 Slang | 📅 2026-11-03**\
+* **[Protobufs](https://github.com/SteamDatabase/GameTracking-CS2/blob/master/Protobufs) ⭐ 980 | 🐛 0 | 🌐 Slang | 📅 2026-11-05**\
   *A list of all cs2 protobuf definitions.*
 
 * **[HL2SDK](https://github.com/alliedmodders/hl2sdk/tree/cs2) ⭐ 469 | 🐛 6 | 🌐 C++ | 📅 2026-11-01**\
@@ -176,17 +176,17 @@ These are the websites with resources that you might need to check during develo
 
 ## Metamod Plugins
 
-* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 362 | 🐛 12 | 🌐 C++ | 📅 2026-11-02**<br>
+* **[Source2ZE/CS2Fixes](https://github.com/Source2ZE/CS2Fixes) ⭐ 362 | 🐛 12 | 🌐 C++ | 📅 2026-11-05**<br>
   ⭐ 362<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 2 hours ago<br>
   *A plugin with tons of fixes and features aimed but not limited to zombie escape.*
 
-* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 210 | 🐛 26 | 🌐 C++ | 📅 2026-10-28**<br>
+* **[KZGlobalTeam/cs2kz-metamod](https://github.com/KZGlobalTeam/cs2kz-metamod) ⭐ 210 | 🐛 27 | 🌐 C++ | 📅 2026-10-28**<br>
   ⭐ 210<br>
-  ⏱️ updated 6 days ago<br>
+  ⏱️ updated 1 week ago<br>
   *KZ plugin for cs2. WIP, not ready for release.*
 
-* **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 136 | 🐛 8 | 🌐 C++ | 📅 2026-10-27**<br>
+* **[Source2ZE/MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) ⭐ 136 | 🐛 7 | 🌐 C++ | 📅 2026-10-27**<br>
   ⭐ 136<br>
   ⏱️ updated 1 week ago<br>
   *A plugin that allows you to use multiple workshop addons at once and have clients download them.*
@@ -231,9 +231,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 2 weeks ago<br>
   *Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.*
 
-* **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 33 | 🐛 3 | 🌐 C++ | 📅 2026-11-04**<br>
+* **[XBribo/CS2-Bot-Hider](https://github.com/XBribo/CS2-Bot-Hider) ⭐ 33 | 🐛 3 | 🌐 C++ | 📅 2026-11-05**<br>
   ⭐ 33<br>
-  ⏱️ updated 4 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.*
 
 * **[Source2ZE/AcceleratorCS2](https://github.com/Source2ZE/AcceleratorCS2) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2026-09-08**<br>
@@ -246,9 +246,9 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 week ago<br>
   *A plugin that can dump the schemas and generate a header file.*
 
-* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 28 | 🐛 3 | 🌐 C++ | 📅 2026-11-04**<br>
+* **[XBribo/CS2-Bot-Controller](https://github.com/XBribo/CS2-Bot-Controller) ⭐ 28 | 🐛 3 | 🌐 C++ | 📅 2026-11-05**<br>
   ⭐ 28<br>
-  ⏱️ updated 4 hours ago<br>
+  ⏱️ updated 3 hours ago<br>
   *CS2-Bot-Controller(CS2-Bot-Mimic2) is a plugin that takes control of a bot's behaviour.*
 
 * **[Cruze03/GameBanFix](https://github.com/Cruze03/GameBanFix) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-10-23**<br>
@@ -263,19 +263,19 @@ These are the websites with resources that you might need to check during develo
 
 ## CounterStrikeSharp Plugins
 
-* **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy) ⭐ 508 | 🐛 145 | 🌐 C# | 📅 2026-10-18**<br>
+* **[shobhit-pathak/MatchZy](https://github.com/shobhit-pathak/MatchZy) ⭐ 508 | 🐛 146 | 🌐 C# | 📅 2026-10-18**<br>
   ⭐ 508<br>
   ⏱️ updated 2 weeks ago<br>
   *MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration!*
 
-* **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) ⭐ 419 | 🐛 17 | 🌐 C# | 📅 2026-11-02**<br>
+* **[Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) ⭐ 418 | 🐛 17 | 🌐 C# | 📅 2026-11-02**<br>
   ⭐ 419<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A plugin to change weapon paints, gloves, agents and etc.*
 
 * **[B3none/cs2-retakes](https://github.com/B3none/cs2-retakes) ⭐ 322 | 🐛 4 | 🌐 C# | 📅 2026-11-02**<br>
   ⭐ 322<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *CS2 implementation of retakes written in C# for CounterStrikeSharp. Based on the version for CS:GO by Splewis.*
 
 * **[daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) ⭐ 191 | 🐛 65 | 🌐 C# | 📅 2026-10-16**<br>
@@ -285,7 +285,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[counterstrikesharp-panel/css-bans](https://github.com/counterstrikesharp-panel/css-bans) ⭐ 144 | 🐛 13 | 🌐 SCSS | 📅 2026-10-07**<br>
   ⭐ 144<br>
-  ⏱️ updated 3 weeks ago<br>
+  ⏱️ updated 4 weeks ago<br>
   *CSS-BANS is an admin web panel for Counter-Strike 2, powered by CounterStrikeSharp.*
 
 * **[samyycX/CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger) ⭐ 138 | 🐛 16 | 🌐 C# | 📅 2026-10-09**<br>
@@ -305,7 +305,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[partiusfabaa/cs2-VIPCore](https://github.com/partiusfabaa/cs2-VIPCore) ⭐ 78 | 🐛 36 | 🌐 C# | 📅 2026-11-01**<br>
   ⭐ 78<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A vip plugin for cs2.*
 
 * **[Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances) ⭐ 76 | 🐛 2 | 🌐 C# | 📅 2026-09-25**<br>
@@ -425,7 +425,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[Kandru/cs2-roll-the-dice](https://github.com/Kandru/cs2-roll-the-dice) ⭐ 21 | 🐛 4 | 🌐 C# | 📅 2026-10-30**<br>
   ⭐ 21<br>
-  ⏱️ updated 4 days ago<br>
+  ⏱️ updated 5 days ago<br>
   *This plugin lets your players roll the dice each round (at any time during an round) to get either a positive or negative effect for the current round.*
 
 * **[samyycX/CS2-SkyboxChanger](https://github.com/samyycX/CS2-SkyboxChanger) ⭐ 20 | 🐛 3 | 🌐 C# | 📅 2026-10-09**<br>
@@ -450,7 +450,7 @@ These are the websites with resources that you might need to check during develo
 
 * **[qstage/CS2-FixRandomSpawn](https://github.com/qstage/CS2-FixRandomSpawn) ⭐ 19 | 🐛 1 | 🌐 C# | 📅 2026-10-05**<br>
   ⭐ 19<br>
-  ⏱️ updated 4 weeks ago<br>
+  ⏱️ updated 1 month ago<br>
   *Fixes convar `mp_randomspawn` for any game mode.*
 
 * **[KKNecmi/ThirdPerson-Revamped](https://github.com/KKNecmi/ThirdPerson-Revamped) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2026-08-25**<br>
@@ -558,7 +558,7 @@ These are the websites with resources that you might need to check during develo
   ⏱️ updated 1 month ago<br>
   *Fixes game\_player\_equip, game\_ui, IgniteLifeTime, point\_viewcontrol, trigger\_gravity. Idea taken from cs2fixes.*
 
-* **[NeuTroNBZh/CS2-AdminTools](https://github.com/NeuTroNBZh/CS2-AdminTools) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-08-24**<br>
+* **[NeuTroNBZh/CS2-AdminTools](https://github.com/NeuTroNBZh/CS2-AdminTools) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2026-08-24**<br>
   ⭐ 8<br>
   ⏱️ updated 2 months ago<br>
   *Admin toolkit for private/custom servers — wallhack, invisibility, god mode, speed boost and more, with CS2-SimpleAdmin menu integration.*
@@ -744,7 +744,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[samyycX/WeaponSkins](https://github.com/samyycX/WeaponSkins) ⭐ 37 | 🐛 15 | 🌐 C# | 📅 2026-11-02**<br>
   ⭐ 37<br>
-  ⏱️ updated 2 days ago<br>
+  ⏱️ updated 3 days ago<br>
   *A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.*
 
 * **[SwiftlyS2-Plugins/AddonsManager](https://github.com/SwiftlyS2-Plugins/AddonsManager) ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-10-23**<br>
@@ -754,7 +754,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[SwiftlyS2-Plugins/MapChooser](https://github.com/SwiftlyS2-Plugins/MapChooser) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-11-02**<br>
   ⭐ 14<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *A powerful and customizable map voting system for SwiftlyS2.*
 
 * **[SwiftlyS2-Plugins/Admins](https://github.com/SwiftlyS2-Plugins/Admins) ⭐ 13 | 🐛 3 | 🌐 C# | 📅 2026-07-06**<br>
@@ -769,7 +769,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[SwiftlyS2-Plugins/VIPCore](https://github.com/SwiftlyS2-Plugins/VIPCore) ⭐ 8 | 🐛 4 | 🌐 C# | 📅 2026-11-03**<br>
   ⭐ 8<br>
-  ⏱️ updated 7 hours ago<br>
+  ⏱️ updated 1 day ago<br>
   *A comprehensive VIP management system for Counter-Strike 2 servers running SwiftlyS2.*
 
 * **[SwiftlyS2-Plugins/Economy](https://github.com/SwiftlyS2-Plugins/Economy) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-03-14**<br>
@@ -779,7 +779,7 @@ Check [Forum](https://forum.swiftlys2.net/) for all swiftlys2 plugins.
 
 * **[SwiftlyS2-Plugins/Cookies](https://github.com/SwiftlyS2-Plugins/Cookies) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-02**<br>
   ⭐ 6<br>
-  ⏱️ updated 1 day ago<br>
+  ⏱️ updated 2 days ago<br>
   *Server/Client persistent variables.*
 
 * **[SwiftlyS2-Plugins/MenuFlickeringFix](https://github.com/SwiftlyS2-Plugins/MenuFlickeringFix) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2025-11-12**<br>
@@ -2077,4 +2077,4 @@ Please feel free to submit pull requests or issues, we need your contributions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
