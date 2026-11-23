@@ -15,11 +15,11 @@
             "id": 11851957,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T11:57:57Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-23T19:43:20Z",
+            "open_issues": 68,
             "owner": "SteamRE",
             "repo": "DepotDownloader",
-            "stars": 3553,
+            "stars": 3552,
             "topics": [
               "c-sharp",
               "steam",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "LionDoge",
             "repo": "vpulse-editor",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:37.915Z"
@@ -131,7 +131,7 @@
             "id": 700750483,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T08:12:47Z",
+            "last_commit": "2026-11-23T08:15:56Z",
             "open_issues": 121,
             "owner": "roflmuffin",
             "repo": "CounterStrikeSharp",
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/CS2Fixes",
-              "description": "⭐ 364 ⏱️ updated 19 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
+              "description": "⭐ 364 ⏱️ updated 12 hours ago A plugin with tons of fixes and features aimed but not limited to zombie escape.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -505,8 +505,8 @@
                 "id": 695646152,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-22T17:42:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-22T18:37:11Z",
+                "open_issues": 10,
                 "owner": "Source2ZE",
                 "repo": "CS2Fixes",
                 "stars": 364,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "KZGlobalTeam/cs2kz-metamod",
-              "description": "⭐ 212 ⏱️ updated 2 days ago KZ plugin for cs2. WIP, not ready for release.",
+              "description": "⭐ 212 ⏱️ updated 3 days ago KZ plugin for cs2. WIP, not ready for release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -526,7 +526,7 @@
                 "id": 700560333,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T06:29:47Z",
+                "last_commit": "2026-11-23T08:38:33Z",
                 "open_issues": 30,
                 "owner": "KZGlobalTeam",
                 "repo": "cs2kz-metamod",
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "Source2ZE/ServerListPlayersFix",
-              "description": "⭐ 70 ⏱️ updated 4 weeks ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
+              "description": "⭐ 70 ⏱️ updated 1 month ago Populates the user information inside the steam api, as a result this fixes the players not showing up in the server browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "Salvatore-Als/cs2-fake-rcon",
-              "description": "⭐ 64 ⏱️ updated 19 hours ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
+              "description": "⭐ 64 ⏱️ updated 1 day ago Fakercon adds the fake_rcon_password and fake_rcon commands because Valve has not integrated the original command into the game (or it is broken).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "XBribo/CS2-Bot-Hider",
-              "description": "⭐ 34 ⏱️ updated 2 days ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
+              "description": "⭐ 34 ⏱️ updated 3 days ago CS2-Bot-Hider is a plugins that can disguise CS2 bots as real players.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -845,7 +845,7 @@
             {
               "node_type": "item",
               "title": "Cruze03/GameBanFix",
-              "description": "⭐ 24 ⏱️ updated 4 weeks ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
+              "description": "⭐ 24 ⏱️ updated 1 month ago Fixes issue where if a player with game ban joins, other players even without a ban are then unable to join.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -911,7 +911,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-13T17:13:34Z",
-                "open_issues": 147,
+                "open_issues": 149,
                 "owner": "shobhit-pathak",
                 "repo": "MatchZy",
                 "stars": 511,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "Nereziel/cs2-WeaponPaints",
-              "description": "⭐ 420 ⏱️ updated 4 days ago A plugin to change weapon paints, gloves, agents and etc.",
+              "description": "⭐ 420 ⏱️ updated 1 hour ago A plugin to change weapon paints, gloves, agents and etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +950,7 @@
                 "id": 714705624,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T00:34:10Z",
+                "last_commit": "2026-11-23T07:55:41Z",
                 "open_issues": 9,
                 "owner": "Nereziel",
                 "repo": "cs2-WeaponPaints",
@@ -1154,7 +1154,7 @@
             {
               "node_type": "item",
               "title": "partiusfabaa/cs2-VIPCore",
-              "description": "⭐ 78 ⏱️ updated 3 weeks ago A vip plugin for cs2.",
+              "description": "⭐ 78 ⏱️ updated 16 minutes ago A vip plugin for cs2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1163,8 +1163,8 @@
                 "id": 719620787,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-01T12:18:15Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-23T07:54:23Z",
+                "open_issues": 36,
                 "owner": "partiusfabaa",
                 "repo": "cs2-VIPCore",
                 "stars": 78,
@@ -1861,7 +1861,7 @@
             {
               "node_type": "item",
               "title": "KKNecmi/ThirdPerson-Revamped",
-              "description": "⭐ 19 ⏱️ updated 2 months ago A modern, improved third-person camera plugin for Counter-Strike 2.",
+              "description": "⭐ 19 ⏱️ updated 3 months ago A modern, improved third-person camera plugin for Counter-Strike 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2412,7 +2412,7 @@
             {
               "node_type": "item",
               "title": "darkerz7/CSSharp-Fixes",
-              "description": "⭐ 7 ⏱️ updated 1 month ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
+              "description": "⭐ 7 ⏱️ updated 2 months ago CS#Fixes is a CounterStrikeSharp plugin that fixes some bugs in Counter-Strike 2 and adds some commonly requested features.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3196,7 +3196,7 @@
             {
               "node_type": "item",
               "title": "samyycX/WeaponSkins",
-              "description": "⭐ 36 ⏱️ updated 17 hours ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
+              "description": "⭐ 36 ⏱️ updated 1 day ago A powerful swiftlys2 plugin to change player's weapon skins, knifes and gloves.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3206,7 +3206,7 @@
                 "language": "C#",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-21T22:54:07Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "samyycX",
                 "repo": "WeaponSkins",
                 "stars": 36,
@@ -3392,7 +3392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:51:44.806Z",
+    "last_updated": "2026-11-23T22:03:56.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.",
@@ -3400,7 +3400,7 @@
       "id": 1044894376,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-22T16:05:08Z",
+      "last_commit": "2026-11-23T07:09:24Z",
       "open_issues": 1,
       "owner": "samyycX",
       "repo": "awesome-cs2",
@@ -3415,7 +3415,7 @@
         "cs2"
       ]
     },
-    "original_repository_sha": "18000cae7e5c37db963b52bc38ed23b5f9ff8c15",
+    "original_repository_sha": "cae552578f43ef83a221c2ab1364273e00cc0043",
     "enhanced_repository": "enhansome/enhansome-cs2",
     "enhanced_repository_description": null,
     "title": "Awesome General with stars"
